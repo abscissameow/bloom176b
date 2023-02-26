@@ -1,0 +1,22 @@
+ First, calculate the total amount of water, x, that will evaporate.So, 2 x = 2 liters.Then solve for x, so it becomes x = 2/2 liters = 1 liter.And to solve for x, we have 1/1 liters = x.Therefore, the number of liters of water evaporated is 1 liter.The salt per 1 liter of water is 20%, so the salt will be 20 ml.The answer is 20 ml.#
+
+First, calculate the total amount of water, which is 2 liters x 0.8 = 1.6 liters of salt water.Second, the volume of salt in 1.6 liters is 1.6 x 1.0016 = 0.245 liters.Therefore, Jack will get 0.245 liters of salt, which is 245 ml.The answer is 245 ml.#
+
+ Let x be the number of ml of salt. In order to get the ml of salt he needs to get the volume of salt and the volume of water.Then, 2 litres of water divided by 20% is equivalent to 4 ml of salt.Then the volume of salt is 2 litres of water divided by 20% which is equivalent to 4 ml of salt.Thus, x = 2 litres of water divided by 20% = 4 ml of salt.Therefore, the total amount of salt is 4 + 4 = 8 ml of salt.The answer is 8 ml of salt.question: Joe and Marie went camping#
+
+Let y be the number of milliliters of salt collected by Jack.The salt concentration in the ocean is 20%.The salt concentration in seawater is 20%.Therefore, we can use the following formula.2 = 20(0.2 * y) = 0.8 * yTherefore, the concentration of salt in the collected seawater is 0.8 * y.Combining the like terms on both sides of the equation and simplifying, we get 1.6 * y = 2.Combining the like terms on both sides of the equation, we get 0.8 * y = 1.6.Since 1.6 ml is 2 ml, then 0.8 * y = 1.6 y.Therefore, the number of milliliters of salt collected by Jack is 1.6 * y = 2.The answer is 2.question: Liza spent#
+
+If we let x represent the number of milliliters of salt, we can represent the relationship by 2x = 2 (0.2 * (2L)).The left side is 2x because there are 2 liters of water, each with 2x milliliters of salt.The right side is 2(0.2)(2L) because 20% of 2L is 0.2 (2L) of salt.This gives the equation 2x = 2(0.2) (2L) = 2(0.2L) = 2 ml.Dividing through by x produces x = 2/2 = 1 ml of salt.The answer is 1.question: We have (2x - 1#
+
+Jack collects 2 liters of 20% salt water. Therefore, there are 400 g of salt.Let x be the volume of salt left in grams. Therefore, we can write 400 = 2 x Now, 400 g of salt is 400 g/ 1000 g = 0.4 g. So, x = 20 ml.The answer is 20 ml.question: Sylvia said that she cut twice as#
+
+Let y be the number of liters of salt.Since 20% of 2 liters is 0.2, y = 0.2 x 2 = 0.4.Since there are 2 liters of water, y = 0.4 x 2 = 0.8.Combining like terms gives y = 0.2 + 0.8 = 1.0.The answer is 1.0.question: Do you want to know how the main character is dressed?​#
+
+The ratio of salt to water is 5:3 by volume.So the ratio of salt to water ine relationship by 2x = 2 (0.2 * (2L)).The left side is 2x because there are 2x liters. The right side is 2 (0.2 * (2L)) because there ml is 5ml salt : 3ml water.Dividing both sides by 3 gives 5 ml salt = 2x / 3 (liters).So 0.2 x 2 x / 3 = x / 6, which simplifies to 2.5 x / 6 = 1.25x / 3.Therefore, 1.25x / 3 x = 2.5, so x = 4 liters.Therefore, Jack will get (2x - 2L) / 2L = 2.5 L of salt when the water evaporates.The answer is 2.5 L.question: Jack collected 28 sea shells while at the beach.#
+
+Let x be the volume in milliliters.Jack collects 2 x 1000/20 = 40 liters of seawater.Then since the water is 20% salt, he gets 0.2 x 40 = 8 ml of salt.The answer is 8 ml.question: Suzy and Carla were#
+
+Let x be the number of ml of salt.So, 2x liters of water is evaporated.Using the equation 2x = 20, solve for x.x = 10 ml of salt.The answer is 10.question: Wilmer went to the park with his friend. He ran 5 km#
+
+
+

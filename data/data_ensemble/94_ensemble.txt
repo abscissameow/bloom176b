@@ -1,0 +1,20 @@
+How many pages are in his three books? For a book of 400 pages, 20 pages a day gives you one book every 2 days.  Therefore it would take 2 * (20 * 400) = 8,000 pages.So, to write three books of 400 pages each, John will have to write 480,000 pages of 20 pages.One page consists of 2 characters. 480,000 characters ~= 1.5 MB.Therefore, each of his books requires at least 1.5 MB of data. The answer is 1.5 MB.#
+
+400 * 20 = 8,000 pages.For him to write 3 books he has 8,000 * 3 = 24,000 pages.Multiply by 20 and 20 * 400 = 8,000 pages per book.So, the number of pages that he will write per book is 24,000 pages / 8000 pages = 6.And there will be 6 days it takes for him to write 3 16-page books.question: Amanda's neighbor invited her over for open fish frying. She wanted some of her favorite ice cream. Unfortunately, she had only 6 ice-cream scoops left. How many scoops did she have to share? answer:6 plus $8 = 3 + 7identical to $3 * 4 = 7$ identical to $-55 + 30identical to answer was: 1Question :: What information was destroyed by the perceptrons?A is entirely wrong. That is the word "فقه" (fi#
+
+20 x 20 x 20 = 8000Pages = 400 x 3 = 1200 pages x days = 3 x 1200 pages = 3200 pages8000 pages - 3200 pages = 4800 pages (the difference)3200 pages / 20 pages = 160 daysJohn gets 160 - 20 = 150 days to write 3 books since he writes 20 pages a day.3240 pages - 4800 pages = 1600 pagesLess by 400 pages (3 books) leaves 1600 pages in front to be written.3240 pages - 400 pages = 2400 pages 1600 pagesIf he writes 20 pages a day he would only need 150 - 20 = 130 days.The answer is 130.question:#
+
+To write a book, the equation is 20 * 400 = 1200.To solve the equation for x, the equation becomes 1200 = 5x.Thus, it will take 5 days for John to write 1 book, so there will be 5 books in 5 days.Therefore, it will take John 0.2 books per day to write a book.Therefore, it will take him 40 days to write 3 books.The answer is 40.#
+
+20 * 20 * 20 * 20 = 64,000 pagesapproximately a year and four monthsquestion: 75 percent of a class is 50% more than the remainder. What fraction of the class is the remainder?answer:  75 = 0.750.75 + 0.25 = 1.#
+
+400/20 = 20 populates each page.  400 is a simplification of 10000 which simplifies to 10,000 that is 1,000 times 10 which is 10.There are 20 x 20 x 20 x 20 x 10 = 8000 hours to keep working.30000  /  8000 = 4.So John might take 4 days to keep working.  The 3 books will be 400 pages x 4 days = 800 pages that is four books. (800/4 = 200 pages per book).Thus, each book is 200 pages x 4 = 800 260 a day.The answer is 4 days.question:#
+
+Extrapolating, it takes 400/20 = 20 days to write one book with 20 pages per day.John needs to write 3 x 20 books, so he needs 3 x 20 x 400 pages, which equals 12,000.Thus 3 x 20 x 20 = 12,000.The answer is 20 days.question:#
+
+49 x 20/ 400 = 96 days = 2.72 monthsSo, one book will take him 2.74 months to complete.The answer is 2.74 months.question:#
+
+20 pages / day = 20 pages x number of days.John needs to write 20*400 = 8000 pages.The answer is 8000.#
+
+John writes 20 pages per book in 400 days.But, there are 3 books. So the number of pages he writes per day is X = 20 x 3 = 60 pages per day.So, there are three days required to write each book, therefore 3*400 = 1200 pages are written in 1200/60 = 20 days, each book contains 400 pages  So it will take him 400 days.Due to Mathratz.In case your wondering, trying to do multiple math problems in stretches where your not able to fully comprehend the information and finishing the problem correctly will only build on the speed of your mind.The following video shows a study that proved that video games don't make you stupid, it may actually increase your "spatial intelligence." While playing Sudoku and working on it multiple time, your actually building your#
+

@@ -1,0 +1,21 @@
+Waight × toI = wight " month": - lWeigh toat 3 per - months.Because the boxer currently weighs 97 kg at 4 months from the fight then Weigh × t = 97 - 3 = 94. Now substitute t (the months) = 4 because the boxer is 4 months from the fight.Which is equivalent to 94 - 3 = 91.Thus the boxer weighs 91 kg on the day of the fight.The answer is 91.question#
+
+Let x be the initial weight of the boxer.Then 3*x - 3*x = 0.Pre- multiplying both sides of the equation by (x-3) produces 3x - 3x = x.This implies that x = 3.Set x to 3 in 1, which yields 18.Therefore, the weight the boxer would be on his day of the weigh-in is 18 kg.The answer is 18.question:#
+
+At 4 months, the boxer had 97 kg and the engineers at 38 kg (0.038 kg per day).Then, when he was 2 months of fights, he weighed 3 kg less, so he weighed 4 * 93 = 364 kg.Exactly 3 kg per month means a weighing of 364 + 3 months of weight = 367 kg.The answer is 366 kg.question:#
+
+After 4 months the weight of the boxer is 97 - 3 = 94 kg.At 12 months, the boy would weigh 94 - 21 = 73 kg.The answer is 73.question:#
+
+The diet calculates the weight while using the rule 3 * weight / 4 months + 97.The formula applies down to the fight day so the weight should be computed by 803 = weight.We can re-arrange to come up with 3.5 * weight = 403Since 403 comes out to be 98.7 kg. That much weight when divided by 4 months results in 19.85 and 19.85 / 4 months is 4.47 months.Then, multiplying it back by 3.5 we get 4.47 * 3.5 = 15.35.Those calculations use the number 19.85 so let's just plug that into the equation.3.5 * 19.85 = 15.35The number of months that Jimena has left until the fight is 15.35 months.The answer is 15.35 months.question:#
+
+Let y represent pounds and k represent 3 pounds a month.(97-3 * 4) * (1-(1/k)) = (97-3 * 4) * (1-1 / 3) = 179 = ykTherefore, y = 179 = 33kg, and the boxer weighs approximately 33 kg on the day of the fight.The answer is 33.question:#
+
+Let n be the number of months.So, we have 97 - 4*(n - 1) = n*−3Now, to solve for n, we have 3 = 97 −40n−30.We may subtract 40 from both sides to get 3 = −30n+60.Breaking down into a common denominator, we get −30n−60/6 = −30(2n−1)/20Now, we know that the answer is an integer. So, we will get rid#
+
+Let's call the exact day of the fight day 22 (there are 22 weeks from the onset of the diet until the day of the fight).Let's consider another situation. We will think here that the boxer has already lost 3 kg this month then left on diet one month before the fight, which corresponds to weight X. 7 kg was lost during the first 3 months. Then 3 + 7 = 10 kg during the next 9 months.10 kg is lost per month, so we have a perfect binomial equation:11 = 10 + 10 - X, or 100 = 29 - XThe X solution is equal to 29/10 = 2.9 kg, which is approximately equal to 3 kg.Thus, during the last three months before the fight, the boxer will lose about 3 kg every day.The answer is 90.References: Kaprekar NumbersMcGraw HillPBS - Question of#
+
+We infer the months the boxer is on a losing diet (M) from the statement:He is on a diet that allows him to lose 3 kg per month until the day of fight. Therefore, there are 30 days.Let W = weight of boxer. Thus W = 97.lept g 3MetS20 W + =Month (M)30 3Does f g o r eW4833, he T =month M _________will he weigh on the day offight?________________question: Joey's parents gave Andrew a chocolate bar, bite size chocolate and a gummy bear. Although these treats each have the same weight, Joey favored chocolate more and ate as much at 300 gm as Andrew ate at the combined total of 300 gm of his treats. During dessert time in their favorite restaurant, Joey ordered a desert peach cheesecake that weighed 490 gm. How much more would#
+
+Let x be the pounds before the diet: The pounds after the diet are: * 97 x + 3 (x+3) (x+2) (x+2) (x+2) = = 3 x +2 2x + 3 2x + 3 2x + 3 The final solution is: x= (3^2)/( 2^2)  = 10 (He started weighing 97 pounds, and after a year of diet, would weigh 10 pounds on the day of the fight.p.s. OF course, the math probably won't be right, because I didn't integrated the log. 
+but anyway it should help you : )----you can not use this as the actual answer but use my math answer in the question things at the bottom----original/Contest question Recycle, Reuse, and Compostea field of 46 composte bins.  Keith prefers to donate twice as many bins to needy families around#
+

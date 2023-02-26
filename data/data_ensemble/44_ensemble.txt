@@ -1,0 +1,20 @@
+Let E be the number of dollars spent on coursework materials.Since the budget is $1000, we get E * 10 = 1000.So E = 100.The answer is 100.question:#
+
+Let x be the amount of money James spent on coursework materials.Therefore, $1000 - 30% - 15% - 25% - x = 500.Distribute 30% to the right side of the equation, so it becomes $1000 - 30% - x = $750.Distribute 15% to the right side, so it becomes $750 - x = $625.Distribute 25% to the right side, so it becomes $625 - x = $450.Finally, distribute the 1000 to the right side, so it becomes $450 + 1000 - x = $500.Thus, x = 450 - (1000 - 30% - 15% - 25%) = 225.The answer is 225.question: It#
+
+Let x be the amount of money James spends on coursework materials.Then, x is 1000 x 100/30 = 50So James spends 50$ on coursework materials.The answer is 50.answer: Jerry's family went to a garage sale. Jerry wants to buy a new computer for#
+
+Let y be the amount of money James spends on coursework materials.We know that y = $10,000 - x where x is the total amount of money James spent.Then the amount of money he spent on coursework materials is $100.The amount of money spent on coursework materials is 10% of the amount of money spent on everything.So we get 100 = y.The answer is 100.question: Aaron wants to spend $2.00 on a toy. He has two options: 1#
+
+Let m be the number of dollars James spends on coursework materials.Then m * 0.8 = 0.8 * m.Substituting and expanding, we have 1000 * 0.1 = 0.1 * 1000. Simplifying the equation gives 0.1 = m/1000.Therefore, the number of dollars James spends on coursework materials is m = 0.1 * 1000 = 100.The answer is 100.question: Each hour, an old clock measures the#
+
+Let x be the amount he spends on coursework materials.The equation is 1000 = (30%)*(x) + (15%)*(x) + (25%)*(x) + (10%)*(x)Then distribute 20% to (x) to get x = 800/3 + 200/3 + 400/3 + 100/3.By adding and subtracting we can get x = 1200/3 = 400/3 + 200/3 + 100/3 + 100/3 + 100/3, or x = 1600/3 = 512 + 256 + 128 + 64 + 32.So, James spends $512 + $256 + $128 + $64 + $32 on coursework materials.The answer is $512 + $256 + $128 + $64 + $32.question: All of the tiles on the ground were red. Daniel had 2 red tiles, Mary had 5 red#
+
+Let c be the amount of money spent on coursework materials.Then, the amount of money spent on coursework materials would be 1000 = c * 0.15Now we would like to know the amount of money James spend on coursework materials. So c = 1000 * 0.15 = 150.The answer is 150.question: A vending machine dispenses six 6-ounce bottles of#
+
+Let x be the percentage James spends on coursework materials.Then the percentage of coursework materials is 0.4(x) + 0.15(x) + 0.25(x) + 0.35(x) = 0.4(x) + 0.45(x) + 0.05(x) + 0.15(x) = 0.9(x)Therefore, James spends 10% of his money on coursework materials.The answer is 10%.question: A friend of Justin's dog is missing. The only number to make it into#
+
+Let a be the number of dollars James spends on coursework materials. Then a represents the remainder after the budget is divided by 5.So we have 1000 / 5 = 200, and 1000 = 200 * 5 + a.Then 25 % of 200 = 50, and 30 % of a = 30.To calculate the cost of the course materials, we have 50 + 30 = 80.Thus the number of dollars James spends on coursework materials is a = 80 - 50 = 30.The answer is 30.question: Sven spent $20 on a parking ticket. He gave a $5#
+
+Let x be the amount of money James spent on coursework materials.Then the percentage of coursework materials out of his total expenses is 10%.The total amount spent on all his expenses is 1000x.The percentage of total expenses spent on coursework materials is 1000x = 100.This is an equation in the variable x. Solving this equation yields x = $500.The answer is $500.question: Consider that if Peter had 33 coins and Betty had 47 coins, together they had#
+

@@ -1,0 +1,21 @@
+Let h be the number of dollars left with Hillary after making the deposit.The total dollar amounts earned are 12x + 7 = 18.The 18 dollars from the customer is added to the 12 dollars given for a total of 30 dollars earned.Therefore, the equation expresses 18 + 30x = 36.We see that 18 = 30x + 6.Dividing by 30 gives x = 6/6 = 1 dollar left.The answer is 6.Question 1. DE Questions last section of work#
+
+Let x be the dollar amount left with Hillary after making a deposit.Hillary received 18 from selling 3 crafts for 12 dollars per craft. 18x3 / 12 = x7On Maria gave Hillary 7 dollars for selling 3 crafts.So x + 7 = 18Let x = 18 - 7 = 11 dollarsSo, Hillary left with 11 dollars after making the deposit.The answer is 11.#
+
+Let's call the 18 dollars left from today's profits w.Then, w = 18 - 7 = 11.Now observe = 18w - 71.We know that 2 + 11 + 1 = 26, which is not a perfect square and also divisible by 7. Which can't be.Therefore, Hillary has 18 - 7 = 11 dollars left. transformation shows how to work on a problem that seems to look like that one.answer: The structure of that problem is similar to that of the original. The#
+
+Let x be the number of crafts that Hillary sold.  Thus, the number of crafts that Hillary sells for 12 dollars is 12x.The number of crafts that Hillary sells for 7 dollars is 7.  In other words, 2x.The total number of crafts that Hillary sells is 2x + 3x = 7.In addition, Hillary had earnings of 18 dollars so the equation is 14 = 2x + 3x + 18.  By distributing 7, the equation reduces to 14 = 3x + 9.Substituting the value for x produces 14 = 3x + 9 = 3x + 15.Simplifying 14 and 5 produces 14 - 5 = 9 = 14 - 9.Subtracting every term from 12 produces 2 = 12 - 7 - 18.The solution to the equation is 2 -11 = 1.So, Hillary was left with 1 dollar.The answer is 1.question:#
+
+Let L represent the dollars that are left with Hillary.L = 12*3 + 7 -18 = 12*3 - 18.Remove 18 from both sides.L = 12*3 - 18 + 18L = 12*3 + 0.The equation becomes L = 12*3.3*12 = 36.Dividing both sides by 2 gives L = 18.The answer is 18 dollars left after the deposit.
+* For further study questions and more detailed solutions, follow the link below.#
+
+Let x represent the unknown deposit that Hillary left.Then  12x is the profit she makes from selling each craft.Therefore, 12x + 7 is the total profit that Hillary makes on her sales.Whenever Hillary gives an extra dollar to a customer, the extra dollar is put into her bank account.So, her total profit received is 12x + 7 + 18 = 30 dollars.The answer is x = 18 dollars.Thus, after all her sales today, Hillary is left with 18#
+
+Let x be the number of dollars that Hillary has after making the deposit.Her profit per craft is 12/7=1.88.Today, Hillary sold three crafts for 1.38 for a profit of 7 dollars.Individually, this is 28 dollars but for 3 sold, it's 7 in total. Traditionally she finds the difference of the two, so she trys the formula: 18+28-1.3=11.45.subtracting 1.3 and then dividing by 1.88 leaves her with x-1.3=1.53.1.53 divided by 1.88 leaves her with 2.267 dollars.The answer is 2.267 dollars.There's only jok#
+
+Let x be the number of dollars left.Then the profit is 12x + 7.The money in the bank account is 18 so 9x = 18.Dividing 9 by the denominators (9, 12, 7) and combining terms gives x = 3.Therefore, the total amount left is 18 - 3 = 15.The answer is 15.question:#
+
+Let X be the number of dollars remaining after the deposit.Then Hillary had 12Y dollars less the number of crafts. Thus 12X - 3Y = 18. Then we see that 12X = 24. Thus X = 12. Then X + Y = 28. Thus from the deposit we get X = 18 and Y = 8. The number of money left with Hillary is X = 24 and Y = 8.The answer is 28.question:#
+
+Let x be the dollars left with Hillary.The extra 7 dollars she was given  equals 3x - 3 dollars.The purple equation produces (3 times 3) - 2 times 3 = 18.And the positive equation says that the 3x + 7 is equal to 18.Combining the purple  equation with the positive equation, we get 18 + 7 = 21.Subtracting 7 from 21 gives 14.  So the answer is x = 21 - 7 = 14.The answer is 14.question#
+

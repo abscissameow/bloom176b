@@ -1,0 +1,27 @@
+1 = 13 1/2 cups of food.The answer is 13 1/2 cups.question:#
+
+The morning amount should be 1/3 of the total amount in that month.    This is 2 cups. So what is 1 cup?
+
+The larger answer is the unfortunate bird that ate the Taco Bell burrito
+
+The answer is 148.
+
+#
+
+Let x be the expected number of cups required. If he feeds 1/2 cup each time, there will be x - 1/2 + x - 1/2 = 2 cups of food at the end.Therefore x - 1/4 = 2 cups.Subtracting 1/4 from both sides yields 281/4 = x = 3 cups.The answer is 3.
+These are a darling addition to you fall holiday decor. Sparkle in#
+
+Let x denote the amount of food Herman feeds the birds in each period. He feeds 1/2 cup in the morning and 1/2 cup at noon.Therefore, 2x = 1/2 cup; constraint 1Then 2x = 1/2 cup again; constraint 2And 2x + x = 1/2 cup; constraint 3Multiply the first 2 constraints with 2 so that 24 = 2x and 24 = 2x (constraint 2).Add up the 2 equations so that x + 2x = 1/2 cup (constraint 3).Substitute this constraint in the 2nd constraint, so that 2x + x = 24.Simplify by moving x on the right side additive identity, so that 2x = 24 + x.Substitute the constraint 24 = 2x, so that 24 - x = 2x - x = 2x = 24.Simplify the 24 -2x to 2x so that 2x = x  Constraint 4Substitute the constraint x + 2x = 1/2 cup, so that 12x = 1/4 cup.This is equal to 4 cups, which is the same#
+
+Let x be the number of cups of food needed for all three months.Then 1/2 cup in the morning and 1/2 cup in the afternoon for each day gives x/3 cups of food for each day, which requires 3x/30 days in all.Which makes the equation 3x/30 = x/3 cups per daysDivide both sides of equation by 3 to get 30 = 2x daysSince x must be half a whole number, we have x = 15.  The answer is 15.question:#
+
+Let C be the number of cups.Then, the number of cups for morning and for the afternoon is thus C = 2C = 4*C.Distributing one 2 against 4 on both sides produces C = 2/(2+3) = 1/3.Therefore, there is 1 1/3 cups of food.The answer is 1 1/3 cups of food for the three months.question:#
+
+His first day does 1/2 (1/2) of the exact amount he fed the birds but is the next day which he feeds them 1/2 x (1/2) of the same amount which yesterday.All he is doing is doubling 1/2 every morning.This is the equation 1/2+ 1/2 + 1/2 +... = 2.From this equation 2 = 2(1/2) which is 1.So 1/2 + 1/2 +... + 1/2n = 1. To get x, distribute brackets: 1.5 * x/2Thus, the answer is 1 1/2 which is 2 cups.The answer is 2.question:#
+
+We first need to figure out how many cups he needs for two of the months. Let y be the number of cups to feed the birds for 2 out of the 3 months. 7/8 * 100/2 = 50/2 = 25 cups.Therefore, the number of cups for 1 month is 100 - 25 = 75.The answer is 75.question:#
+
+We have to put 1/2 cup for the number of breakfast food. There are twice as many afternoon readings as morning. So, we get 1/2 * 2 = 1 cup for the second meal.So we get 2 cups of food for Both meals.The answer is 2.question:#
+
+Let H be the number cups of food for December.So then 1/2 cup in the morning plus 1/2 cup in the afternoon equals 2/2 = 1 cup for December only. Now since 1-3 months will also be 1 cup. So H = 1 + 1/2 + w + w = 1 + 1 + w.Now, K is defined as the amount of cups in January. Then 2/2 + w + 1/2 = 1/2 + w + 1/4.Next, 1/3 is the amount of cups in February. Then 1/2 + 1/2 = 1 cup.Combining the cups together using the equation w + 1/2 + 1 = 2/2 + 1/4 + 1/3 gives w + 1 + 2 = 10.Solving for w gives w = 2.So the total amount of cups needed is 2 + 1 + 2 + ( 1 + 2) = 5 + 4 for all three months.The answer is 5 + 4.#
+

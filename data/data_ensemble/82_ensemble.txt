@@ -1,0 +1,23 @@
+Irene earned $500 for her 40 hours of work, plus an extra $20 for every hour of overtime.Yet, 50 hours is 50 x 40 /100 = 10 overtime hours.The answer is 1000 + 200 + 20 + 20 = 1200.question:#
+
+If she earns $500 for 40 hours and $600 for 50 hours, 80 hours of work = $5000, so the hourly wage is $20. Wild Bill earns $20 for every hour he works.In the first 40 hours, Irene earns $500 so he must get $200 per 40 hours = $20 per hours.Adding the two wages together, we get $2(20/40) + $20(0.25) = $20.That's almost the same as the hourly wage, so Irene's weekly income is $600 * 0.25 + $500 = $1500.The answer is $1500.questions to try: IFREE = PHI = area of a triangle =#
+
+Irene earns $500 at an hourly rate rate of + $20 for each hour of overtime. 500 + 920 / 40 = xAnd thus, 500 + 920 / 10 = 920.Now, transfer 920 to the other side and divide it by 5.520 / 5 = 96, which is the hours Irene worked.Transfer the 96 to the right half of the equation to obtain 520 = x 96 or x = 520 / 96Now, multiply 520 / 96 by 5 to get 520 / 5 = 96 x 5 or 520 x 5 / 96 x 5 Which is 500 + 920 / 40 = xAnd thus, the total income Irene earned was 520 / 5 = 96.The answer is $16,800.#
+
+Irene's overtime pay is 1000 + 20(x) = 1000 + 100x.Irene's weekly total income is 500 + 20(x) = 500 + 100x.Now we can use the linear equations 4x + 100x = 500 + 100xFerrying out 4x = 500 and simplifying gives the equation x = 500/4 - 100.Therefore, x = 17. Therefore, Irene worked for 55 hours. The solutions are $17 Change of Delegationanswer: Pay: (-3/3) x 1.05 = -0.09 (e.g., (-3)/(#
+
++ 20(50 - 40) = 500 + 100 = 600 dollars.Then: 600/50 = 12 dollars.The answer is 12 dollars.question:#
+
+Irene earned $500 - $15(50-60) = $485. The extra $20 is for every hour of overtime so if she worked 50 hours then she got $20*10 = $200, and that is what she earned.So, Irene's total income is $485 + $200 = $695.The answer is 695.major sevenChinese: 七墨ాల్సిన задачи:Seven#
+
+V = 0.5x + 0.3x * O from the equation: V = 0.5x + 0.3x * O x = 50 / 0.5 = 100 hours * 1 = 1 full week * O = 50 / 0.3 = 133.33 hours Then Irene worked for 99 + 133.33 = 233.33 hours.Multiplying by the hourly rate we get 0.5x + 0.3x * O = 50 * 500.00 + 0.3 * 133.33 * 500 = 37625.So Irene's income is 37625.The answer is 37625.question:#
+
+Irene worked for 400 hours last week. Her weekly wage was $1000. Since she's making $20 extra for every hour of overtime, she must have gotten an extra $200 for every 40 extra hours or $6 for every extra hour.The total wage was $1000 + 600 = $1600.Then, 100 hours work is equal to $60 so the wage on each hour was $600 / 60 = $9.Therefore 900 hours work gave her total income of $1600 + $9*900 = $1500 = 1000 + $900.The answer is $1500.question:#
+
+Irene's pay is $500 + 20 * (40 - w)$ where w indicates the number of unpaid hours.Therefore, the equation would be $500 + 1 * (40 - w)$.For the first 40 hours, Irene would earn $500.After 8 hours of overtime, Irene's project would equal 16 hours.The equation would therefore be $500 + 180 - 8$.Thus we have $500 + 192 - 160$.The answer is $1192.#
+
+Let B be the extra income she received for each day worked.Then use x as the number of weeks she was working.500 + 20x = 40x + 50x = 500 + 100to balance out we use "x" we know x = 20x = 200/500/20 = 20Class will resume tomorrow with Quantitative Reasoning I. We're off for the holidays now, folks. I wish you a merry Christmas and a happy new year. See you, next time!
+Reference/Suggested reading: The American Mathematical Monthly "Table of Riemann Zeros
+Question 301. Read the table above carefully. Then write a formula _______________ N________________ the coordinates of f(x) for all real numbers x. Then (10) 3 L x______________________ check if your answer is correct.
+Question2.In a triangle, the sum of the squares of three adjacent sides is 46.#
+

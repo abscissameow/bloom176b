@@ -1,0 +1,19 @@
+Let x be the number of students that got a final grade of B and above.Then 40% of the students got a final grade of B and above.The number of students who got a final grade of B and above is 0.40 * 60 = 24 students.Therefore, the number of students who got a final grade below B is 60 - 24 = 36 students.Therefore, the answer is x = 36 students.question: Kelly's friend has a banana tree that produces 6 bananas per day#
+
+Let A be the number of students who got B and above.From the problem statement, 40% of his students got a grade below B, which means 60% of his students got B and above.So, A = 60% * 60 = 36 students.The answer is 36.question: Eileen makes#
+
+Let x be the number of students with a final grade of B and above. And let y be the number of students with a final grade below B.Then we have 60% of the students got a final grade below B.So we have 60% of the students is x and 40% of the students is y.The equation is x * 60 + y * 40 = 60Since the value of x has to be non-negative and the value of y has to be non-positive.We have the solution x = 0 and y = 60 - 0 = 60 - 60 = 0.So the number of students with a final grade of B and above is 0.The answer is 0.question: Michael got#
+
+Let P be the number of students that got a grade of B and above.40% of Grade 5 students got a final grade below B.So, 40% of 60 students is equal to 24 students.So, the number of students with a final grade of B and above is 60 - 24 = 36.The answer is 36.question: Sam wanted to collect some money for his sister's wedding.#
+
+There are 60 students in Grade 5. 40% of 60 students = 20 students.8 B's and above are 54 students (60 - 8) so B = 54 - 20 = 34.The answer is 34.question: Brady drinks 3 cups of water every day. This summer, he saved money#
+
+Let a be the number of students who got a B and above final grade.Then, the number of students who got a grade below B would be (60 - a).So, the total number of students would be 60 + (60 - a).Combining the variables gives 2*60 = (60 + (60 - a))Once again, combine the variables to get 120 = 2a.Solving for a, we have a = 120/2 = 60 students got a B and above final grade.The answer is 60.question: Let the letter a be the number of times a student has#
+
+Let x be the number of students who got B and above. Thus, the number of students who did not get B and above would be 60 - x. The percentage of the students who got B and above is 40% = x/100 * 60.Thus, the equation would be x/100 * 60 = 40/100 * 60.Solve for x, so x = 40/60 * 60 = 40 / 3 = 12 students.The answer is 12.question: A friend of Justin's recorded the#
+
+Let p be the number of students who got a final grade of B and above.Then, 40% of his Grade 5 students got a final grade below B, so (0.4)(60) = 20 students.This is because 60% of his Grade 5 students got a final grade of B and above.Putting this equation together, we get 0.4(60) + 0.6(60) = 60.Solving for p, we get p = 60.Therefore, the number of students who got a final grade of B and above is 60 students.The answer is 60.#
+
+Let x be the number of students with a final grade of B and above.The number of students with a final grade below B is (x + 40)%.The total number of students is 60 so we can simplify the equation to 60 = 60*x / 100 + 40%x / 100 = 60 * 0.6 + 0.4* x / 100 = 60%x + 40%x / 100.Then we can divide the 0.4 to x and divide 60% to the 1.After the division we get 24*x / 100 = 40%x / 100 so 24x = 40%x / 100.Since 40%x / 100 is divisible by 24 we can divide both sides by 24 to get 40x = 40 and x = 20 students.The answer is 20 students.#
+
+Let x be the number of students who got B and above. Thus, 60x + 40x = 60.Distribute 40 over x so it becomes 6x + 20 = 60.Then subtract 20 from both sides of the equation so it becomes 6x = 60.From here we have, 6 / x = 60 / 60.Thus, x = 60 / 6 = 10.Hence, the number of students who got B and above is 60 - 40 = 20.The answer is 20.question: The average grade is 50%. How many students have to get at least 60% on their#

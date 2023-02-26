@@ -1,0 +1,20 @@
+Initially, 24 of them contain C liters of oil.10 of them contain 8 liters each. So, 10 x 8 liter per can = 80 liters of oil are in 10 cans.The remaining cans have 80 liters of oil each.The answer is 80 liters.#
+
+In the equation  oil in 24 cans - oil in 10 cans - oil in 10 cans = 8 liters per can.Then 10 + 10 = 20 cans.Then, the equation can be rewritten as oil in 20 cans + oil in 20 cans = 8 liters.Therefore, 5 liters of oil is being stored in each remaining can. The answer is 5 liters per can.#
+
+One can holds 8 liters.Lets let x be the number of cans whose contents are 8 liters.Then using substitution we get x * 8 = 290.16 + x*4 = 290x = 114+16x = 19044/44x = 2:4x ≈ 1.33; x = 3.Therefore each of the remaining cans is holding 3 liters of oil.The answer is 3 liters.question:#
+
+290 - 20 = 50 liters10 cans holding 8 liters = 80 liters.Considering the other cans without knowing how much oil each can holds, the equation can be simplified to solve for the number of cans: 80/(290 - 16) = 8/270 = 8/30 = 26 cansEach can holds 26 - 8 = 18 liters.The answer is 18 liters.#
+
+If a can (of the remaining 20) holds X liters, each of the remaining 10 must hold X/12 liters.And the oil in each of the remaining 10 cans must be X/12 + 10 * X/12.But the oil is 290 liters in all, so 290 = X/12 + X/12 + 10 * X/12.Combining the 3 like terms into a single constant gives X = 292.Thus, each of the remaining cans holds 292 liters.A can usually holds 55 liters so 1 can = 55 liters= 292 %55 = 5 liters.Therefore, each can holds 8 liters.The answer is 8 liters.30 minutes Brookfield#
+
+So 24 * 10 = 240 liters and 10 * 8 = 80 liters.So the can must contain 8/14 = 6.28 liters.The answer is 6.28 liters.#
+
+240 = 10 * 32 + (10 * 8) + (10 * 8) + [remaining 24 cans]Therefore, each of the remaining 24 cans holds 12 liters of oil.The answer is 12.question:#
+
+Let X be the volume of oil(in liters) in each remaining can.Then 24 - 10 = X liters in each can.Multiplying the 8 liters first means that 8 x X = 280 liters of oil.150 x X = 280set x = 1520 of oil15 x 10 = 150 litersThe answer is 15 liters.question:#
+
+There are 290 liters of oil distributed in 24 cans. Each can is identified with a letter and the number of oil that are in each can is identified with a number, whereas the cans that contain 8 liters are lettered as A and 10 of them have 8 liters of oil each.Now, 8 liters / (letter of cans X 8 liters) = number of cans X liters in each can. This gives 8/24 = C / 8 = A / 1 = A / C = C where C is the complement of A. Since 485 liters / 16 cans = 32 liters / C = 12.Therefore, 12 liters are in each can.The answer is 12.question:#
+
+The number of liters of oil in 28 cans is 290 liters - 10 x 8 liters = 260 liters.The number of cans of oil are 24 - 10 = 14.So, each can holds 260 / 14 = 17 liters of oil.The answer is 17 liters.#
+

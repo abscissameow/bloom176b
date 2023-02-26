@@ -1,0 +1,20 @@
+Let x be the number of minutes that Leo finished the third part of the assignment.First part took 25 minutes so x / 2 x = 25.That gives x = 50 minutes.So the third part took twice as much as the second part, 50x = 100.Therefore, the number of minutes that Leo spent on his third part is x = 50 minutes.The answer is 50.question#
+
+Let P be the total number of minutes spent to finish the assignment. Also, 25 is equivalent to P / 3. Because I have received P / 3 = 25 and P / 2 = 50, by the division variable, P = (25 + 50) / 2.Firstly, solve for P. P is 25 + 50 = 75.Given that 75 is 25 + 50, then 25 is half of 75.Therefore, 250 = 50 {\displaystyle {\frac {250}{50}}={\frac {25}{2}}}.Then solve for P by dividing the right rule. 25 + 50 = 250Mulitiplying both sides by 5 gives 5(25 + 50) = 250Then transferring 50 to the right hand side gives P = 250 / 5.Adding P to both sides gives 250 / 5 + P = 250.dividing both sides by 250 gives another equation of 5 + P / 250.The answer is P = 50.question:#
+
+Let x be the number of minutes it took Leo to finish Part 3 of his assignment. Then 10 x = 2 hours.After completing Parts 1 and 2, an additional x = 2 hours were spent on Part 3. Thus, it takes 30 x = 6 hours for Nina to finish work.Subtract 30 from both sides to get x = 6 - 30 = - 24.Then add 24 on both sides to get x = 24 + 2hours = 2hours.The answer is 2.question#
+
+Let x be the time in minutes for the third part.So 10x + 25x + 40x + (2) = 2 hours.Take the 4 hour terms outside of the parentheses to get 10x + 40x + 2 = 2.Then distribute the 10 to get x + 40x + 10 = 2.Then distribute 10 to 40x on the right side of the equation.The equation is then 10x + 20x + 10 = 2.And then the equation simplifies to x + 20x + 10 = 2 x + 20x + 20 = 2.Then 12x + 20x = 2.To solve for x, take 20 away from both sides to get 12x = 2.That means x = 12.The answer is 36.question:#
+
+If Leo finished his assignment in 2 hours, than he finished part one in 25 minutes and 2x the second part so the speed is (x + 2x) where x is the speed of part 2. Thus he finishes in (25 + 2x) minutes. The answer given with this method is 25.#
+
+Let A be the number of minutes that took to finish the third part.A must be an integer.54 minutes is the sum of 25 and 25 times two, divided by two.So, 54 = 2 (25 + 25/A)Put 25/A for the value of B:25/54 = B/4Combining like terms in A and B gives 25B = 54*A2So, multiply A times B gives 54*A3 = 54A2.Solving for A gives A3 = 30.Therefore, Leo needed only 30 minutes.The answer is 30 minutes.question:#
+
+Let m represent how long it took Leo to finish the third part of his assignment. We can equate 25 minutes with a half of the time it took him to finish the work, or 2h: 25m = hm:2h = 2 x 1m = 2 x 0.5h = 0.5 x 1.5hThus m = 0.5 x 1.5h = 0.5 x 1.25 hoursSo m = 0.3 hours.The answer is 0.#
+
+Time to the second part = 25 + 15 = 40 minutes Time to the third part = 40 x 2 = 80 minutes Length of the third part = 80 / 15 = 5However, the end of the amount of time spent, she finished the third part = 4 hours and 20 minutes.The answer is 80 minutes.question:#
+
+Let x be the amount of time it took Leo to finish the third part of his assignment.Then the time it took para two parts is 2x.In order for Leo to finish his assignment in 2 hours, 2 x = 2hrs.Then by rearranging equation we get 2 x + 2x = 2hrs.Solving for x, we have x = 20 minutes.The answer is 20 minutes.#
+
+Let x be the number of minutes it took him to finish the third part.The first part took him 25x minutes.The second took him 2 * x minutes.The total time taken to finish the assignment is 25x + 2 * x = 2x + 100.So, 50x = 100 and x = 5.Therefore, Leo took 25 minutes to complete the first part, and 50 minutes to complete the second part. It took him 2 hours to complete the assignment. Therefore, he took 45 minutes to finish the third part.The answer is 45.Thank you for reading!Have a#
+

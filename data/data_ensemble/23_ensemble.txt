@@ -1,0 +1,19 @@
+Let T be the price for each top.Ann had spent 7 x 5 + 10 x 2 = 70 for the shorts and shoes.Then she spent 70 x 4 = 280.Therefore, she spent 280 - (7 x 5 + 10 x 2) = 140 for the tops.Let 140 = T(1) x t(2) x t(3) x t(4) = T(1) + T(2) + T(3) + T(4).Ann spent 140 so there are 4 tops.Ann spent 280 - 140 = 140 for the tops so each top costs 140 / 4 = 40.The answer is 40.question: Heidi's grandmother#
+
+Let P be the price of each top.So, 5 * 7 + 2 * 10 + 4 * P = 75.Simplifying, we get 2 * 20 + 10 + P = 75.Using the distributive property, we get 2 * (10 + P) + P = 75.Distributing the 2, we have 20 + 10 + P = 75.Adding a constant, we have 30 + P = 75.The solution is P = 30/10 = 3.The answer is 3.If you liked this page, please visit my YouTube channel at https://www.youtube.com/user#
+
+ Let x be the cost of each top.The total cost of the shorts was 5 x $7 = $35.The total cost of the shoes was 2 x $10 = $20.The total cost of the shorts and shoes was $7 + 10 + $35 = $47.The cost of the tops was $75 - $47 = $28.Thus the expression becomes 28 = x + 28 - 7 + 10 + 7 + 7.We can cancel out x to get 28 - 7 + 7 = 21.The answer is $21.question: What is the least number of chocol#
+
+Let x be the amount that each top cost.So, there are (x + 2) shorts and (x + 2) shoes.Adding the shorts and the shoes together gives 75 * (x + 2) * (x + 2) = 25 * x * (x + 2) = 5 * x * x = 25x.Then, there are (x + 2)x^2 + x = 75 and we know that 75/25 = 3 so we can say 3x^2 + x = 75 and we can then easily solve for x.The answer is 15.question: Erika has a gradu#
+
+Let x be the cost of each top.Since she bought 4 tops and they all cost the same, the equation is x*4 = 10.Solving for x gives x = 10/4 = 2.Then x = 2, so each top cost $2.The answer is $2.question: There#
+
+Let x be the cost of each top.The total cost of the shorts was 5 x $7 = 35$.The total cost of the shoes was 2 x $10 = 20$.Adding theotal cost of the shorts and the shoes results in 35 + 20 = 55$.The total cost of the shorts, shoes and tops is 75 + 55 = 120$.Divide the total cost by 4 to get 30$.The cost of each top was then 30/4 = 7$.The answer is 7$.question: Sofia is planning on a picnic, so she goes to#
+
+Since there are 8 items that Ann bought, let x be the cost of each top.Then we have 4x + 5 * 7 + 10 * 2 = 75.Distributing 7*5 gives 4x + 35x = 75.So, we have 20x = 25.So, x = 5.et x = 25.The answer is 25.question: Patty took a $20 bill, a $10 bill, and 5 $2 bills. She#
+
+Let y be the number of tops that Ann bought. So for a total of 75 she purchased y tops, 4 shorts for 7 x y and 2 pairs of shoes for 10 x y.Then distribute 10 to 4 and 2, so the equation becomes 7 x y + 10 x y = 75.Adding 4y + 2y gives 10y = 75.Solving for y, we get 10/10 = 1.Thus, each top cost 1 = $10.The answer is $10.question#
+
+Let T be the cost of each top.The number of pairs of shorts was 5 x 7 = 35, so the cost of each pair is 35 x 10 = 350.The number of pairs of shoes is 2 x 10 = 20.Thus the cost of Ann's shopping is 350 + 20 of shoes is 2 x 10 = 20, so the cost of each pair is 20 x 10 = 200. Therefore the cost of each top is (10 x 200) / 4 = 50. The answer is 50.question: Ryan bought 3 items at each store to help him keep track of his#
+
+Let x be the price of each top.So, she spent 7*x+10*2x = 75.Divide by 5 because we are dividing by 5 shorts + 2 shoes to give 15x + 20x = 75.Dividing by 10 gives 3x + 5 = 15.Thenng by 2 pairs of shoes,ves the top costing $5 each.The answer is $5ve for x to find x. question from Martha's Morning Glory Bookstruefacing tough homework problems in mathematics can be quite#

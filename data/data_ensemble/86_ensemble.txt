@@ -1,0 +1,20 @@
+First, let x be the number of ounces Peter buys.Then, 2 * x = $.50Adding the 2s to both sides of the equation, we have 4x = 2$ or x = 2$/50 or 2x = $·25The converse is that there are 2 times as many ounces as quarters.So the number of ounces that Peter bought is 2x = $25.The answer is 25 ounces.question:#
+
+Pandora is $.25 an ounce.The soda cost $2 so there are 2 ounces.Here the equation is Anni * $2 = $.50 which shows that 2 * x = $.50.Combining like terms on the right hand side of the equation gives 2x = $1.50Then distribute $1.50 into the equation to attain 2 * 1.50 = $2.50.Transferring the value of $2.50 to the other side of the equation gives 2 * $1.50 = $2.50.Hence, we have 2 * 1.50 = $2.50So, the number of ounces is: 2x = 2 * 1.50Associativity gives the form 2 * 1.50 = 2 * 1.50 + 0.0625Now, solve 1 * 50 + 0.0625 = $.50so, 50 -6.25 = $.50 -.0425 = 40 - 0.0425,then 50 - 4.5 = $.50 -.005 = $.40 - 0.005Thus, the number of ounces is 2x = 1.50 eachHe purchases 1.50 each of ounces.So, if he purchases 2.00 units= 2 ltrsHe purchases 2 l#
+
+Let x represent the ounces that Peter buys.Then the cost of the soda would be (.25*x) whereas the total pay is 2*$.25.Now if the equation 2*.25*x = $.50 is rearranged the further equivalent is (.25^2)*x = $.50Combining like terms on the left side and solving it we get (.25^2)*x = $.50Multiplying that expression by (25/100) would give (1/25)*x = $.50Transpose the dividend on both sides to arrive at x = $.50/25 = 1.53 ounces of soda. Thus the price of the soda is $.50 and Peter buys 1.53 ounces.question: Titan is trying to arrange the numbers 25 to 100. He wants to start with 25. That pulls 50 with it. That pulls 75, and he wants to keep case in a triangular shape. How many comes next?answer: We need to find the integer that when multiplied by 4 would give us#
+
+If x is the number of ounces of soda that he bought, let c and d be the money he had before and after he bought the soda.Then, we have 2x = $c +.25x +$2x +.5x = 2c + 50.Distributing c yields 2x + 50 = $c + 25+ 50Before the soda purchase, Peter had $2 so we have c = 2 - 2x = -2x.Therefore, -2x + 2x = 50.Then, solve for x.-2x + 50 = 50 -x + 50 = 50 - 25 = 25   Thus x = 25 ounces, so x answered is 25.question:#
+
+The soda costs $.25 per ounce so it costs $2.50 to buy 1 liter.Each liter is equivalent to a quart and a half which is the 4 cups.Thus, if Peter buys 4 cups of soda, he would have 1 liter of soda.Therefore, Peter bought 4 cups of soda.The answer is 4.question:#
+
+Let O be the number of ounces of soda. Then O = $.25 * 2 ounces.Remember, the number of dollar bills is $.50. So,  O /.25  = 2 Therefore, O = 4 ounces.Therefore, he bought 4 ounces of soda.The answer is 4 ounces.question:#
+
+Let O be the number of ounces of soda peter bought. Then 2 * (.25 * O) +.25O =.50.Remove.50 from both sides to have (.25 * O) +.25O = 2.Multiply both sides by 2 and have O = (2 +.25)/5= 3 oz of soda.The answer is 3 oz of soda question.Computer Scenariosgoal:1) Instructional Goals(a) to introduce students to specific important tasks#
+
+Here's how we figure out the answer:Let x be the amount of ounces of soda that Peter buysWe get 2 = x +.50 x.Then we distribute the $2 to both sides.x#
+
+Let x be the number of ounces of soda bought. Peter spends only $.25 an ounce and he had $.50 so he can buy 2 ounces.(from 2+ounce(s) will make 53-ounce(s) for that price)).Solving for x+(1-/2)=53(5+3=10x4=60of soda left:0.25x =.25+----x-----100x =.75x = 75-----=----x = 75/2 of it beerwill make 32-ounce(s) for that price)).The answer is 75.#
+
+32 ounces /.25 oz = 128 c (cost per ounce of soda)128 c/.25 c = 512 oz(Orange juice has 2 more ounces than soda)512 oz - 2 oz = 510 ozSo, he bought 510 – 50= 450 oz of soda.The answer is 450.#
+

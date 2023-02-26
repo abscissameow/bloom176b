@@ -1,0 +1,20 @@
+Let S be the number of paintings sold this month.Then, last month, Noah sold S + 8 + 4 = 16 paintings.So, last month Noah sold 16 large paintings and S + 4 = 12 small paintings.Combining the like terms gives 32 + S = 20.Then, transfer 20 to the other side.32 + 20 = 52.Therefore, S = 50 paintings.The answer is $50.question: Whitney made a cake for her family. She used 60 grams of butter#
+
+Noah sold 8 * 60 = $480 for a large painting and 4 * 30 = 120 for a small painting.So Noah sold 8 * 60 + 4 * 30 = 480 + 120 = 600 paintings last month.Now for this month, Noah sells 2 * 15 = 30 large paintings and 4 * 10 = 40 small paintings.So the total money he makes this month is 2 * 60 + 4 * 30 = 120 + 40 = 160 paintings.160 paintings at $60 per painting equals $960.The answer is $960.question: A student had 20 points out of 50 possible points in#
+
+He sold 8 x 60 = 480 dollars last month and 4 x 30 = 120 dollars for the small paintings.Let S be the total sales last month. So 480 + 120 = 630 dollars.This month, he sold 12 large paintings and 6 small paintings so 12 x 60 + 6 x 30 = 720 dollars.Thus, S - 720 = 630 dollars.Therefore, S = $ 630 dollars.The answer is 630 dollars.question: Billy sells dinosaur trading cards at the flea market. His#
+
+Let x be the amount of sales in this month.Then x = 8 + 2 * 4 = 16 paintings.Using the original information, x = 8 + 2 * 4 - 30 + 60 = 16 paintings.Therefore, Noah sold 16 paintings this month.The answer is 16 paintings.question: Nikki has a total of 40 candy bars. She takes away one-eighth of a c#
+
+Let S be the sales in dollars this month. Then S = $8 * 4 + $10 * 8 = $80.This is because four times eight equals thirty-two and times $10 eight equals eighty dollars.Therefore, the sales this month are $80.question: Janice buys 24 apples for 2#
+
+Let y be the sales for this month.Then last month's sales was y * 2.So, y * 2 + y = 8 + 4 = 12.Or, 2 * y + y = 12.Since y is an integer, y = 6.The answer is 6.question: Let p and q be two positive integers. If the ratio between the product of p and q and#
+
+Let y be the number of paintings he sells this month.For large paintings, 8 large paintings + 4 small paintings = y large paintings = 8y.For small paintings, 4 large paintings + 8 small paintings = y small paintings = 4x.The equation for large paintings is 8y = 8y + 4x = 20y = 20x.The equation for small paintings is 4x = 4x + 8y = 20x = 20y.Combining like terms on the left side of the two equations yields 20x = 20y.Next, add 20 to both sides of the equation to yield 40x = 40y.Solve for y and get y = 20 paintings.The answer is 20 paintings.question: Joseph is having problems with his teacher. When he got home he found one word#
+
+He sold 8 x 60 = 480 dollars in the previous month.He sold 4 x 30 = 120 dollars in the previous month.Adding both sides and simplifying gives a net of 720 dollars.Divide by 2 to obtain 360.The answer is 360.question: Ross has a lolly jar#
+
+Noah is selling at the park. He sells at the park as his sales is park-based and not house-based.Let S represent the sales. So we have eight large paintings, four small paintings, and twenty paintings all total.Now we would like to know the large paintings sold this month.So, 8*60 = 480 (large paintings) and 4*30 = 120 (small paintings) have been sold.Total sales is 480 + 120 = 620.The answer is 620.question: Mr#
+
+Let y be the amount Noah sells this month.Therefore, last month he sold 2 * y = 16 paintings.So, his sales are 2 * (16 + y) = 32 paintings last month.The answer is 32.question: Josh started at $40. His parents add $8 and his#
+

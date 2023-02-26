@@ -1,0 +1,19 @@
+ Let x be the number of ounces Artemis will use. She knows she will use 1 ounce of tea for 8 ounces of water. So for 12 people who want 6 ounces of tea, she will use x * 6 ounces = 72 ounces of tea.Then, let y be the number of 8-ounce cups she makes for each person. She makes y * 8 ounces of tea.So the equation is 72 = x * 6 + y * 8 ounces of tea.Simplifying produces 48 = x + y.Then distribute x to each side of the equation so it becomes 48 = x + x + y.Let the equation be x + x + y = 48 and then multiply by x to get x + x + y * x = 48.Expanding the parentheses gives x + 2x + y * x = 48.Combining like terms produces 3x + 2y * x = 48.Transfer x to the left side of the equation so it becomes 3x = 48.Solving for x gives the value of x = 24.The answer is 24.The answer is 24.#
+
+Let F be the number of ounces of tea for the party.12 people * 6 ounces per cup = 72 ounces.Therefore, the number of ounces of tea needed for the party is 6F / 12 = 72F / 12 = 6F - 6F = FThe answer is F = 6.#
+
+Let a be the number of ounces of tea.Then 8*a+6*a=72*a.Distribute 8 to 6 so it becomes 6*a+24*a=72*a.On the right side, combine the two like terms to get 36*a=72.Then divide both sides by 36 so it becomes 72/36 = 2.Therefore, 2 tea ounces is needed.The answer is 2.question: In a basketball game, Cliff and Paul had a goal total of 128 points#
+
+Let x be the number of ounces of tea.Then, the number of cups to fill is (6x) cups.To fill the cups, Artemis will need (12x) ounces of tea.The ratio is 8:1.12x = 8(6x) = 6.3. Therefore x = 3 ounces.The answer is 3.question: A class of#
+
+12 cups = 12 ouncesThe ratio is 8 oz of tea to 1 cup of tea. Since the party has 12 people, the ratio is 6 ounces of tea per cup.Therefore, the number of ounces needed is 12 x 6 = 72. The answer is 72 ounces.question: Claudia draws a square on a page. She wants to use each of the lines#
+
+Let y be the number of ounces of tea. Artemis will need one ounce of tea for her own cup, so her total will be 1 + 8x. Artemis's mom drinks an 8-ounce cup of tea so 8x = 8.Artemis has 12 people at her party, so the total number of ounces needed will be 1 + 8(12) = 15.Combining like terms in the equation gives 8x = 15.Then, solve for x, which is 8/15 = 5 ounces.The answer is 5.question: Jordan, Sam,#
+
+Let x be the number of ounces of tea.Then if everyone wants 6-ounce cups of tea, 6 * 12 = 72 ounces of tea in total.And if Artemis' mom uses one ounce of tea for 8-ounce cups, she uses 8/x ounces of tea for each cup.Combining the terms gives 72 = 6x + 8/x.Letting y be 8/x gives 8 = 6x + y.Substituting x for y gives 8 = 6x + 8.Then 8 = 6(8) = 48.Thus x = 48/52 = 3 ounces of tea.The answer is 3 ounces of tea.question: A#
+
+Let x be the number of ounces of tea.Therefore, there are 12 x 8 = 96 ounces of tea.This should equal 96 x 6.So the equation is x = 96 x 6/12 = 6/24.Letting y = x / 24 and simplifying, the answer is y = 6/48 = 7/12 cups of tea.The answer is 7/12 cups of tea#
+
+Let A be the number of ounces of tea used by Artemis.Then 12 x 6 = 72.Multiplying by 8 yields the required number of ounces, 72 x 8 = 576.After removing 1 ounce of tea, the tea remaining is 576 - 1 = 575.Multiplying by 1 yields the number of ounces used by Artemis, 575 x 1 = 575.Thus the required number of ounces used by Artemis is A = 575.The answer is 575.#
+
+12 people = 12 cups and 6 oz per cup = 6 * 12 = 72 ounces.At each cup, 8 oz of tea is used.8 * 12 = 96 ozSince 96 oz of tea is used then there should be 72 oz - 96 oz = 24 oz left.The answer is 24 ounces.#

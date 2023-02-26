@@ -1,0 +1,20 @@
+Let B represent the number of bananas that each monkey gets.Thus there are 12 * B bananas in all.Let S represent the number of hands with 14 bananas.Then there are 12 * S hands with 14 bananas.Let R represent the number of hands with 9 bananas.Then there are 6 * R hands with 9 bananas.So 12 * B = 6 * R + 12 * SThe answer is B = 6 + 12 * S.question: Ruby took her dog out on a walk and#
+
+Let x be the number of bananas each monkey gets.The monkey gets (10 x + 14 y) bananas, where x are the bananas in the piles of 9 hands and y are the bananas in the piles of 12 hands. Thus the monkey gets 10 x + 14 y bananas, where x + 2y = 12, so that 10 x + 14 y = 120x = 8y, so that 10 x = 8y/14Thus the monkey gets (8/14)x bananas.Therefore the number of bananas each monkey gets is x = 8/14.The answer is 8/14. question.#
+
+There are 12 monkeys and 10 piles.So, the total number of hands is 12 + 10 = 22.There are 22 x 9 = 198 bananas.198/(12 + 10) = 198 / 22 = 2.25 bananas per monkey.The answer is 2.25.question: Tw#
+
+Let x be the number of bananas each monkey gets.We know that each monkey receives 10x bananas from the first 6 piles.We also know that each monkey receives 12x bananas from the remaining piles.Therefore, 10x + 12x = 120x.We can now divide both sides by 120. This gives us x + x = 2x.Combining the like terms gives us 2x = 2(x + x).So we get x = x.Therefore, each monkey received x = x bananas.The answer is 120x = 12 bananas.In other words, each monkey received 12 bananas#
+
+Let B be the number of bananas that each monkey gets. So 12B = 120 bananas.With 12 monkeys, we can multiply B by 12 to simplify the equation.To do this, we replace B with 12B so we have 120 = 12B.As 120 is divisible by 12, this means that B is a factor of 12.Therefore, B is equal to one of the following: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, or 12.Let's solve for B to find out the answer:B = 12 / B = 12 / 1 = 12/1B = 12B = 12/45B = 24 / 45B = 5B = 5. The monkeys would get 5 bananas.question: A bag contains a red marble#
+
+Each monkey gets (total bananas)/(number of monkeys) = (10 piles with 14 hands)/(12 monkeys) = 14/12 = 12.5 bananas.The answer is 12.5.question: One of the men from the local bowling team says, "I can't keep my eyes #
+
+here are 10 piles of bananas, 6 with 9 hands each and 4 with 12 hands each.There are 12 monkeys so each monkey gets 6 bananas from the 6 piles of 9 hands and 5 bananas from the remaining 4 piles of 12 hands.Therefore, each monkey gets 11 bananas.The answer is 11.question: A box has 35 balls in it. 20 balls are red, while the remaining 15#
+
+Topside we will get 4 hands with 14 bananas.Then we'll have 8 hands with 9 bananas.And we will have 3 hands with 12 bananas.Then we will have a monkey with 8 bananas.Then the number of bananas for each monkey would be 14 + 9 + 12 + 8 = 45 bananas for each monkey.The answer is 45 bananas.question: A car drove 85 miles over 3 hours#
+
+
+Let x be the number of bananas each monkey gets.We know that each monkey receives 10x bananas.The number of monkeys is 12.Combining constants produces 120 x = 10x + 6(9x) + (12 x)Since we have 12 monkeys each receiving x bananas, and there are 10 piles, each pile has x/12 bananas.We also know that there are 6 piles that have 9 hands each, so there are 6 x 9 x 14 bananas. And there are 6 piles that have 12 hands, so there are 12 x 9 x 9 bananas. Thus, we have 120 x = 240 + 720.Then we use the formula for addition to simplify the terms, 120 x = 240 + 720 to 120 x = 420 + 840.Subtract 840 from both sides to get 420 = 120 x - 840 to 420 = 120 x - 600.Thus the expression simplifies to 120 x - 600 = - 840 to 420 x = - 360.We solve for x to get x = 36.Therefore, each monkey gets 36 bananas.The answer is 36.question: My#
+
+There are 12 monkeys. For each monkey, there would be 1 pile (10/12) with 9 hands (6/12) of 14 bananas (9x14) per hand. Thus, each monkey gets (10/12) * (6/12) * (9x14) = 54 bananas. The answer is 54 bananas.#

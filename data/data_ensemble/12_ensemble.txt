@@ -1,0 +1,21 @@
+Let M and C represent the number of mango and coconut trees, respectively.Then, M + C is the total number of trees.So, M + C = 60.Solving the equation M + 5 = (C / 2) gives 60 = M + 5 + (C / 2).Adding 5 to both sides of the equation gives M + 15 = (C / 2) + 5.Distributing M on both sides gives 60 = M + 15 + M + 15 = 3M + 15.Adding 15 to both sides produces M = 60 - 15 = 45.The answer is 45 trees.question: When Frankie, Chase, and Lilly ate 3 pears each,#
+
+Let m be the number of mango trees and c the number of coconut trees.So we can write the following: m + c = 60.Now we know that coconut trees are 5m so 5m = c.Solve for m to obtain m = 60 / 5 = 12.The answer is 12.question: At the airport, a man went through security, with five more bag#
+
+Randy has 60 mango trees and 5 coconut trees. So he has coconut trees. 60 mango trees + 5 coconut trees = 65 trees.5 coconut trees = 5 coconut trees half mango trees so5 coconut trees = coconut trees 2 mango trees and5 mango trees = 2 mango trees 65 treesCoconut trees + mango trees = 65 trees.60 mango trees + 5 coconut trees = 65 trees.Therefore, Randy has coconut trees.60 mango trees + 5 coconut trees = 65 mango trees.The answer is 65 mango trees.question: Lisa bought a#
+
+ Let x be the number of trees on Randy's farm. So 60 mango trees and x coconut trees.We know that x = (60 - 5) / 2 trees.Since the mangoes trees are 5 less than half the coconut trees, we have 5 = (x - 5) / 2 trees.Subtract 5 from both sides to produce x = 35 trees.Therefore, Randy has 35 mango trees and 35 coconut trees.The answer is 35.question: The number of#
+
+Let x be the total number of trees that Randy has. Then the number of mango trees would be x - 5 and the number of coconut trees would be 50 * x / 2.Since the number of coconut trees is 5 times the number of mango trees, we have 5x = 50 * x / 2.The number of mango trees is x - 5, and therefore x - 10 = 5x.From x = 60 mango trees and x - 10 = 5x, we can rewrite this as 60 = 10(x - 5).Solving for x gives 10 - 5x.Subtracting 5 from both sides gives 10 = 5(x - 5).Solving for/ expressing x gives x = 80 trees.Thus, the answer is 80 trees.question: On Thursday#
+
+Let C be the number of trees that Randy has. Then 5C = 60.Multiplying through gives the equation 120 = 5C.Since the equation has no repeating factors, then the only solution is C = 2.Thus, Randy has 2 mango trees and 2 coconut trees on his farm.The answer is 2.question: Carly played 24 games of 5-card poker. She won more#
+
+Let C be the number of coconut trees. Then 60 - 5C = 60.Dividing by 5C gives 60 / 5C = 12C.But the total number of trees is 12C + 5C = 60.Thus, C = 15.The answer is 60.#
+
+ Let M be the number of mango trees and C be the number of coconut trees.Then 60 = M + C.There are 5 less than half as many coconut trees as mango trees so 5 = M + C/2.Then C/2 = 5 so C = 10 and M = 50.Therefore, Randy has 60 trees in total.The answer is 60 trees.question: Shelley#
+
+Let N be the number of coconut trees and M be the number of mango trees.Then, M = N x 5 / 2 + N.Rearranging the equation, we have 5/2(N + M) = N.To solve for N, we divide by 2 on both sides of the equation, then add M, so it becomes 5N + M = N. Then distribute 5 on both sides to give 5N + 5M = N. Thus N = 10 + M.Then, calculate 10 + M = M = N. Thus, the total number of trees is N = 10 + M = N. The answer is 20.question: Randy is a seedling#
+
+Let C be the number of coconut trees. The number of mango trees is then 60 - C. Also, C = 5/2 * the number of mango trees.Multiplying both sides of the equation by 2 gives 10C = 5.Therefore, C = 60/10 = 6.Thus, there are 60 - 6 = 54 trees. The answer is 54.question: Three hockey teams take#
+
+Let M be the number of mango trees. Let C be the number of coconut trees. We know 60 - 5/2 * C = M. We can now distribute 5 to the 2 and multiply both sides by 2 to produce 20 - 2 * C = M.We know 2 * (60 - 20 * C) = M. We can now distribute the 20 across the (60 - 20 * C) to produce C = 5 - 20 * M.Now we can divide both sides by 20 to produce M = 2/5 * C. Combine constants to produce M = 2 * C/5.This simplifies to C = M/2.The answer is M = 60 mango trees, and C = 30 coconut trees.#

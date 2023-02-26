@@ -1,0 +1,21 @@
+Let B be the number of kilograms lost by the last person.Let A be the number of kilograms lost from the first two people.Let a be the total amount of kilograms lost by the first two people.Then we have a = 27 + (B + 7).So B = a - 27.Next, let's eliminate a as a variable: 8 = B + 7.Isolating B on 1 side and 7 on the other side gives The answer is 115.question:#
+
+Let the first person's loss be x and the second person's loss be y.The first person lost 27 kilograms and the second person y less than 27 kilograms.Therefore, 27 - y = 27 + (27 - y) which is 27.Thus, 27 + y = 27 + 27 = 54.The solution set is 45 + y = 54, y = 7Along with 27 + y = 27 + 27 = 54, another equation entered is y + 27 = 54, y = 8.When 42 + y = 54 the other term is 45, but for 27 + y = 54 the other term becomes 52, not 45.But the y in this term is not 8 as such, since 8 may be substituted for y in the first and second equation to find the answer.#
+
+Thus x + y + z = 103 known weights.Adding 3x + 7z to each side produces 3x + z = 42x + z + y = 103 − x + 27by = 103 + 27 − 2z  Thus z =102 and y = 27The answer is 27 and 102.#
+
+Let x represent how many kilograms the two remaining people lost.Then the following expression is true.27 + x = 103The expression on the left side is 27 + 2x and it equals 103. By rearranging, we find that 93 = 92 + x (the expression on the right).Then, to solve for x, we switch the value of x from the other side and divide both sides by 92.This gives, 94 = 2x and then, we can set up another new equation of 2x + x = 36.29 = x + 2x which gives x = 18.The two remaining people lost 18 and 18 kilograms of weight.The answer is 18.
+Let's shift gears from fun#
+
+Let x and y be the amount lost by the last two people respectively.The first two people lost 27 + 7 = 34 kilograms. So the amount left to be lost by the last two people is (103 - 27 - 7) = 75 kilograms. Since the last two people lost the same amount, the amount lost by each person is (75/2) = 37.5 kilograms each.The first two people lost (34 + y) kilograms.The last two people lost (37.5 + x) kilograms.Therefore, the first two people's total -2x - y = 34 - 34 = 0.Then, the amount of kilograms each of the last two people lost is 37.5 + x = 75 + 37.5 = 112.5 kilograms.The answer is (37.5 + x) = 112.5.question:#
+
+For the first and third people, F = 27 - 7 = 20. F is the number of kilograms lost by the first and third people.For the second person, F = 27 + 22 = 49 kilograms. Since the third and fourth people lost the same amount, so F is also the amount lost by the third person. Adding this gives 27 + 22 + 49 = 103 kilograms. Thus, the amount lost by the fourth person is 53 kilograms.The answer is 53 kilograms.question:#
+
+The first and second people lost 27 and 7 kilograms respectively. So, 27 + 7 + 27 + 7 = 55  kilograms.The 4 and 3 remaining persons lost 56 and 55 + 27 = 78 kilograms respectively.The answer is 78.question:#
+
+Let a and b be the number of kilograms that each of the last two people lost.Then 102 - a - b = 103.27 - a - b = 2.53 - a = b.37 - (27 - a) = b.Combining a and b gives 37 = b and 27 - b = 2.Then b = 37 - 2 = 35.Therefore the number of kilograms that each of the last two people lost was 35 kilograms.The answer is 35.question:#
+
+x kilogramsThe total weight lost was 27 + (7 - x) + (7 - x) + (7 - x) = 27 + 2(7 - x) = 42 - 2x kilograms.Lost by other people = 42 - 2x = 26 x kilograms.Answer = 180 kilograms.53#
+
+Let A be the weight lost by the last person.Then the previous equation 83A + 26A + 10 + 9 = 103 means 7A + A + 2 + 1 = 26.Distributing the 7 to both sides gives 43 = 7A + 2 + 7.Multiply both sides of the equation 7A + 7A = 26 by 2.Multiplying 2 by 26 gives 2 * 26 = 52.Thus there are 52 kilograms in 103 kilograms.Therefore, 7A = 52 \div 7 = 26 \div 7 = 3 A or A = 4 kilograms.Now multiply both sides of the equation 4A + A = 26 by 2 to get 3 A + A = 26.Rearrange this equation as A = 26 \div 3 and you get A = 8 kilograms.The answer is 8.question:#
+

@@ -1,0 +1,19 @@
+Let n be the number of clips Natalia sold in April.Let y be the number of clips she sold in May.Therefore, she sold 48 + y = 48 + half of 48 = 48 + 24 = 72 clips in April and May.She sold 72 clips in April and May.The answer is 72.question: Sasha bought 7 stacks of erasers#
+
+Natalia sold (48 + x) clips in April and (x + 48) clips in May.The sum of all the clips sold is 2x = 48 + 48 = 96.This is a quadratic equation with a solution of x = 32. Therefore, Natalia sold 48 + 32 = 80 clips.The answer is 80. question 2+3=1, not 2-2=2but 2+2=4, 2 x#
+
+Let B be the number of clips sold in April. Then B * 2 = 48.Note that both sides are multiplied by the same number, therefore the equation simplifies to 2 = B.Solving for B produces B = 2.From this, we can conclude that in April, Natalia sold two clips.Therefore, she sold two clips in April and May. The answer is 2.question#
+
+The number of clips sold in May is 48/2.Let x be the number of clips sold in April. Then the number of clips sold in April and May is (2x + 48).As there are a total of 72 clips, the answer is 72/2 + 2x = 72 + 24 = 96.The answer is 96.Read More: Math Games & Tricks Your Child Should Play Free Download#
+
+Let x be the number of clips Natalia sold in April and May combined.Then Natalia sold clips to (48 + (48/2)) = 72 people.The total number of clips she sold was 2x.Therefore, the equation is 48x = 48 + 48(1/2)The equation simplifies to 72x = 144.Divide both sides by 24 to solve for x, so it becomes x = 48.The answer is 48.question: Mrs. Peterson has 200 plates and 92 cups to place in the china cabinets. #
+
+Let a be the number of clips Natalia sold in April.Let b be the number of clips Natalia sold in May.Therefore, she sold 48 + b clips in April and then 48/2 + b clips in May.The total number of clips that Natalia sold is 48 + b + 48/2 + b = 48 + b + 48/2 = 48 + b = 72 + b.She had sold 48 clips in April, so the equation becomes 48 = 72 + b, solving for b gives b = 24.So Natalia sold 48 + 24 = 72 = 72 clips altogether. The answer is 72.#
+
+Let x be the total number of clips.So, the number of clips sold in April is 2x.And the number of clips sold in May is x + 1/2x = 2x + 2x/2.The total number of clips sold would be 2x + 2x/2 + 2x = 4x = 2 * x.The total number of clips sold is 2x.The answer is 2x.question: Mario runs five#
+
+Let S be the number of clips that Natalia sold in April. And let M be the number of clips that Natalia sold in May.Then M = 48 * 0.5 = 24. So Natalia sold 24 clips in May.So, Natalia sold S + M = 48 + 24 = 72 clips in total.The answer is 72.question: Xavier began doing pushups at 9:00 a.m#
+
+Let x be the number of clips sold. Then x + 48 + (x/2) = 48 + x/2 = 84.Then since x can be divided by two, we can distribute 48/2: 84 = 48 + x/2 + x/2 = 48 + x.Equating the expressions on both sides of the equation gives 84 = 48 + x.Simplifying the equation, we get (48 + x)/2 = 84.Solving this equation gives the value of x = 84 - 48/2 = 48/2 + 84 = 16.Then, x + 48 = 80, so Natalia sold 80 clips altogether. The answer is 80.The answer is 80.question: Felix, Rachel#
+
+Let x be the number of clips that Natalia sold in April and May.Then we can write the equation 48 = 2x and 48 + x = 100.Then combine the like terms so we have 2x + x = 100.So, x = 100 - 2x = 50.Therefore, x = 50 and Natalia sold 50 clips altogether in April and May.The answer is 50.For more questions like#

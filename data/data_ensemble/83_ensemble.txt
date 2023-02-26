@@ -1,0 +1,38 @@
+//Let x be the number of red hats and y be the number of blue hats//ZOLO HAS (2y)RED HATS AND ZOLA HAS 60 + (2x + y) == (2x + y) BLUE HATS.Dividing y + x by 2 gives y + x == x + y.Multiply both sides by 4 gives 4*x + 4*y == 4x + 4y == 8x + 4y.Transpose the equation to get 4x + 8y == 8y + 4x == 16y + 4x.Add 4x to both sides to get 16y + 8x + 4x == 24y + 8x.Multiply both sides by 25/8 == (5/4) gives 26/4(x + y) == 8x + 24y.Divide both sides by 2 gives 2x + 12y == 5/4x + 5/4y.Multiply both sides by 4 gives 4x + 8y == 5/4x + 5/4y thus 4x + 8y == 8y + 4x.Transpose the equation to get 8y + 4y == 4x + 4x == 8y + 8y == 16y.Multiply both sides of the equation by 4 gives 16y + 16y == 16y + 32y = 64y.Divide both side of the equation by 2 y gives 8y == 32y.Div#
+
+Original  solutions            Tyler L. Answers        Tyler L. S#
+
+Let x be the number of hats Zola gets.Then, 20 / 5 = 4 so 20 = 4x.Times 4 + 24 = x so 4(24) + 24 = x.Bringing 24 outside of the parentheses gives 2x = 52, and x = 26.Then, since Zola has 4 times as many red hats as Paityn, then 4x = 20, and x = 10.Therefore it is 10 red hats + 10 blue hats = 20 hats = 10 half red and blue hats.The answer is 10.question:#
+
+Given that they combined them and share them equally between them, each will have 0.5 * 20 + 2 * 24 + 4/5 * 20 + 2 * 24 and 0.5 * 20 + 2 * 24 is 52.5 hats.So, each person gets 9 hats.Therefore, the number of hats each gets is 326.The answer is 9 hats.answer:#
+
+Let x be the number of red hats Zola has.Then Paityn would have (20 x)= 10 * x = 20 red hats.Thus, in all, she has 30 red hats.Let y be the number of blue hats Zola has.Then in all, he had (24y)= 6 * y = 24 blue hats.For the number of blue hats Zola gets (48) = 8 * y = 48 blue hats.Therefore the y = (6/8) * y/2 = 9/2 = 3 blue hats.Thus, the number of hats Paityn and Zola would have (x + y)/2 = 6 blue hats and 19 red hats. (Total 243.)The answer is 6.question:#
+
+Let x be the number of hats Paityn gets and y be the number of hats Zola gets.There are 20 + 24 = 44 hats in all.Then we have 4x + 5y = 44.Multiplying terms gives 4x/5 + 2y = 44.The left side can be rewritten as 4/5 * X + y so we have X + y = 5 * y.Then 22 + x = 5y.Let us divide by 2 on both sides of the equation.Then, we have 10 + x = 5y.Since the difference between the two sides is 10 = 5y the value of y = 5.As a result, the number of red hats Zola has is X = 10.As a result, the number of blue hats Zola has is 20 - 20 = 0 so Zola doesn't have any blue hats.The answer is 10 and 0.question:#
+
+Let A and B be the number of hats that Paityn and Zola gets. Then A+B = 24 or 2 = B+(A-10)The number of hats Paityn had was 20, and therefore she had 10 blue hats and 10 red hats. Zolla had 15 blue hats and 10 red hats which gives the following. Once the hats are shared equally.Each gets 24/5 hats (4/5x24,4/5x20 = 24).Paityn gets B of them, which would be A + 10 for Zola.Therefore, 46 = A + B, thus B = 46 - A = 14.Therefore Zola gets 14 +10 = 24 hats.The answer is 24.question:#
+
+Let R1 be Paityn's total number of red hats. That is, it is 20.Let R2 be X's total number of red hats. Let B be the total number of blue hats.Note that the two have the same number of blue hats. So, B = X2.Separately, the ratio of red hats is R1 : R2 = 4 : 5.So the total number of hats that the two share is (4/5)(20) x 81/5 = 24.The total red hats X gets is 24/4 = 6.The total blue hats, X gets are 6 x 4/5 = 2.Total hats X gets are 2 red and 6 blue.The answer is 2 red and 6 blue.MATHEMATICAL#
+
+Let A be the number of red hats Paityn has. Then 20A is equal to the number of red hats Zola has. Then 2*20A + 24B is equal to the number of blue hats Zola has.20A = 2*2(20A + 24B)4/5A = 2(20A + 24B)2A/5A = 24BSince Zola has twice as many blue hats as she does red hats, B = 4A.20A + 24B = 4/2 A + 4 = 7A + 16 7A + 16 = 7(1A) + 16 7A = 16 7A = 16 + 7A 7A = 23 8A + 7 = 23 8A = 20Thus the total number of hats is 20 + 24 + 16 = 54 hats. 20 red hats + 24 blue hats + 26 red hats + 26 blue hats = 54 hats68 + = 3 + 2 + 1 = 7 hoursquestion: When it's time for sports, the coach will choose 1 6th of the student's team. The students selected should be less than 30 teams. The coach selects 9 of his student. How many teams does#
+
+The number of red hats shared between the two is: A = 20x4/5 = 14 or S = 20x10/5x5 = 80/100or 10/5 = there are 5 blue hats to every 10 red hats. There are more than twice as many blue hats as red hats.So 10/13 = 5/13; or 5/13 = 10/100; or the 7th part = 5/10 الْبَيْ
+     2 8
+  7 2 5 1 5 4
+      4
+    4 8 3
+      2 5 2
+
+section 2: Name of cuboid
+ 
+section 3: Frequency of letters A, B, C in the last three lines of the poem
+
+                      B    C    A
+1. R 11 14 23 
+2. O 10 13 26
+3. E 7 16 18
+ 
+section 4: McDonald's – in words
+
+[ 2 Up, 1 Frappe, 4 Special Fries, 16 (8×2) Oreo cookies, Hot Cinnamon Brownie, 1 Leftover Quarter Pound, 4 Milkshakes, 2 Ice Cream Sandwich, 1 Side item, 16 (8×2)#
+

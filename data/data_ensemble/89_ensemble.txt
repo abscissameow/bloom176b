@@ -1,0 +1,20 @@
+The average number of books that Krystian borrows is 40/(5+1) = 8 books per day.And the number of books Krystian borrows on Friday is approximately 8 + 4 * 0.40 = 11 books.The answer is 55.question:#
+
+Since Krystian borrows an average of 40 books every day, we have 7(40) = 280.Dividing 280 by 5, we have 53 books per week.Therefore, Krystian borrows 53 x 5 = 260 books in a week.Since he borrows an average of 40 books every day, 260 is about 40% higher than the daily average.The answer is 260.question:#
+
+Let x be the number of borrowed books every day. If an average of 40 books is borrowed on a daily basis and on Friday, he borrow 40% more books.It can be said that 40 + 40%(x) = x + 40 and x = 24Then if there are 5 days, the relation becomes 24/5 = 40 books.So, during 5 days, an average of 40 books is borrowed. So in a week the number of books borrowed by Krystian is 40x = 106.Then the answer comes as 106x = 120.The answer is 120books.question:#
+
+The average number per day is 40.  40 + 60 + 80 + 100 + 48 + 16 = 5,920.The average number per day + 40% is 6,224.6,224 ÷ 5 = 1,242 books per week.1,242 x 5 = 6,864 books per week.6,864 / 5 = 1,392 books per week.The answer is 1,392.  The correct answer is 4 additional books per day; the answer should show the value for a#
+
+Brennan borrowed 40 books so, in the h (unanswered)er averages of 40 books + 40% of 30 books = 60 books.The average, therefore,#
+
+If x is the number of books that Krystian borrows each week, the number of books he will take in a week will be 60x = 40. However, this is the average of the daily amounts, so we can replace 40 with three average amounts. ((40 * 5) / 3 = 60). x = 30.Therefore, if Krystian works in the library, he will borrow an average of 30 books a week.Jayden wishes he could read comics everyday, but he only has 24 books left for seven days. If Jayden reads an average of 49 books a week, how much does he short for the complete week?answer: Let x be the number of comics that Jayden reads. Then the number of comics he has, 7x will be#
+
+Requirement : Know the relation between average, higher and the number of days there is in a week.Suppose there is a daily average of 40 books.The weekly average = 40 / 5 = 8.Suppose at end of the next day it is 10% higher which is 48 books.The daily average will change as the week progresses so we have (48/8)^ (5/2) = 20% higher at the end of the week.Therefore, after one day he started having more than the average and after five days he had more than the daily average and more that the weekly average.Apply it in the formulation of the problem: [(weekly average)+ x = (daily average)+ y] thus x = weekly average - daily average =8 - 40= -32. Similarly, y = weekly average - daily average - 40/8 =2 - 32= -20 the answer the#
+
+Let x be the number of books that the library is open for a week.Then a week books are 2 * x age from Monday to Friday.And 40 x /52 is a week books on Saturday and Sunday.Therefore, 40 x /7 + x + 40x /52 = 40x /52 age is 40x hebdomad is 400 is correct.The answer is 200.question:#
+
+Let x be the number of books he borrowed per week. Then 40x is the number of books he borrowed in a week.The daily average is thus 40x/5 = 8x, or 5 days.Then the number borrowed each Friday is 8x/5 + 40%, or 0.96x.Therefore, from Monday to Friday, he borrowed (x + 96)/5 = 1.32x books:what he borrowed on Monday to the last Friday. The library is open 5 days, so the number he borrowed is 6x:Daniel took 1.32x + 6x = 11.32x.Divide through by 11.32 and x = 3:. Therefore, he borrows 3 books in a week.The answer is 3.question:#
+
+He borrows 40 * 5 = 200 books per week.If the number of books he borrows on Friday is 40% higher than the average. Then 200 x (1 + 0.4) = 260 books on Friday.  In other words, the number of books he borrows in a week is 260 + (7 * 40) = 560.The answer is 560.question:#
+

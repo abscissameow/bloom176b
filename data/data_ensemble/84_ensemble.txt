@@ -1,0 +1,21 @@
+There can be 10 positions on a floor so he could be in any of the floors, inclusive.The answer is 100.If there had been other customers too, Hans could be in one of 10#
+
+The different rooms Hans could be checked into would be all the rooms (9 x 10) - 1.We can see that every floor has 10 identical rooms so there is 9 x 10, or 90 total rooms on each floor.Remember, the last floor has become unavailable.Therefore, Hans could be checked into any of 90 - 1 = 89 rooms.The answer is 89.question:#
+
+Hans is a guest so he must check in into one of the rooms. The floor options are 10 so Hans is either in room 10 or one of the other 9 rooms on that floor. The first room of the guest departs out of reach in which Hans can not access. One less than the room number leaves only 9 available to Hans.When Hans is in one of the 9 rooms, the first room out of reach is also out of dozens. So the total number of different room numbers Hans could be checked in is 9 + 9 = 18.The answer is 18.question:#
+
+120 - 10 = 110.Hans can possibly choose any one of the 110 rooms.The answer is 110.Suppose x = the number of different rooms.For every integer i between 1 and 10,#
+
+There are a total of 10x rooms where x is the floors not available.In order for the number of rooms to be even as to for him to be able to personally be with a roomate he would have to be a guest on either 7 or 8 floors.Assume that he is on 7 floors where there are 20 rooms he can either choose 20 of the rooms on any 2 floors or 15 rooms (choosing 5 rooms per floor) then with what is left 20 - 15 = 5 he places them all on the leftover floor.Assuming he is on all floors 8 then he would have 8 * 10 rooms which have 80 possible rooms.The answer is 80.question:#
+
+Let x be the number of guests checked in. Then it follows that 2x + 10 = 90.So there were 90 guests distributed among 10 floors and 10 rooms per floor. Thus, there were 2x = 30 guests on floor x. In other words, floor x was occupied by 30 out of 90 guests. Floor x = 0 because no one's in that floor. There i a total of 10 rooms to be occupied so there were 10x guests in a total of 10x out of 90 guests. Thus, x = 10 guests checked in. The answer is 10.
+As a rich active XOS#
+
+The number of rooms that Hans can book for himself should be floor count.That number is 4 * 10 = 40.40 = floorCount * roomsPerFloorThen, multiply cast if roomsPerFloor to get the answer.Here, the expression simplifies to 40 = 4 rooms.Therefore#
+
+There are 9 waysHans can be checked in, one for each room from room 1 to 9.The answer is 9.question:#
+
+If he is checked in at floor number 7, possibilities are in 1 room, in 2 different rooms and in 3 rooms on remaining 9th, 10th and 11th floors.This gives us options W, X and Y as given.We have possibilities: 4*4*4 = 64 ways of checking in.Since the places are not available the value of A becomes -64.Then number of ways will be 24 and 60 will be in one room and 60 will be in 2 rooms.This gives us W=4, X=5 and Y=3.The answer is 64.Get more questions at puzzles.co#
+
+Hans can only be checked in on floors where rooms are available.The number of floors with available rooms is then 10 because there are 10 floors but there are only 10 available rooms.The number of available rooms on a given floor is 1.Thus, in how many different rooms can a guest can be checked in is the '10 choose 1' expression: 10!/(10 * 9) = 2616.The answer is 2616.question:#
+

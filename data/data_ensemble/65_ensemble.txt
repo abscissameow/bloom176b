@@ -1,0 +1,21 @@
+Let x be the number of lawns that Lee mows.And let y be the number of tips that he gets.Then, the expression becomes 16x + 16y = $33Each house tipped Lee $10.Three houses tipped him $100 for a total of 10x so 3x = 10Each house tipped 10 because he cut 16 lawns so 3x = 16xAdding everything up gives 16 + 16x + 16y = 33.Then substitute 3 * 16x for y.divide across by 16 and rearrange to give x + 3 = 33.Then distribute the 3 to x and x + 3 = 33.Then distribute the 3 to 3 + 3x giving 30x = 33 which rearranges to x = 30.The answer is 30 lawns.question:#
+
+Let f be money earned by mowing lawns. Then f = 33 + 16 * 10 = 80.f changed from on weekday to another weekday by adding $10.f goes up by $10 every three lawns because 2 * 3 = 6 lawns are mowed by Lee in one week.Lee will mow N lawns on weekdays. So the formula may be written as f = 33 + f * 10 / 3 + (3N - 16).The answer is 11 lawns.The Answer is 11 lawns.Look at these similar questions and unlock more questions:1#
+
+Let T be the number of tips given.  Lee gets 16 x 33 - 3 x T = 130. Equalizing bases works out to T - 2 x 16 = 30.Dividing both sides by 2 gives T = 10.Therefore, T = 10 so each customer gave Lee a $10 tip.The answer is 130.question:#
+
+There are 40 + 16 = 56 lawns and 16 + 3 = 19 mowings. The expression is $33 x 19 + 16 x 10.Rearranging it is 40 x 10 + 16 x 10 = 33 x 19 + 16 x 10 = $328 and adding $33 to both sides of the equation gives 40 x 10 + 16 x 10 + 32 = $327 which simplifies to 10 x 40 + 10 x 16 = 80 x 2 = 160. Therefore, Lee will earn $160 last week.The answer is 160.question:#
+
+Let X be the number of dollars Lee earned mowing lawns last week. Then 16 - X/3 - 3(10) = 33.Simplifying, 4X + 30 = 33.Then the expression becomes X = 26.Therefore X = 3 * 7.The answer is  $21.  question:"Andy had a dream six years ago. He was sitting at a table in a restaurant#
+
+Let y be the number of mows that Lee did last week.Let t be the total number of customers. Since there are three $10 tips, t - 3 customers paid with $25 bills.Now let x be the number of customers who paid with $25 bills. So t = x + 2y + 3.Now y = $3,333.33$ thus $2y + 3 = $8,667.33$Rearranging $25 and $33 provides 2y + 26 = 33Since there are 25 $33$ bills, subtract 26 from 33 to get $7.So 2x = 7/2.5$So the number of lawns, or the number of customers, is t = 3x + 5 = 13 people.So since Lee charged 33 for each mow, he earned 33 * 13 = $397.33.$The answer is 397.33.question:#
+
+Let L be the amount of money earned mowing lawns. Then L = 33 + 16 * 10. Combining proportional and constant terms produces 16L.Substituting this into the equation for the demand produced 16L = 16 * (33 + 33 * 10).Next, distribute 16 to both side so 16L = 16 * 33.Then L = 33/36 lawns or one lawn costs L = 10 dollars.Therefore, the amount of money earned last week is 66 (10 dollars each) = 660 dollars.The answer is 660.（这个148来源很明了，来百度#
+
+She had $63 to begin with after the first lawn.Then on the second lawn, the tip was $10 and the charge was $33 so she had $80 left.Next, the tip was $10 and the charge was $33 so she had $90.She has earned $5 from each lawn - 3 lawns around $60 + $90 = 150 from second mowing - the payments of 10 & 33 so he has $115 left after mowing the second 16 lawns.Therefore, $115 - 16 Mn = 60 Mn.The answer is $60.The question may be simple#
+
+Let y be the amount of money earned. Then mowing one lawn is y + 10 * 3 = 17 + 30 = 47.Mowing 16 lawns is y + 10 * 16 = 17 + 160 = 177₋30 = 147.Therefore, the amount of money earned was y = 177 - 30 = 147 dollars.The answer is 147.question:#
+
+Lee earns 33 cents per lawn mowed and he mows 16 lawns. He earns (16 * 33) = 544.(The two numbers are multiplied because Lee earns 33 cents for each lawn mowed.)After three customers each give Lee 10 dollars, he earns (10 * 3) = 30 extra dollars.So, Lee earns 544 + 30 = 594 dollars last week.The answer is 594.Directions: Scroll down and click on the interactive quiz link.
+مجلوبة#
+

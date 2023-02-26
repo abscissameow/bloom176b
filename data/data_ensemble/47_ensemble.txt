@@ -1,0 +1,22 @@
+We can start by factoring out the second term of the bottom bracket. We know 60 megabytes / 5 megabytes = 120 seconds. So it takes 120 seconds for the first 60 megabytes to download. Then, another 120 seconds to download the last 30 megabytes. So 120 + 120 = 240 seconds.The answer is 240.question: Jake thinks it takes him 5#
+
+Let x be the number of seconds it takes to download.Then the expression becomes 100 = 5 * 60 * x + 10 * 60 * x.Simplifying the expression gives x = 1000.Thus the file takes 1000 seconds to download completely.The answer is 1000 seconds or one hour and 20 minutes#
+
+Let's represent the size of the file by S in megabytes and the downloading time by T in seconds. The first 60 megabytes takes S/60 megabytes of time or T/60 seconds. The next 10 megabytes will take S/10 megabytes or T/10 seconds. To convert T/60 and T/10 to minutes, multiply them by 60, and to convert them to hours, multiply them by 3600.You can write the following equations for the first part of the file and the last part of the file:T/60/60 = S/60 + (60 - S/10)*T/60 = S/60 + (60 - S/10)*3600T/60/60 + T/60 - T/60 = S/60 + (60 - S/10)*3600The two equations can be combined as:(S/60 + 60 - S/10)*T/60/60 + (60 - S/10)*T/60 = S/60 + 60 - S/10*T/60/60 = S/T + (60/60 - S/10)T/3600 = T/60 + 60 - S/10T = 60 + 60 - S/10T = 120 - S/10Therefore, T = 120 - S/10 seconds.The answer is 120 - S/10 seconds.#
+
+For the first 60 megabytes, it took 60/5 = 12 seconds.Then for the remaining 40 megabytes it takes (60 + 40)/10 = 18 seconds.The answer is 12 + 18 = 30 seconds.question: 4 of the numbers: 1, 5, 6, 8#
+
+Let a = the time for first 60 megabytes and b = the time for last 10 megabytes.The rate of change for b is 10 so 60a + 10b = 90.Solving for b gives 10 = 60a + 90 - 60a.Substituting for a gives 10 = 90b + 10b.Then, dividing both sides by 10 yields 1 = 90.Therefore, the time for last 10 megabytes is 0.The time for first 60 megabytes was 60/10 = 6 minutes.The answer is 60 + 6 = 66 minutes.question#
+
+Let x be the number of seconds it takes to download the file.Let x = y + z.y represents the number of seconds it takes for the first 60 megabytes of data.z represents the number of seconds it takes for the remaining 30 megabytes of data.For the first 60 megabytes of data, it would take (60 x 5) megabytes of data to be downloaded in 60 seconds, so (60 x 5) / 60 megabytes per second = x.Similarly, it would take 30 megabytes of data to be downloaded in 30 seconds, so (30 x 10) / 60 megabytes per second = z.Let t be the time it takes for all 90 megabytes of data to be downloaded.t = 60x + 30z = (60x + 30z) / 5 megabytes per second = 90 megabytes / 5 megabytes per second = 18 seconds.The answer is 18.#
+
+The file downloads at the rate of 5 megabytes per second for its first 60 megabytes, and then 10 megabytes per second thereafter. The total number of megabytes it takes to download is 60 + 60 + 60 + 60 + 60 + 60 + 60 + 10 + 10 = 450 megabytes.4500000 bytes * 8 = 360 kilobytesThus, 450 megabytes * 8 kilobytes = 36000000 kilobytes.360 kilobytes * 1000 seconds / 1000 kilobytes = 36000 seconds.Therefore, it takes about 360 seconds or 6 minutes.The answer is 360 seconds.question: 4 x 5 x 6 x 7 = 5 X#
+
+
+Let a = the time it takes for the first 60 megabytes to download, and b = the time it takes for the last 30 megabytes to download.So, the total download time is a + b seconds.The first 60 megabytes takes 5 megabytes per second x 60 = 300 seconds = 5 minutes.For the last 30 megabytes, it takes 10 megabytes per second x 30 = 300 seconds = 5 minutes.The answer is 5 minutes.#
+
+The file download at a rate of 5 mbps in the first minute, and then the rate doubles to 10 mbps. Since 90mb is the size of the file, the number of seconds required to download is 900 + (900 * (5 / 2) = 9 min. The answer is 9 minutes.question: Kyle eats half as much food as Sam does. Sam eats twice#
+
+Let y be the number of seconds the file will take to download.Then for the first 60 megabytes the file is downloaded at the rate of 5 megabytes per second for the first 60 megabytes so 60 = 5y megabytes.Combining like terms on the left side gives 5y + 60 = 90.Distribute 5 to y and x so it becomes 5y + 5x = 90.Adding 5y to both sides and then subtracting 60 from the left side gives 70 - 5y = 10.Transferring 10 to the right side gives 7y = 10.Solving for y gives y = 30 seconds.The answer is 30 seconds.question:#
+
+

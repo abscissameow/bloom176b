@@ -1,0 +1,20 @@
+Let x be the average number of skips per round for Jeff. Then Jeff skipped 16 - 3 - 4 + (1/2) * x = Sam's total number of skips the first three rounds.So Jeff skipped 10 + 4 = 14 times.On the fourth round Sam skipped 16 times so Jeff skipped 10 rounded up = 11 times.Now if we average 1, 2, 3 and 4, weighted by the relative abundances of the four rounds it will be 5. Thus x = 1 + 2 + 3 + 4 = 11. Therefore, x = 10 the answer.The value of#
+
+Let s1 be the number of skips per round completed by Sam, s2 be the number of skips per round completed by Jeff, and r be the number of rounds completed.Then s1 + s3 + 15 = 16Suppose that Sam completed 2 skips per round. Then s1 = 2 + 3 + 15 = 17Jeff completed 3 skips per round. Then s2 = 3 + 4 + 16 = 19With the given information, we can find that r = 17 + 19 + 8 = 35.So the average rounds is equivalent to 35/10 rounds.The answer is 3.5. After#
+
+Since Jeff did half of Sam's skips, we know that J = 16/2 = 8.Jeff skips 8/2 = 4 more times than Sam in the second round.Therefore, J = 8 + 4 = 12In the third round, if Jeff skips 4 more times than Sam, then J = 4 + 4 = 8.Thus, Jeff skipped J = 8 + 0 + 8 = 16 times in the first, second, and third round respectively.The average number of skips completed by Jeff = 16 x 3 / 4 = 8.The answer is 8.question:#
+
+Let x = average number of times Jeff skips per round.So, Sam skips 16 + 4 = 20 times per round. Jeff skips x + 3 + 1 + (1/5)(2) = 20 times.Then we have x + 10 = 19.On the left side, we group the 10 like terms to produce 10 / 2 = 5.Now distribute 19 to 5, producing 19 x 4 = 76.Subtract 4 from 4 to get 76 - 4 = 72, giving each square a size of 72.Each square shall have 72 x 4 = 288 skip possibilities.Therefore, x = (288 / 19) = 16.The average number of skips per round completed by Jeff is 16.The answer is 16.question:#
+
+Let x be the number of skips per round that Jeff completes. We want to find x.First, count up the number of skips every round.Round 1: 16 x 1- 1 = 16.For round 2, Jeff skips (16 - 3) x 58/54 -24/54 = (14 - 3) x 58/54 = (14 x 58/54) - (24 x 54/58) = 42 - 16 = 26 times.For the third round, Jeff skips (2 x 26) x 58/54 - 24/54 = (2 x (26 x 58/54)) - 24 = (26 + 48) - 24 = 82 times.Round 4: Jeff skips (x + 15) x 58/54x + 15 = 58/54    is not equal to 58/54 so one of the integers must be the modulus  58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69 is the remainder. it worked...            60/54  x    (x + 15) + 11/15   of times.Because Jeff has more points to look for than Sam, he wins the game by a half point!practice makes good quiz :)#
+
+Let's look at the numbers. 8 skips becomes 16 skips.Jeff completes 3 rounds, so we rough it out as 16 + 3 * 16 = 32 skips. = (32 + 16) ÷ 2 skipsJeff completed half so we have (32 + 32) ÷ 2 skips = 16 + 8 skips. = 16 ÷ 2Skipped twice, so Jeff skipped something like 16 * 2 = 32 times.The answer is 32 skips.#
+
+Let Y be the average number of skips per round. x = number of skips per round by Sam, y = the average number of skips per round for Jeff, 16 skips per round by Sam.Epoch. 1 :  1 + x - y = 1Epoch. 2 :  2 + 3 - 4 + x + 2y = 2Epoch. 3 :  1 + 4 + 3 - 2 = 7Epoch. 4 :  1 + 3 + 7 - 5 = 30To solve the equation for y, we have 176 = 26 - 1 - x + y + xy = 176 = 2(x - 2y) + ySubstituting the values we have 32 - 1 - 2 + y = 2y = 32 - 1 + 4 = 21y = 32 + 0.5 = 64For Jeff took 64 skips on average per round. The answer is 64.#
+
+Round 1: 11 extrasounds more logical to split this into 2 equal parts. Thus, there must be a 10 and a 1.Round 2 => 10 - 3 = 7 Round 3 => 7 + 4 = 11Round 4 : Half as many (8).Therefore, the average amount per round is 11/2 = 5 skips.The answer is (5.5).question:#
+
+Let B be the number of skips and X be the average number of skips per round.Then, we have 16 - B + 4x = 15The equation simplifies 70 - B = 15 which gives 15 + B = 15*B = 15 - 15 = 0  So B = 16 so X = 16 / 4 = 4The answer is 4.#
+
+Let x be the number of skips per round for Jeff.Therefore, for Jeff there is x + 1 = 16 to x + 3 = 18 and then x/2 + 4 = 17.Simplifying the above gives. 9 = 2x, divides by 2 will put x = 9.So,the average number of skips per round for Jeff is x = 18.The answeris 18.#
+

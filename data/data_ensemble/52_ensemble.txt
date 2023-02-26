@@ -1,0 +1,23 @@
+Arnel gave 5 pencils to his friends so each friend got 8/5 = 1.6 pencils. His five friends got 5 pencils each so he had 2 * 5 pencils.The 10 boxes of pencils each have the same number of pencils. So the number of pencils in each box is (10 + 2 * 5)/10 = (12 + 10)/10 = 12.5Pencils per box.The answer is 12.5 pencils per box.question#
+
+Let w be the number of pencils in each box. 10x = 10 + 8xThe number of pencils is 10 + 8x.10 + 8x = 10 + 5x + 7 so the equation becomes 15x = 11 and the equation simplifies to 3⋅5x = 11.Therefore the number of pencils in each box is w = 3x.The answer is 3x#
+
+If total number of pencils was x, then 10(n-1) + 10(n+1) = n*20 + 10(n+1) = 10(n+1) = 135 so x =135/10 = 13. Then x*10n = 0.53 nervous breakdowns is thirteen times ten to the fifth.68 chapters is thirteen times ten to the sixth. 10 chapters is thirteen times ten to the third.1,000 products is thirteen times ten to the tenth. 6,000 pesos is thirteen times ten to the fifth.The answers are 1, 3, 5 chapters, 68, and 6,000.question: One person can do a job in 5 days, two persons in 4.5 days, three persons in 4 days and four persons 3.5 days. If 20 people work at that job, how many days will it take to do it?answer: First, multiply the given numbers to find the number of days they take: Thus, 0.14 = 15, 0.27 = 20,#
+
+Arnel had 10 boxes and 10 pencils = 100 pencils in total.So each box contains 10/100 = 1/10.That means one box has 10 pencils and the others has 9 pencils.The answer is 1.question:#
+
+Let the number of pencils in one box of Arnel's pencils be x.At the start there were 10 x pencils.Arnel took 10 and his friends got (10 x) / 5 = 5 x as much as him.At the end, there are (10 x) - 10 - 5 x = x.Solving for x gets x = 10 - 10 - 5 = 5 pencils in a box.The answer is 5 pencils in a box.#
+
+Arnel had 10 boxes of pencils with 10 pencils each = 100 pencils.With the ten pencils that Arnel kept, he gave them to his friends equally so each friend would receive 10/10 = 1/10 of the remaining pencils.Thus Arnel had 7/10 of 90 pencils + the ten kept by Arnel = 80 pencils.So each friend would have received 180/8 = 24/40 of pencils but since Arnel's friends were five, Arnel used the 20% of 4  so 20 percent of 90 = 180 = 24 pencils.So each friend would still
+receive 24/5 pencils each.So 8 pencils would be distributed for each friend.The answer is 8.question:#
+
+10 pencils  = xPencils which remain = 10 - xPencils shared among 5 friends = 5 x x/5Pencils remaining after sharing = 10 - x - 5 x x/5 = 8 x x/5From Equalizer column, x = 3.The answer is 180 = 3x penc#
+
+Let y be the number of pencils in each box.Let b be the number of pencils that Arnel kept.The number of pencils in each box would be (10 + y) y.And since each friends got y pencils, his friends had 5*y pencils.However, his friends had 48 pencils so the total number of pencils in each box is 48*5 = 240*(6) = 48y = 240-9*y.This simplifies into 30 = y – b.Solving for y gives 9 – b = 30.Then solving this equation for b results in b = 9 – 30 = 9 – 27 = 3.Therefore, each box contains 36 pencils.The answer is 36.question:#
+
+Let x be the number of pencils in each box.Then the ten pencils Arnel kept are 10x and a total of 50 pencils = 20x.Ergo, 20x + 10x = 50 then 2x = 20 and x = 10.So there are 10 pencils in each box.The answer is 10.question:#
+
+Put X for the number of pencils in a box.Then the number of pencils given to Arnel, 10*X gets arranged as X + 10*X = 10.i.e., X + 10X = 10.Our equation has been transformed into linear form: 2X = 5 In order to find X, we have to solve this equation using a method called elimination. i.e.1) We first isolate X on one side,X + 5X = 10 X X = -1The number of pencils in each box (X) is equal to 5, that is, we have five pencils in each box.The answer is 5.question:#
+
+Let N be the number of pencils in each box and let F be the number of friends. Thus, 10N = 5F + 10 and since 5 can be aggregated on the side of the equation, 52F = 10 - 8F. Solving for F, we get F = 35 - 16N. With F being an integer we get that N is either 35 or 16.  The first solution is not possible since 35 is outside the range of possible values for N, so N = 16.The answer is 16.question:#
+

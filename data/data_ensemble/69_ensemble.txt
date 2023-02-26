@@ -1,0 +1,21 @@
+First, one seastar has 14 arms (7 arms from the starfish + 7 from the seastar).So Carly collected:(7+14)*5 = 118armsIn order to find the total number of arms, we can add up the Stars and the Star, giving us 7 + 14 + 7x + 14x = 118Then we can simplify the equation by combining the +x's:(14+7)x = 118Combining like terms gives 7x + 14x = 118.Then we can remove 14 and 7 from both sides of the equation: 7x - 14x = 118 - (14 + 7) = 100Subtracting the +x gives x - x = 100 - 0, which is 100 = 7x + 14x = 7x + 14x  which means x - x = 0Since the Seastar only has 7 arms, x = 7.x = 7 or 8 since there should be 8 arms in each seastar.CDQ-producttion.Net presents onThe WazzupChannel!
+How it works in this case:#
+
+Let a be the number of arms.First, there are 7 + 7 + 7 + 7 + 7 + 7 + 7 + 7 = 71 arms on the starfish, then 71* 5 = 351 arms. Next, the starfish have 351 + (14*7) = 1457 arms. The number of total arms would be 3571 = a.a = 3571352 = 1.52/1.52 = 1. Therefore, there are one starfish and eight arms on the starfish by 7 + 5 = 12.So, the total number of arms would be 2*1.52/1.52 is 2 = 105.The starfish have (4.52ml / 7ml) coupled with the seastar. (4.52ml / 14ml)armSo, the number total arms would be(4.52/1). 7 + (4.52/1). 14 = (4.52/1). 7 + 7 + 7 + 7 + 7 + 7 + 7 + (4.52/1). 7 + (4.52/1). 14 = 9.52/1 + 140.7 + (7/14 + 7/100) = 5.6 + (4.52/1).14.question: Newton, when he was helping his mother in the garden, noticed that after using a seedling of#
+
+Let X be the number of total arms.Then, 7 + 5X = 14.Multiplying will give 7 + 70X = 140 X + 70 = 140 X = 140 - 60 = 80 arms.The answer is 80.question:#
+
+Let F be the number of arms in total.So, the number of arms in the starfish would be 7 x 5 = 35 and the number of arms in the starfish would be 14.35 + 14 = 49.The answer is 49.question:#
+
+Under a yoke We're slothful behavior-castersWe'll do victorious victory noires.The number of arms a starfish has is 5.The number of arms a sea star has is 14.Combining the two, there are (7*5) + (1*14) = 4 + 14 = 18 total arms.The answer is  18.#
+
+So, there are 5*7 = 35 arms from 7 starfish.There is 1 seastar.Therefore, the answer is 35 + 1 = 36 arms.#
+
+Before the seastar arrived, the number of arms was simply 5 x 7 = 35. Without the seastar, there are 35 + 14 = 49 arms.Now, there is one seastar with 14 arms. The total number of arms is ∆ = 49 - 14 = 35. Therefore, the number of arms = 35 armsThe answer is 35.question:#
+
+Let x be the number of arms.So the total number of arms in the set is 7x + 14 = 9x.The sum of the number of arms in each of the animals she collected is 9x.Then the sum of the number of arms on the starfish = x+5(5x) = 9x.Then 7x + 5x = 9x, simplifying the equation to 5x = 9.Then use the known value 7 = 5x and the solution is x = 3.The answer is 9x3 + 14 = 39.question:#
+
+We can group the animals up in 4 groups as follows:??  7 starfish with 5 arms each are noted s1 = n(5, 7).??  1 seastar with 14 arms is noted s2 = n(14, 1).??  Carla has collected both of those animals. The total number of arms is thus n(s1 + s2) = n(35, 1).The answer is 8.question:#
+
+We need to sum the number of arms on the starfish and the seastar.Therefore, 7 + 5 + 14 = 27.The answer is 27.question:#
+

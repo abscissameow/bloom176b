@@ -1,0 +1,19 @@
+Let x represent the number of pages Joy read. Then x = 120 / 8 = 15 pages.Joy could read 15 pages per hour.Thus, the time in hours will be x / 20 = 15 / 20 = 0.75 hours.Joy can read 120 pages in (120 / 20) x 0.75 = 0.75 x 0.75 = 0.5 hours.The answer is 0.5 hours.question: Lizzie did 13 of her projects in half the time#
+
+120 pages ÷ 8 pages = 15. Then 15 ÷ 20 minutes = 7.5 hours. Therefore, it would take Joy 7.5 hours to read 120 pages.The answer is 7.5 hours.question: Candy bags contain numbers and the bags always contain a multiple of 6. Candy bags#
+
+120 pages has 60 pages.60 pages / 8 pages = 7 minutes, 20 seconds.So, the number of hours will be 120 minutes / 7 minutes, 20 seconds = 18 hours and 40 minutes.The answer is 18 hours and 40 minutes.question: David can give 3 bags of candy#
+
+Let x be the number of pages that she reads per hour. So 120 x is the number of pages that she will read in 1 hour. Therefore, the expression reduces to 120 x = 20.Multiplying both sides of the equation by 3 produces 240 x = 60.Then 240/60 = 4.Therefore, x = 4.The answer is 4.question: How many times would you have#
+
+Let x be the number of hours it will take her to read 120 pages.8 pages in 20 minutes = 40 pages in 1 hour.120 pages = 40x pages in 1 hour.In the previous equation, x = 120/40 = 3 hours.The answer is 3 hours.question: A#
+
+120 pages / 8 pages per hour = 15 hours.The answer is 15 hours.question: Kayla bought a new microscope for $100. She went to the Dollar Store and bought 5 books,#
+
+Let a be the number of pages Joy reads in 20 minutes.Then a/8 is the number of pages Joy reads in 1 hour.Each hour has 60 minutes and 120 minutes has 12 hours.Therefore, 60/a = 12.Thus, the time in hours for Joy to read 120 pages is 60/(120/8) or 12/8 = 1 hour and 40 minutes.The answer is 1 hour and 40 minutes.question: Caroline bought a box of chocolates and ate one each day for 30 days#
+
+Let x be the number of hours that Joy takes to read the 120 pages. Then, 8x = 120.Since an hour has 60 minutes, there must be x/600 pages per hour.Rearranging gives 120 = 8x + x/60.Moving the 60 to the other side of the equation gives 120 = 8x + 30.By subtracting 30 from both sides, we can get x = 120 / 8 = 15.So, it will take Joy 15 hours to read 120 pages.The answer is 15.question: Each day, Nelson eats 30 guavas and 56#
+
+Let P be the number of pages to read. To read 8 pages in 20 minutes, we can say she reads 4 pages in 5 minutes. From the question, she has to read 120 pages. From the first, she will read 120/4 = 30 pages in 30 minutes.Multiplying 20 by 30 gives 600 minutes. The sum is 30 hours.Since the answer is only an integer, the value of P is 120.The answer is 120.#
+
+120 pages / 8 pages per minute = 15 minutes.15 minutes / 20 minutes per hour = 3/4 hours.The answer is 3/4 hour.question: Mary counts the number of miles from the gas station#

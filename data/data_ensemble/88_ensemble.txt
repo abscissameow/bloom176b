@@ -1,0 +1,20 @@
+The number of geckos sold the year before is the same as this year's until Brandon sold 8 more last year. So, the number of geckos sold last year before Brandon sold 8 more was 86 + 8 = 94 geckos.Now we have (86 + 8) x 2 = 174 geckos.The answer is 174.question:#
+
+Let x = the number of geckos sold in the two last years. The total number of gecko sales since 2009 is 2(x).There were 86 gecko sales in 2009 so there can be 86 - x. The remaining 86 were either sold in 2010 or 2011 to produce the final remaining number of gecko sales.These two equations can be made full by adding x to both sides of the first equation - 1Let K be the number of gecko sales in 2011 and A be the then the number of gecko sales in 2010 300 = 2x + 10K + 20A 79 = 4.4x + 5K + 13ALet K be the number of fish Guess sold in 2010 and y be the total of fish Guess sold betwen 2002 and 2010.We know we have 79 fish so 2000 + 79 - 21999 + 1980 + 51959 + 1954 + 121951 + 13 1948 + = 79370 in 2002. Since we have 370 fish sold in other years#
+
+Basically, we want to know what this equation: millones + millones = 86 means in terms of x and 2x:million + millones = 86x + 2x1 == 8.Then let's arrange the numbers this way:83 + 2" x = 86.Now, let's make sure that 2 is equal to 2x and not 1:2x = 22<x < 23NOTE THAT 2 IS ON THE L.H.S. AND 21 ON THE R.H.S.CONCLUSION:Without going ahead of ourselves, we can already see that if 2 = 2mx + x, we can write the equations as in the Mahjong Tiles Set puzzles.So with x=23, the last equation will look like this:2x + 2 (2x) == 8.2x + x == 45x + 3 == 6.3 == 4.The last equation just solves for x in terms of 3 because obviously multiplying 3 by another number will not make it larger.Therefore, x = 23 is the answer#
+
+If B is the number of geckos that Brandon sold in the last year then, 86 x 2 = 2B.Adding 86 (number that was sold in the last year plus year before) to both sides gives 2B + 86 = 170.Multiplying both sides by 60/20 gives 100B/60 = 170 x 20/60.Distributing the 1/20 gives 10B = 170 / 20.Simplifying is 10B: 170 = 10: 20.Therefore, we solve for the number of geckos that were sold already getting the answer A = 10.Brandon sold 10 geckos in the#
+
+Let x be the number of geckos that Brandon sold last year. Let y be the number of geckos that Brandon sold the year before.The number of geckos that Brandon sold this year is 2*x + y.Adding the two years totals the number of geckos sold is 2*x + 2*y + y From the question we have 86 = 2*x + y and 86 = 2*x + y + y therefore 4*85 = 2*x + y + y, and 5*84 = 2*x +y + y therefore 86-15*86 = 2*x + y, and 86 - 15 * 86 = 2*x + 2y.The number of geckos sold is2*(86 - 15) = 2*76 = 2*42 = 14.The answer is 14.question:#
+
+90 = How many geckos has Brandon sold this year? 86 = How many geckos did he sell the year before.He sold twice as many as he sold the previous year so 86 = 2 * 90 = 190.The answer is 190.question:#
+
+Using x as the number of geckos Brandon has sold in the last two years, 86 -x = 2(86 -x) = 4(x + 86) = 176The answer is 176.#
+
+The year before, he sold 86x2 = 176 geckos.The year before that, he sold 176x2 = 432 geckos.Thus, the geckos that he has sold in the last two years are In this video we learn how to solve word problems. The rules of word problems include: the fact that we have exactly one equation and one unknown (just a single equation), easy words are the same on both sides of the equation, and that a guess is never just any answer. easy words and terms are always the same on both sides of the equation.divide and multiply#
+
+We can be randomly selecting 86 geckos every year.This means that we combine geckos from both years for one year.This gives us 86 + 2*86 = 174 geckos that were sold for one year.Since 174 is from 2 years, we divide it by 2 to get 86 geckos from each year.Thus, we get 86 geckos from each year.The answer is 86 geckos for each year.question:#
+
+The first year, Brandon sold 86.Let y be the number of geckos sold the second year.Then the second equation is 2x = 298.Geckos sold during all 2 years would be 2x + 86 = 300.Thus, y = 298 - 300 = -2.The answer is 86.question:#
+

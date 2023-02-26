@@ -1,0 +1,21 @@
+The amount of money that was shared was x.So Ken got 17500 - x, and Tony got 2x - x.Subtracting 17500 from both sides of the equations produces 1500 = 2x - x.Now, divide both sides by 2 to get 500 = x.After simplifying, we get x = 250.Therefore, the amount of money shared was 250.The answer is 250.question: A policeman receives one dollar for every five hours he spends on the street.#
+
+Ken got $1750.Thus, if Tony got twice as much as Ken, he would get 17500.Since the total money given was $18000, the amount shared is $18000 - 17500 = $750.Therefore, Tony got $1750 and Ken got $750.The answer is 750.#
+
+Mr. Sam shared an amount of money x.Ken got x/2.Tony got 2 * x.There is an expression 2 * x = x/2.Solving for x gives 2x = 2.x = 2 + x = 2 + 2x = 4 * x.x = 4x.x = 16.The answer is 16.question: This Maths game is about numbers. Write down#
+
+Let y be the amount of money that Tony got.Tony got twice as much as Ken so y = 2 * x.Mr. Sam shared a certain amount of money so the equation is x + 2y = z.Simplifying the expression results in 2 * x + 2 * z = z.Then distribute 2 to 2z.It becomes 2 * 2z = 2z.And, therefore, 2z = z + z = 2z.This simplifies to z = 2z.Mr. Sam shared a certain amount of money. Therefore, the amount was 2z.Because 2 is a constant, z is the answer.Therefore, the amount of money Mr. Sam shared is $5000.The answer is $5000.note: Answers to some of the questions in#
+
+Let y be the amount of money that Mr. Sam shared.Ken got $1750/y so Tony got $1750/(2y) or $3375/y.Since Tony got twice as much as Ken, we can replace y with 2y so that 17500/(2y) = 3375/2y.Then we solve for y: 3375/2y = 3375 or y = 167.50.Therefore, the total amount of money is 1750 + 1750 + 50 = 3375.Mr. Sam shared $167.50 of money.The answer is $167.50.Phew! A lot of kids love these math problems and I hope they were#
+
+Let x be the amount of money shared.Tony got 2x, so he gets 2x + $1750 = $3500.If Ken got 2x, then 2x + x = $3500. Thus, we get the equation 2x + x = $3500.Distributing the 2 across both sides gives x + 2x = 3500 and 2x = $3500 - xThen we can move the $3500 - x across both sides, giving us 2x = $3500 and x = $1500.Then the answer is x = $1500.The answer is 1500.question: The swimming pool costs $50 to be cleaned# 
+
+Let x be the total amount of money shared. Ken got $1750 - x and Tony got 2 * x.The equation becomes 2 * x + (1750 - x) = 1750.Let the left side equal y.Then, let x = (y + 1740)/2.The equation becomes 2y + 1740 = 1750.Then, distribute 2 to both sides of the equation.The equation becomes 4y + 1740 = 1750.Solving for y produces y = 950.Thus, the total amount shared is $950.The answer is $950.question: It is raining, so we bring two umbrellas to school. One umbrella protects two students#
+
+If Tony got twice as much as Ken then Tony got $x where 2x = 1750. Then $x = 1750/2 = 875.The money shared is $x + x$ so it is $1750 + 875 = $2225.The answer is $2225.question: In a math contest, Matt#
+
+Let's start by looking at how much each boy got.Ken got $1750 and Tony got 1757.Tony got 1757, which is 1757 + 1757.Since Tony got twice as much as Ken, we get 1757 + 1757 = 34 + 34.Therefore, twice 34 is 68, and Ken got 1757 - 68 = 1749.Now we need to add up the two amounts. 1749 + 341749 = 6764, so we can say that the sum of the amounts was 6764.Now we need to put everything together to solve the problem.The original problem was, Ken got $1750 and Tony got twice as much as Ken.Two times 1757 is 341757 + 1750 = 341757 + 1749 = 6764Which means, that $1750 + 1757 = 6764So the answer to the problem is 6764.question: Tom is trying to find out his daily distance in a race he runs. He#
+
+Let x be the amount shared.Let y be twice the amount that Ken got.So y would be x*2.To find the total amount shared, we would have to add up both Ken's and Tony's portions so x + y = 2300.Since Ken got half of the shared amount, his portion is 2x.The equation can now be written as 2x + y = 2300.Solving for x produces 2x + y = 2300, or 2(x + y) = 2300, so x + y = 2300/2 = x + y = 1100.Then y = 1100 - x.Since Ken got $1750, x = 1750/2 = 875.Therefore, the shared amount was 875 + twice that amount = 875 + 1100 = $2225.The answer is $2225.question: Gilbert found a quarter. If he threw the quarter at 1#
+
+

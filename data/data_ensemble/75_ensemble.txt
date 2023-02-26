@@ -1,0 +1,32 @@
+Let P be the cost of the breakfast. Using P and the arithmetic properties of £1 and £3 gives 2 + 2 = 2 + 2 + BSo the number of slices of toast is 2 + B.It also has 2 eggs so 2 + B = 2 + 2 + BSo 2 = B - 2Bure 2 = B (B - 1)2Double the B (B - 1) on the left side and distribute the 2 to 2 on the right side.So B = 2 + 2 = 5The answer is 5, £5.question:#
+
+Let T be the number of slices of toast.Then the toast for Dale is 2 * T = 4 slices.Let E be the number of eggs.Then the eggs for Dale is 2 * (3 * E) = 12 eggs.Let D be the variable for the cost incurred by Dale.Then D = £1 * T + £3 * ((2 * E) + 1) = 16 + 9 = 25.After simplifying, it becomes 3 * T = 4.Substituting the number from the equation for T, the value for T is 1.Therefore, the cost incurred by Dale is £1 + £3 = £4.
+
+ question
+
+ ====
+$5$ Fruit Baskets are placed in a designated area.
+The distance from the left to the middle basket is $x$ inches, and the distance from the middle to the right basket is $x$ inches.
+
+What is the sum of the distances?
+explict $x:4$
+answer: $\frac{x}{2} + x + \frac{x}{2} = 3x+x = 3x+5$
+ x=6 in
+ #
+
+X = the cost of their breakfast.Dale ate  x + 2 for breakfast so, £x + 2 + (3x + 4) = £11Dale had toast and eggs so, 2 * £x + 2 = 5 * £xSo the equation simplifies to x + 2 + 5x = 12x = 12/5 = 2 dollars, and the answer is 2 + 2 + 3 + 2 = 7 dollars.This is where learning our coloring pages will help the most#
+
+Let T be the number of slices of toast.Then the amount of toast = 2 + T = 4.Let E be the number of eggs.Then the amount of eggs = 3 + E = 5.Then Andrew had 2 slices of toast at £1 each and 5 eggs at 3 each fells at £2.Total = (1 + 3 + 2) · 2 + (3 + 1) + 2 = 20 + 6 + 2 = 32.Therefore, addition 32. The total cost of their breakfast is £32.The answer is £32.question:#
+
+let x be the cost of their breakfast.We know that Dale and Andrew consumed 2 + 2 = 4 units.There are two ways to look at this cost:one way is 2x = 4plus a combination of constants gives 2x - 3 = 9.substituting for x gives x = 9/3 = 3.Therefore, the cost of their breakfast was £6.The other way is 2(x + y) = 4The total cost for all of them is two times the sum of these x + y = 4units.Adding the x and the y together results in 2x + 2y = 4x + 2y = 4, which reduces to 2x = 2y.The equation then simplifies to £2 = £4.Substituting in either values for x and y gives £2 = £4 which means the cost of breakfast was £6.The answer is £6.question:#
+
+Let x be the cost of the total breakfast. D only ate 2 slices of toast and thus 2 * x + 2 = 4 * x. Adding y to both sides (y is the cost of the 2 eggs and is thus the half of the breakfast) gives 4 * x = 4 * yEvery slice of toast costs 1 * x. Andrew only gets 1 slice and thus 1 * x = 4 * yAdding the like terms gives x = y and thus the cost of the breakfast is y.1 * 1 = y 2x  = y 2x = 2y 2x = 4y 2x = 8y 2x = £ 6 yThe cost of the breakfast was £6.The answer is £6.question:#
+
+Andrew paid £2 for the egg.Since Andrew's breakfast paid £2, Dale and Andrew took them when they paid. So that is 3 - 1 + 2 = 6 eggs.Dale paid £2 for 4 eggs. Since Sandra and Andrew paid, Dale paid £2 for the 2 slices of toast that he had.So that is 2 + 2 × 2 = 6 of toast. Andrew paid £1 for 1 slice of toast.Their total cost is 1 + 3 × 2 = 7 to be spent on total cost of eggs and toast.Andrew and Dale have eaten 8 pieces of toast. On top of that, they have 12 pieces of food.Answer:  Andrew had 1 slice of toast and 2 eggs.So that means that Andrew paid 6 eggs = 2 slices + 2 slices#
+
+There are 4 things to pay for: 2 slices of toast, 2 eggs, and the cost of the drink. The cost of the drink is irrelevant here. So the cost is 24. 2 * 12 + 3 * 2 = 24 question is wrong! There is an error in step 2 and 3. Also, the answer is not 24. The answer is 42.answer: There are a few problems#
+
+Let x be the cost of their breakfast.The price of toast is £1. Two slices of toast are worth 2*£1 = 2*x.Adding their eggs cost another 2*x. Therefore, 2*x + 2*x = 3x.Dividing £3 by the 2 slices gives their breakfast cost £3 + 2*x = 3x.Adding both their eggs gives their breakfast is equal 3x + 2x. The solution is x = 6. Therefore, the total cost for breakfast was £6.The answer is £6.question:#
+
+2 x (£3 x 1) + (£1 x 2 x 1) + 2 x (£3 x 1) = x + x + 2(£3 x 1).The equation is x + x + 2(£3 x 1) = £10.Then cancel out the £x and regroup x to the right side.Solving for x (using the quadratic equation) gives x = (-21 + 9 - (-4))/(-3 - 1) = 10/3 = 3 shilling.Therefore, their cost is £10 × (2 x 1) + £10 × (3 x 1) = £30 + 3 x £10 = £100.The answer is £80.question:#
+

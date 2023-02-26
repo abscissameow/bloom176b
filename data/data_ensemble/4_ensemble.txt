@@ -1,0 +1,34 @@
+ Let P be the number of pages he writes per year (per year 3 pages).(Thus, each week he writes P/2-1 pages, twice a week.)Also, each try he has two friends and thus counts twice.Hence, James writes 6*2*P/2 = 2*P pages in a year.The answer is 2P.question: Joey got $7 more than he needed for his library book fee.His book fee was $1 more than his budget.How much money did he have#
+
+ There are 52 letters in a year.Let x: number of different friends.52 * 2 = 104Monday Tuesday WednesdayThursday FridaySaturdaySundayMondayTuesdayWednesdayThursday FridaySaturdaySunday............................................................So the number of pages = 2x * (3 - 2 + 1) = 4x + 2 = 26 pages.The answer is 26.question:  221 can be written as the sum of two two-digit numbers. Show that numbers. If you use the digit 9 cant#
+
+ Let x be the number of pages James writes.  Then 3 × 2/week = 6/weekx × 2 pages = 6 pages / weekOr 6 = 2x pages / weekJames writes a total of 12 pages per week (6 × 2 = 12).12 x 52 weeks a year = 624 pages a year.The answer is 624.question: Eric loves animals so he wants to name his cat James which is the same as Bob. This is not acceptable because Bob is his dog's name.#
+
+ Let h be the number of tips included. 13-h = x.Let a be the number of times he writes to each friend. Then 2x = 24h.Factoring 24 produces 2x = 12.Therefore, x = 6.In words  James sends 6 letters to 2 different friends a day.Each letter counts as 1 page.However, the number of pages counted is not a integer so we round down.James really writes 5.25 pages a year.The answer is 5.25 pages#
+
+ Let x the number of pages he writes in a week.He sends one letter to each friend, 28 letters, totaling to 5x weekly.Time takes 168 hours a week, 24 hours in each working day, so 24x letter he writes daily.Therefore the total number of pages written by James a year is 5 (3x )168 = 5 (3x) x 6 = 2190 pages.The answer is 2190 pages. 176expts question bank</s>#
+
+ James writes the following:
+                            3 pages to   2 friends                    3 times/week
+Let x1 and x2 be the times James writes the letter to the two friends.Students!
+So we have the total number of pages James writes per year is (x1 + x2) * 52 weeks = (x1+x2) * 13+2). Adding doubles gives (x1 + x2) * (13 + 2) = 22 * x1 + 22 * x2.Separating in terms gives 22( x1 +
+                   x2) = (22+ 22),
+                   11(x1 + x2) = 22 * 22.
+Let 11 be the common factor, so 22 = 2 * 11.Substituting this and 22 = 2 * 11 gives 2 * (2 * 11#
+
+ Let us call the two friends, A and B.So, using multiple additionthe number of pages he writes per year is ((3 pages per letter to A) + (3 pages per letter to B)) x (2 x 52 weeks in a year) = 126 pages.The answer is 126.question: Tracey patted 152 km along the sides of Lake Superior.  Every day, she walked 8 km to survey new areas.  As she traveled along Lake Superior, she stopped to look at#
+
+ Let x represent how many pages James writes each year. Let N represent the number of friends upon whom James is writing. By definition, x * 2*N = 3 * 12. This has one real solution and that is, x = 162, and N = 2.So James writes 20 * 162 = 3456 pages a year.The answer is 3456.question: A ladder 15 meters high gets broken. John, after climbing 2.1 meters from the bottom, walks down. Can Amos#
+
+ There are 52 pages in a year since he writes at two, 4 page letters weekly. So, let x be the number of pages written and P be the number of weeks in a year. So, 2 pw, x/2 = x. 14 x = 4 * 52. The solution is x = 678 and this is in fractions (5 brevis, 2 medium and 1 long). The more direct solution is x = 14 * 50760 = 90240 pages.The answer is 90240.#
+
+ We can use our friend x to solve this problem. So we write down the formula: x / 2  Page Letters x 7 Days a Week x 52 Weeks a Year. (We assume James only works 6 days a week, except 1 day a year). Solve first we get x = 78.  
+
+ This is a system of equations since x appears twice.  We want to find x that will make these equations true.  To do this, let's write one side as m*x.  Then x divides both sides of each equation by the same number to find m. (here 1 divides into all 3 sides easily). This gives us our two equations:  x / 2  Page Letters = 78 m*  and  x 7 Days a Week = 6 m#
+
+ Let P be the number of pages james writes per week.Let W be the number of weeks.Let Y be the number of years then, we have 2 * P * W * Y = 6.Now, W = 52 because there are 52 weeks in a year.2 * 3 * 52 = 26.Now, P = 6 because James writes 3 pages twice a week.6 * 2 * 52 = 168.Therefore, the answer is 804.question: Eight women each won a#
+
+ Let X be the number of pages he writes a year. First, each of his letters has 3 pages in total.  X * 2 * 3 = 12 (by multiplying 2 first, we add the 2 friends together first and add the 12 months next). Now, divide 12 by 3 weeks to get 4. To each letter he writes twice a week and gets a factor of 6 - The divisor is 3. Then multiply factor of 6 by the number of letters X to get 36. The factor of 6 is because each letter lasts the week, times 2, for each letter his friends get half, so its 6 divided by 2 = 3. Now, 36 is the product of 24 (the number of weeks he writes) times 12 (the#
+
+ Let C = the number of times James writes a letter. divide it by 2 because that is a mean. HE writes to 2 friends. Move 2 to numerator divide by it is because divisor, 2 full times.Therefore: PAGE = C x 52 ÷ 2 = C x 26 ÷ 2 = C x 14 ÷ 2Resolve the proper fraction and you get PAGE = C x 13.The answer is 13.question: Jack has a freakin' huge collection of Sudoku puzzles and#
+

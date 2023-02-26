@@ -1,0 +1,21 @@
+Let x be the amount the cow weighs now and y be the amount of the cow weighs before it gained the weight.Then the cow weighed x + y = 700 pounds before he gained weight.Then the farm weighs 7.000 pounds after the cow gained weight. Thus, x = 7.000 / 1.00 + y = 7.000  x = 7.000 y = 7.000 / 1.005y = 700.000 / 1.005x = 88.2459 pounds.The answer is 88.2459 pounds.question:#
+
+This is a simple application of the linear equation ax + b = c. We first transform the equation into a linear one, so we have (x + 0.5) * TRENTO $ 400 = 3 where x is the gain in weight in pounds, and we have identified the starting weight as x = 0.  The next step is to solve for x; the gain in weight. The first step is to factor 3 into 400 so we have 3 = 400 * z. Because z * x = 3, we then have 50 = x * z.  The gain in weight is 250 pounds.question: Sam plays king of the hill in his backyard.  He is currently at a horizontal distance of 7 feet, and he is twice the horizontal distance from his house as he is to his fence.  Find a quadratic equation that models his surprising running ability.Answer: Let x be the distance at which Sam#
+
+We know: weight = pounds x pounds3 = (pounds) times (pounds x pounds)54 = pounds × pounds x 33 = pounds x pounds54 = pound(s)3/2  The cow weighs 1.5 times its weight before Olin sold it.Also  1.5 = (3/2)1.5 = (3/2)(2).Therefore: 54 = pounds × pounds(3/2 )×3/2*3/2 = pound(s)6/4  Olin sold the cow for $3$ per pound. So Olin received $3 × pounds = donation.And we know that:  pounds = (pound(s))6/4  Olin received $240 for the cow.Difference in John's money is $240 - donation.So:240 = donation$245 = donations$Donation = ${240}shorter questionStacey's bench press has a plaque stating that the force the bench press can bear is the weight multiplied by the weight. Stacey's statement stated otherwise, he said the force is the weight multiplied by the weight multiplied by.5. Calculate#
+
+He can sell the cow for $3x pounds$where x is the weight.He starts with 400 pounds. So 400 is equal to 1.5x.I replace the x with the actual number. 1.5(400) = 600Hence, it gained 300 pounds.The answer is 300.question:#
+
+It's worth for $3 per pound. Thus 3*(400/1.5)= 1500 dollars.The answer is 1500 dollars.#
+
+The value of the cow, V, is 400 x $3 or $12,000.Then,  If John only sold half of the cow now, he could sell half for $7 per pound.So, the value is $100 x $2 or $2,000So, V = 12,000 - $2,000 = $10,000The pork chop was worth $2,000 more to John after gaining the weight.The answer is $10,000.  Hindsight verification steps:weigh 3 pounds (600#
+
+John's cow weighs 400 pounds.The cow's weight increases to 1.5 x 400 = 300 pounds.John sold it for $3.00/lb.The increase in weight is 300 - 400 = -100 pounds.The greater weight is $1.5 times the old weight - the new weight.The equal is sold.The answer is 100.question:#
+
+The weight per pound is 1.5 * 400 pounds so 400 / 1.5 = 250 pounds.$3/pound means that the price per pound is $30.  Therefore $10 * 4 (discounted cent) = $20 and so the total price is 20 * 250 = $5,000 less 20% discount (20% = 400 * 0.2 = 80 pounds) 80*39 = $3,000.The answer is $10, 000.#
+
+We can get rid of 400 from our equation because we know it's how much the cow weighs.Notice that "including weight" was there before, so we can think at 1.5 as 100/100 + 50/100 or 185%.  Therefore, there it's worth $52.50 more.  When you do the dividing, you get $6 (see these answers though).
+question:#
+
+Because $3 * 1.5 = $4.5. Multiply by the weight to get the daily gain which  is $4.5 * 400 = 1650. Divide by days and get 1650/28 = 65.Therefore, the total gain is 1480 + 65 = 1500 for the week.The answer is 1500.question:#
+

@@ -1,0 +1,21 @@
+Let x be the number of gumballs that Hector bought.Then the number of gumballs that he gave to Todd is x+1.The number of gumballs that he gave to Alisha is (x+1)*2.The number of gumballs that he gave to Bobby is ((x+1)*2) - 4.He gave 5 less than four times as many gumballs to Bobby as he had given to Alisha so (((x+1)*2) - 4) - 5 = 6.Now Hector has (x+1) + ((x+1)*2) - 4 + 5 = 6 gumballs leftover.The total number of gumballs that Hector purchased is x=6 -x. = 6 - x = 30.The answer is 30.question:#
+
+Todd received x gumballs, Alisha received 3x gumballs, and Bobby received 4x gumballs. Therefore, 4*x+3x+4x = 24.  Writing out 4x gives 4x*x = 12 and 3x*x = 9. Adding these gives 12 + 9 = 21. Additionally, 5*x - 4x = -3.  Putting the values in 4x*x = 12 gives x = 6. However, matching the 7 that has been subtracted produces x = 21 - 7 = 14. Therefore, 3x = 14/3 = 4. As Alisha received 4 times x gumballs, she got 4*4 = 16 gumballs. The total amount of gumballs received was 16+ 14 = 30. The total number of gumballs was therefore 30 + 6 = 36. The number of gumballs outside of the three from the start was 54 - 36 = 18. The answer is 18.question:#
+
+Let x be the number of gumballs purchased.Then we have 4x + 8 = 6 so 3x = 5.Als sheh took 4x + 4 = 8 so sheh received 4 + 4x = 8gumballs.He gave 4 and 2x = 14 = 4x + 4 so he had 13 remaining.15 = 13 + 4x so 5 = 3x.Therefore, x = 5.The answer is 5.question:#
+
+Let's say he purchased n gumballs.  Then his total gumballs can be represented as n + 4 + 2 * 3n - 5 * 4n = 6Neglecting the left-hand parentheses, and regrouping using the multiplication by multiple of 4 formula (a * 4 = 4 + 4 + 4 + 4, so a * 4 = 20) produces 2n = 20  (6 + 4 + 4 + 4) = (6/2 + 6) * 4 = 20Multiplying both sides of the equation by 2 gives n = 20 / 2 = 10The number of gumballs that he purchased was 10 gumballs.The answer is 10.question:#
+
+If the total number of gumballs that Hector purchased is x, then apply the following operations:4 + 2x - 5 = 6Distribute the -4 to the 2x to get 8 + 2x - 5 = 6Rearrange the terms that would give x = (8 + 2x) - 5 = 2x - 5Subtract 5 from both sides to get x = 2x - 5Answer is 26.#
+
+Let x be the number of gumballs that Hector had purchased.When he gave Todd 4 gumballs, he had x - 4 left.When he gave Alisha 2x = 8 gumballs, he had x - 8 left.When he gave a total of 4x + 5 = 13 gumballs, he had 2x - 5 left.The expression thus simplifies to 3x - 5.So after he has given Alisha 2x - 5 gumballs, 2x - 5 = 5.Multiplying both sides by x gives 2x = 5x.In the form of a fraction, that's 2 = x / 5.Thus, the number of gumballs that Hector purchased is x = 20.The answer is 20.question:#
+
+Let x be the number of gumballs that Hector purchased.According to the problem, he could use this equation 4x + 2x + (x - 5) = 6Then we have 4x + 2x = 12 which can be simplified to 2x = 6 -2xThus we find 2x = 3, x = 6/6 = 1.Question from Tim West: A week from Saturday is Friday. What is a week from Friday? Like sevens from thirteen. Is this correct?Answer:Yes. No#
+
+Let a be the number of gumballs he purchased.  Then 4 * a + 2a = 8 * a (?) or 2 * a = 8a (?) if he gave Todd 4 gumballs, then 8 * a = a + 8a.If he gave two gumballs to Alisha, then a = 2 * 8 - 5 * 8 = 8 - 30 = -28.The answer is a = 38 / 2 or the answer is 19 gumballs.Let's Go Math Game!question#
+
+Let C = total purchases.4 is given to Todd so C-4 is given to Alisha.2 * 4 is given to Alisha= C - 2C.Thus C = C + 2C - 2C or²C - 2C = 24 C – 4C   Initially C = 12.12² - 21 - 2 = 8.12 / 8 = 5.Hector purchased 5 gumballs.The answer is 5.#
+
+Let x be the total number of gumballs purchased.We know that x = 4x + 2x2 + 5.(4 - 5)(2x - 1) = 2x(2 - 5)Since x must be an integer, we can assume that x = 1.Thus 2 - 5 = -3.Simplifying 3x(-2) = -3x(1) yields x = 3.The answer is 3.make sure to visit our site The answer is 3.
+more math printable worksheets#
+

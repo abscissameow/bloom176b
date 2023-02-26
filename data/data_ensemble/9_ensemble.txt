@@ -1,0 +1,21 @@
+ Let h be the number of hours worked per day and d be the number of days worked.Then the equation becomes 1.5(h + h) + h + h + h + h + h + h = $18.0 + 5(h + h) = $18.0 + 8.0 hours = $18.0 + $9.0 hours = $27.0 hoursThis simplifies to h = 27/9 = 3.0 hours.The answer is $3.0 * 10 = $30.0.question: Bob and Matt both pay $3.00 for#
+
+ Let X be the amount Tina made.Since Tina worked more than 8 hours she has been eligible for overtime.The overtime pay = wage * 1.5 * hours.She worked 10 hours per day for 5 days so 5 * 10 = 50 hours.Thus, the amount Tina made is X = 18.00 * 1.5 * 50 = 1080 dollars.The answer is 1080.#
+
+x = The number of hours worked.y = The hours worked over the 8 hour limit.z = The overtime hours for the extra 2.5 hours. w = The hourly wage.Therefore, the equation becomes 10 = 5x + 2.5z + w/2.Subtracting 2.5x + z from both sides gives 8.5 = 5x + w.Then dividing both sides by 5 gives 1.75 = w.The hourly wage would be $1.75.The answer is $1.75.question: Lizzie and Steven both have the#
+
+Let x be the amount of money Tina makes.Then her hourly wage is 18.00/x, and the 1/2 her hourly wage is (18.00/x)/2 = 9.00/x.Tina works more than 8 hours per shift, so 9.00/x + 18.00/x = 18.00.The 18.00 can be divided between x and 9.00/x. Thus, x + 9.00/x = 18.00.After simplifying, we get x = 18.00/9.00 = 2.00 hours per day.Therefore, she works 10x2.00 = 20 hours.She makes (18.00 + 9.00/2) x 20 = 540.00.The answer is 540.question: Carol is writing a composition#
+
+(10 hour x.5 hour) x 5 days = 50 x.5 = 25 hours.Therefore, she gets 18 + (18.5) = 36.50.The answer is $36.50.question: Carla charges $3.00 for five (5) baseball cards and $4.00 for ten (10) baseball#
+
+(10 hour x.5 hour) + (.50 hour x 8) = 7.5 hours x (.50 hour) + (.50 hour x 10) = 3.75 hour x.50 hour + (.50 hour x 10) = 3.75 hour x.5 hour = 3.75 x.25 =.975So, the money earned is: $18.00 an hour x.975 hour = $17.025.Thus, the answer is $117.025.question#
+
+ Let x be the number of hours Tina works each day. Let w be the number of days Tina works.So, the wages are 5x * (x + 1/2 * x) = 5x * x + 5x.Expanding, this is 5x + 10x = 5w.Then, x = 5w/(10 + 1/2).Because the work is not continuous, we do not have a fraction so we are replacing the 1/2 with 10.Then, the number of hours she works each day is 5w/(10 + 5).Because the work is more than 8 hours, she is eligible for overtime, so we can add 1/2 of her wages for each hour she works to get 5w/(10 + 5 + 1/2).Dividing both sides by 10 + 5 + 1/2, we get the 5w/(5 + 1/2).In order to find the number of days, we have 5w/5 + 1/2.Then, w = 5 / (5 + 1/2).The answer is 5 days.question: Liam's grade increased 10% every month. But every 4#
+
+Let x be Tina's hourly wage.Each day she works 10 hours for 5 days. Therefore, the total number of hours is 10 x 5 = 50 hours.Since Tina is eligible for overtime pay, she is paid by her hourly wage + 1/2 of the hourly wage.50 x (1 + 1/2) = 50 x 1.5 = 75.Therefore, Tina earns 75 x 5 = 375 dollars per week.The answer is 375.As always, all the hard#
+
+Let x be the number of hours worked.Tina's hourly wage is 18/100 x hour + 18/2 x 1/2 x hour.Solving for x gives 18 + 18 / 100 + 18 / 2 x 10 x 5 = 1100.Simplifying, we get 100 + 81 = 1100.Subtracting 100 from both sides gives 81 - 100 = 11.Therefore, Tina earns $81 for the 10 hour days x 5 days = 50 hour work week.The answer is $1150.question: When a lizard eats a frog, she grows 2 inches. If a#
+
+Let W be the Tina's hourly wage. Then her daily wage would be 10 W + W/2.She works 5 days so the overtime factor is increased by 5*10 W + 5*W/2 = 5(10 + 1/2)W = 25W.Then, take 5W out of the parentheses, so it becomes (10 + 1/2)W - 5W = W + 15.Divide by 5 so it becomes W + 15/5 = 2 + 5/5 = 7/5.Then, add W to both sides so it becomes (10 + 1/2)W + W = 10W + W = 20W.Subtract W from both sides so it becomes (10 + 1/2)W = 19W.Divide by 10 so it becomes (10 + 1/2)W/10 = 19/10.Solving this equation produces W = 10, so Tina makes $200 per day.The answer is $200.question: What is the largest fraction that can be subtracted from#
+
+

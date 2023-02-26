@@ -1,0 +1,19 @@
+Let x be the time Tim spends biking in a week.There are 5 x + 200 miles in total.Multiply by 6 hours to find the time spent biking in one week: (5 x + 200) * 6 hoursThe answer is 30 x = 300 hours.30 miles#
+
+Multiply 25 x 5 = 125, so Tim bikes for 5 days at a rate of 125 miles per week.Multiplying by 7 days, he bikes for 35 miles per week.Tim bikes for (35 x 5) = 175 miles per week.Multiplying 175 by 52 weeks gives him (175 x 52)/52 = 14,950 miles per year.The answer is 14,950.#
+
+Let t be the number of hours he bikes each day.So, 20 * 5 * t = 200.Dividing both sides by the constant 20 produces t = 50 hours a week.The answer is 50.question: Melanie's sister Kelly has been sick with the flu.  She used#
+
+Let's say Tim makes 5 trips a week for 20 miles a trip and 200 miles on the weekend trip.The equation for time spent biking per week is t = (5 * 20) + 200.Distributing 20 to both sides gives t = (50) + 200.Adding 5 to both sides gives t = 55 + 200.The answer is 55 hours a week.question: If 100#
+
+20 miles away = 2 hours.200 miles away = 5 hours.200 miles / 5 hours = 40 hours.80 miles / 2 hours = 40 hours.Therefore, 20 x 2 = 80 so Tim rides his bike 4 times a week.25 mph = 12.5 miles / hour = 2 hours.The answer is 5 hours.question: Nate works on some math problems.  At the#
+
+20 miles away = 2 hours.200 miles away = 5 hours.200 miles / 5 hours = 40 miles/ hour.The weekend bike ride is 5 hours so it is 40 x 5 = 200 miles away.Therefore he biked at 200 miles for the weekend.So Tim rides for 25 miles a week at 2 miles/hour.The answer is 50 hours.question: There are 2,040 fish in the tank. There are twice as many as last year, but three fifths as#
+
+So, his bike ride is 200 miles on Saturday and Sunday. So, it would take 6 hours for him to go to and from work everyday. So it would take 18 hours.So the equation would be 200 x 2 + 25 x 18 = 6,000 miles in a week.We could now distribute the 200 to the 25 since they are not multiplied with each other. So we get 200 x 25 x 2 + 200 x 25 x 18 = 6,000 miles in a week.Now, we could solve for 200 x 25 x 2 by multiplying by 25 x 2.So we get 25 x 25 x 2 = 1,000 x 2 = 2,000 miles per week.The answer is 2,000 miles.#
+
+Let x be the amount of time he spends biking a week.Then the amount of time he spends biking each workday is x/5.Then the amount of time he spends biking each weekend is 200/x.Each week he spends 5 x + 200/x = 100x miles biking.Thus, the equation is 25x = 100x.Solving for x gives x = 25 miles.The answer is 25.question: Every time Lisa plays the piano she#
+
+Each bike ride is going 10 miles per hour.One round trip is 20 + 10 + 20 = 40 hours.He does the round trip every workday so he spends 40 hours per workday.5 workdays means that he spends 5 times 40 hours, or 200 hours a week on the bike.The answer is 200 hours a week.question: Paul, Kevin, and Sarah had#
+
+For 5 days of the week Tim biked 20 x 25/5 = 50 miles per week.So he spends 2 hours to biked per day.Now for the weekend, Tim biked 200 miles. 200/50 = 4 hours per day.Therefore, Tim biked 4 x 50/5 = 20 hours in the weekend.Overall, he spent 20 + 200/5 = 16 hours biking.The answer is 16.question: In the city, we have 44 patients in the hospital.#
