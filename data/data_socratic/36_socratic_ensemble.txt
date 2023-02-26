@@ -1,0 +1,33 @@
+How much money did Lisa earn than Jack? ** Let x be the difference in the money the kids earned.Then half of the difference in the money the kids earned is 2x.Write an equation ** Assuming that the expression is equivalent to the difference in the money the kids earned.Then 2x + x + 0 = 3xConvert x to a fraction ** Thus completing the first step of part b, we need to solve 3x^2 = 60 - 3xSolve for x ** Then squaring both sides x = 15.Simplify ** The number of x is 15 and parts a and b of the question can also be simplified.The process for part c then is to use the process for part d with 52 as the number for x.The final x answer is then 52.56 Zero questionCodility#
+
+Lisa earned $60 / 2 = $30Tommy earned $30 / 2 $15How much more money did Lisa earn than Tommy? ** Adding 30 to both sides produces $15 + 30 = 45.How much more money did Lisa earn than Tommy? ** Dividing by 2 produces $45 / 2 = 22.The answer is 22.question:#
+
+How much money did Tommy earn. ** Each of the boys has 6 of the dough ($20).Half of the $20 (10) was earned by Katie.Half of what Katie earned(5) was earned by Tommy.How much money did Katie earn? ** That means that they two boys have a total of 15 of the $20 Dough.How much money did Tommy earn? ** Thus, the number of Discovery dollars earned by Tommy is half of the total which is 15 = 15 * 50/50 = 10How much money did Tommy earn? ** Now the condition is 10 is half of the 15 which equals 6How much money did Tommy earn? ** Therefore, Tommy earned = x = 6 — Half of the total by Lisa.How much money did Tommy earn? ** Let K be the amount she earned. Therefore 15 - K - 60 = 0How much money did Tommy earn#
+
+Define a variable x as jack earns.Find x
+
+         Define a variable y as how much money jack earns. 
+            y = amount Jack earns.while y < amount Lisa earns.So y = half1x = amount Lisa earns.while y < 2y
+            halfs = HALF(y)
+            med = half(s)
+            so y = half(y) + halfs.
+        establish expression
+         x = half(s) + half1(half(s)).
+        Add halfs from the last line and fix the problem.
+         x = half(s) + half1(s) + 2(half(s)).Simplify the equation
+         x = 3(half(s) + s) + s + halfs - s.       Remove first half from the last line
+         x = s + s + 2s - halfs + halfs.
+         The first line could not be on the last because it wont be a whole number if there is anything inside the#
+
+Let a be the amount of money that Jack earned.How much more money did Lisa earn than Tommy? ** Let b be the difference between Lisa and Jacks total.Then, the difference betwen the total earned by Jack and by Tommy is (a + b) - (a + b / 2) = bn euros.How much more money did Lisa earn than Tommy? ** So b becomes 60 x (1/2) / 2 = 15 euros.How much more money did Lisa earn than Tommy? ** So a is 60 - 15 = 45 euros.The answer is 45 eurosa. Alan#
+
+}THEN pick a variable, then declare another variable, then give it an operator.The more learning tricks and shortcuts you use, the maximum you will get on these tricks and shortcuts, will get you better at math than others, as well as writing **`time limit exceeded	`** (time limit exceeded)" is displayed when you submit a wrong answer. **`Please#
+
+For part (a): Think about what happens if you take the decimal that represents the dollar amounts with the decimal point and move it to the lefthand side (like when factoring trinomials). The answer will be 60 divided by 20 (since the total is $60). For part (#
+
+How much money did Tommy earn? ** Jack metioned he earned $60 and Tommy earned half of what Lisa earned, $60 / 2 = $30.How much more did Lisa earn than Tommy? ** She earned however more than Tommy because 30 = $60 / 2 + $30.How much money did Tommy earn? ** Therefore, Tommy earned $60 / 2 = $30 and was earning half the money of Lisa.The answer is $30 more.question:#
+
+Before solving this problem, do some of the problems that are close to it and make sure you understand the techniques being usedNow let * R be the number of dollars that Lisa earnedQuestion ** Let t be the number of dollars that Tommy earned.Therefore, 60 = R + T and L = 60/2 = 30.L owns 1/2 L ** The amount of L owned by Lisa is 30/2 = 15.Call L = L/2 ** Label L/2 as ** Then 30 = L -t and 15 = L - t - L = 2t + LDividing by 2 ** Solving, 2t + 10 = L ** 2 divided by 2 is 1 which simplifies to 2t + 10/2 = Lsolving, 10/2 is 5 and L is 20 The next formula will solve this problem 5D(L) = TQuestion ** If 10 = 1 + T, then T = 9 * (L)Answer ** therefore; 5 * L = T = 5 * 20 = 9 * 5 = 45 and 5(15) = 9 * 45 = 4.5The answer#
+
+Lisa earned $60(1/4) = 15 Tommy earned: $60(2/9) = $10.$60(2/9) - $60(1/4) = $30.Therefore, Lisa earned: $15 - $10 = $5 more money.The correct answer is 5.=================== AFTER HERE#
+

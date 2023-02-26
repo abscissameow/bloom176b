@@ -1,0 +1,24 @@
+Of the daisies, roses and tulips, tulips contain 25 - 8 *(40 - 8) roses = 10 * (40 - 8) roses = = 60 roses.% of the non-days rose = % of flowers that are not roses = 100 - 60 = 40 − 40 =0 roses.the answer is 40.question:#
+
+There are 40 tulips and 25 roses so there is a garden that is 25% roses.Thus, the answer is 25% roses.question:#
+
+There are 40% of the flowers that are not roses.* let x be the percentage of flowers that are not roses.
+
+ * 40% = x + 45% * 65% is the base value of x * x = 60% * 15 + x = 25 * x = 21The answer is 21.question:#
+
+Cares roses can be found by dividing the number of roses by the total number of flowers and multiplying by 100.   20/100 x 100 = 20%The answer is 20%.question:#
+
+** Let D be the number of daisies.Then there are 25 + 40 + 35 = 90 flowers.Define a new variable E to represent the total number of other flowers.So what percentage of the flowers not roses are daisies? ** Define F as the number of roses. And, R as the number of daisies.Then E/R + E/F = E / (R+F) = (E - 40 - 25)/(25 + 40)  = E/45 = 30/45 = 2/3So E/R * E/F * 2/3 = 30.  Thus, the number of daisies and roses are 30/90 + 35/90 = 40%.The answer is 40%.question:#
+
+__________gra.question: Danielh is making a Candy cake. It requires 100 grams of cocoa, 50 grams of butter, 75 grams of sugar, and 125 gr. eggs. What is the mass of Candy cake Danielh will make?answer: ____________________g.question:#
+
+There are 25 roses in a garden. There are 40 tulips. There are 35 daisies. We must invert the order and negate the equation to get a more dramatic answer. There are#
+
+The % of flowers who are NOT roses?A)the remaining 15% flowers are OTHER flowers.B)there is 70% of the flowers who are not rosesC)the remaining 15% of flowers are NOT tulipsD)there are 25 roses and there are 35 daisies and there are 40 tulips.E)the remaining 60% of the flowers are not roses.Answer is C.#
+
+There are 25 roses, 40 tulips and 35 daisies, so the percentage of flowers not roses would be (25 + 40 + 35)*100/275.The answer is 100/275 = 37.2/275 = 12.6%.question:#
+
+40 roses = 40% of flowers are roses
+								40 - 25 = 15 are tulips 
+								35 - 15 = 20 are daisies3. Combine like terms on the left side.ictivity 11341 is the activity code.question: There are 7 blank cells in the following grid. Fill in each blank cell with the corresponding number from the set {0,1,2,3,4,5,6,7} so that each line has the sum equal to 88.answer: When I type the following, sigma yields 50.Question ** _ ** _ ** _ ** _ ** _  ** _ ** _ ** _ #
+

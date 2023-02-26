@@ -1,0 +1,64 @@
+Question 1. ** The two drinks both of them had (a toast, an egg) each cost them (£1, £3)Total Bills 2 toast + 2 egg + 1 toast + 2 eggs ** = 2(1) + 2(3) + 1(1) + 2(3) ** = 2 + 6 + 1 + 6 ** = 10question: The height of the boy in the picture is the same as the height of eight normal-sized people. How tall is the boy in the picture?question: Stephanie has lost her pen. She searches every desk, bookcase and drawer in her classroom, but cannot find her pen. How many books are there in the classroom?answer: If there are x books in the classroom, then there must be 54 + 52 x = 100 (Equal, but swap sides)discussion ** Thus (5 * 6) + 48 = 100 + 100 divide both sides by 5 ** 5 = 6 question 2Stephanie has lost her pen. She searches every desk,#
+
+Let T be the number of slices of toast, and E be the number of eggs.T + E = 2;  Dale had 2 slices of toast and 2 eggs.T + E = 1;  Andrew had 1 slice of toast and 2 eggs.Divide each equation by the same value 1  Dales breakfast cost Seven-Hundred and Fifty Pence.  (7 x £1 + 5 x £3) ÷ T + E = 2;  Dale had 2 slices of toast and 2 eggs.T + E = 1;  Andrew had 1 slice of toast and 2 eggs.Invert the latter equation and multiply by T + E  £(1 / (1 / T)) E + £(1 / (1 / T)) ((T + E) * (T - E))  £(1 / (1 / 2)) E + £(1 / (1 / 2))((2 + 2)) =  £(1 / (1 / 2))E = Ten Pence * E = Ten Pence * E = 10pSevenandFiftyPenceSevenandFiftyPenceSevenandFiftyPenceSevenandFiftyPenceSevenandFiftyPenceSevenandFifty PenceSevenandFifty PenceSevenandFifty PenceSevenandFifty PenceSevenand#
+
+let y = the cost of the breakfast.Dales breakfast costs y (2 toast + 2 eggs)Dales breakfast costs 2 * y + 4 eggsDales breakfast costs y + 6 eggsAndrew's breakfast costs y + 2 eggsTherefore, Andrew's breakfast costs 2 * y + 4 + 2 = 6 eggs.So, Dales breakfast costs y + 6 eggs y + 6 = y + 12 y + 6 - y = 12 y = 6 therefore, the answer is 7.question:#
+
+Calculate the cost of 1 slice of toast. ** Let S be a slice of toast.Then S is 1 slice of toast.Calculate the cost of 1 slice of toast. ** Then the price of 1 slice of toast is = £1.
+
+all()
+tic, toc, tic, toc
+print(toc - tic)
+print(tic - toc)
+tic, toc, tic, toc
+print(toc - tic)
+answer
+allpath
+funcpath
+__divisionfactor
+__modulo__
+__copysigned__
+__copy__
+__copy1__
+__increment__
+__init__
+__sub__
+__radd__
+__add__
+__eq__
+__ne__
+__lt__
+__gt__
+__mul__
+__rmul__
+__divmod__
+__truediv__
+__floordiv__
+__rfloordiv__
+__rtruediv__
+__rfloordiv__
+__abs__
+__invert__
+__inv__
+__neg__
+__index__
+__sizeof__
+__copy__
+__copy1__
+__global__
+Revision ([seperate by,]) : separated by a comma you also deciding which python version sry disturbing you about this
+cvar = 0
+#
+
+How much would 1 slice of toast and 1 egg cost? * 1 slice of toast and 1 egg would cost 3 + 1 = 4 pounds (The currency is in pounds).  How much would 2  slices of toast and 1 egg cost? * 2 slices of toast and 1 egg would cost 6 + 1 = 7 pounds (The currency is in pounds).  How much would 1 slice of toast and 2 eggs cost? * 1 slice of toast and 2 eggs would cost 4 + 3 = 7 pounds (The currency is in pounds).  How much did the pair of toast and 2 eggs cost? ** Then the total cost for their breakfast was 14 pounds.Each of them paid this much money. ** "Paid" people do not spend money.They will pay an 18 per cent tax. ** You use the math to calculate the amount of money.When they eat the breakfast. ** Tools such as wh#
+
+In this problem options of toast and eggs vary. If the cost of eggs per unit was £0, £1 or £3 then as there is 2 eggs, the cost would be £2 per unit.The total cost is 36 + 4 x 2 + 4 = 40.The answer is 40.question:#
+
+How much did Andrew had to pay for breakfast? ** Andrew has to pay 1/2 of the total bill, 1 slice = £1, eggs = 2 * £3 = £6.And the answers would be ** Therefore, Andrew had to pay 5 + 2 = 7 from the table below, because 2 is the half which has already calculated.The answer is 7.question:#
+
+All prices here are in pound sterling and rounded up. The total cost of breakfast is therefore £9.  Since two slices of toast and two eggs cost £5, the cost of the remaining food is therefore £4 per meal, which means the cost of Andrew elements is £4+£1 = £5. £5 can be replumbed into, e.g. the one further coin he had.  Since the total cost is £9, Andrew pays for half, so Dale paid £4. The answer is £4.question:#
+
+How much did their breakfast cost? ** The price of each breakfast is 1 x 2 = 2 plus 3 x 2 = 6.  Add the total costs of both meals together to get 2*2 + 6 = 10.The total cost of both meals is 10.question: One of the casts of the new movie "Spy Kids" broke her neck when she fell off the airplane at the end of shooting.  She usually beats her cast members in the limberjacks. Who had the second lowest score in the springboard competition during the film?answer: Frequently, Mrs Invisible will perform simultaneous jumps.Mrs Invisible performed a 307is limberjacks.#
+
+Separate Dale and Andrew let us simplify the problem into a different scenario.  There was a different person who had 2 slices of toast and 1 eggs.Lets call this Luke. ** Separate L and Y we have 2*3 + 1 = 5 + 1 which equals 6.Not his name was Eddie. ** Separate the names and add the price, we have 2 + 1 + 2 = 5 + 2 which equals 7.Add them up ** Take the general formula for the people and prices sums to come up with the total of  7 + 6 = 13.The answer is to 13.question:#
+

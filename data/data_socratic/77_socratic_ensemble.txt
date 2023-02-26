@@ -1,0 +1,56 @@
+The weight he would be on the day of the fight is given by w / (factor) ** The weight he would be on the day of the fight is given by w / (3/ month) = 97 / (3/ month) = 19 kg. The answer is 19.question:#
+
+R *** Bigfatnumbershop.caHow much will the boxer weigh on the day of the fight? ** Let t be the number of months the boxer needs to lose the 3 kg. Then the boxer will weigh 97 - 3t = 93t kilograms on the day of the fight.How much will the boxer weigh on the day of the fight? ** Let W be the weight of the boxer on the day of the fight. Combining like terms produces 93t + 97 = 184 (97 is between the terms so it can combine) 187 kilograms.Simplifying 187 t = 184, so t = 93185. However, 1 month is 30 days, not 93 days so we can round up to t = 30.Thus 30 = 184 x 30 days Thus 525/2 = 187. Therefore, the boxer will weigh 187 kilograms along the way until the day of the fight.The answer is 187 kilograms.document.write(
+    (Non-square#
+
+Espinoza is 98 kg at four months so 3 kg per month would be 97 * factoring numbers edu2go.com/lesson-book-lesson-9 © factoring numbers edu2go.com/lesson-book-lesson-9 © 3 = 318 kg on the day of the fight.Since he is on a diet that allows him to lose 3 kg per month, he will lose his weight under 3 per month.Thus, we take 97 to the power of 11. 9711 = 4325Now take 97 - 4325 = 4420Therefore, Espinoza will weigh 4420 kilograms on the initial day of the fight.The answer is 4420.question:#
+
+Daily weight loss (DWL) is 3 kg per month.  My assumptions were that the boxer weights 97 kg at 4 months. While I wanted to find out 5 months later (the day of the fight), I wanted to use a multiplication/divison problem which would require the days (4 days) to be in units of months.Thus A days * B units/day = D months * C units/month = D * C/ A * B = total Loss in Months in Kilograms we're after.On 5/4 months day, there will be 4 units of month = 4 * 30 kg / 95 kg * 3 kg = 60 kg would be lost5 months so calculator gives 86 kg as answer.the answer is 86kg.question:#
+
+How much will he weigh after 2 months on the diet? ** 97 - 3 = 94.How much will he weigh at the next month? ** 94 - 3 = 91.How much will he weigh after 4 months from the name of the fight? ** All 3 months at 91 - 3 = 88 kg.How much will he weigh on the fight? ** So he would be 88 kg on the day of the fight.The answer is 88.question:#
+
+question about animal crossing", 
+ plot: [
+    {
+      month: "April", 
+      day: 18,
+      temperature: 29, 
+      rain: true, 
+      animal: ["Hanna", "Kelsey", "Chelsea", "Melissa", "Sara", "Marion", "Iris", "Effie", "Idalia", "Jaeclyn", "Crystal", "Miriam", "Scarlet"],
+        ice: true
+    },
+    {
+      animal: [
+        "Scarlet", 
+        "Hanna", 
+        "Hannah", 
+        "Melissa", 
+        "Hannah", 
+        "Effie" 
+      ],
+      day: 17,
+      month: 11,
+      rain: true,
+      temperature: 0,
+      ice: true,
+      fuel: false,
+      son: true 
+    }
+  ],
+}
+};
+
+function AnimalSet() {
+  this.animals = [];
+}
+
+AnimalSet.prototype.pushAnimal =#
+
+Define a variable that holds the day of the month as the given number ** Let x be the day of the month of the fight.weight of boxer on fight ** On the day of the fight, the boxer will weigh weigh of boxer on fight - 97 kg.Get math ** The number of days left from weighing 4 months is weight of boxer on fight - 97 kg / 3 = 97 - 97/3.Get math ** Now days * 3 = 31 days left.Therefore ** The weight of the boxer on the day of the fight will be 97 - 97/3 - 97 = 97 - 92/3 - 97 = 61/3 kg.The answer is 61 kg.question#
+
+Eventually the boxer will weigh __________ kg. ** Eventually will mean when he is on the ring for the fight.Practice makes perfect ** He could start training more to fit in the ring.Let x be the weight that he will weigh during the fight ** Calculate the current boxer weight.Define a variable x that is equal to the weight of the boxer before the fightin terms of x ** So before the fight x + 3*x = 97 would allow a tough fight.Subtract 3x from both sides ** So 3*x - 3x + 97 = 45 = x + 3XThe expression simplifies to x = 45/3kg = 13.34535kg.The answer is 13.34535.The answer is 13.34535.5The information is based on#
+
+He will weigh 97 - 3 = 94 kg for 4 months.He will 48 kilos in 4 months.For how long is he on the diet? n- The number of months waiting.02. How much should he weigh on the day of the fight?We will look at:71. How much should he lose per day?09. 72. How long will it take him to lose48 kilos?A boxer weighs 97 kg at 4 months from a fight. He is on a diet that allows him to lose 3 kg per month until the day of the fight. How much will he weigh on the day of the fight?answer:482-How many months is he on the diet?00:4 months * 45. How many kg should he lose in 4 months?9-4#
+
+The time before the first month 87 + 3 = 90We know how much he weighed at the end of each month.So we can figure how much he weighed at the end of each day.For example,  We can calculate how much he weighed at the end of 3 months.)(90 + 3) * (3 + 1) = 270 = 92days answer: We know how much he weighed at the end of each month:90, 89, and then 87.So we can figure how much#
+

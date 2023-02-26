@@ -1,0 +1,22 @@
+Assume the file size in terms of bytes and not megabytes. ** The file size is 90 x 1024 x 1024 bytes.Also assume that each second is exactly 1 minute. ** Each second is exactly (60 / 60) minutes.So each minute is 1/60th of a second. ** Now, v = 5 x 60 x 60 / 1024 / 1024 (bytes/second)x1 = 5 x 60/ 60 = 1000/1024 (bytes)2 = 10 x 60 / 60 = 2000/1024 (bytes)So v60 = 1000 = 1024 byte seconds = 1120 seconds x 60 = meanwhile, the 1m size received at half as much with 1000 byte sec = 51.2 x 51.2 sec = v60 Also: 1gb file (100ms) or 65,536 x file size in MB = file size in seconds.At the end of this process it will take 6,350,000 seconds to completely download the file.One second is worth 60 seconds, so in seconds this is 60 * 84,000,000 = 48 hours.The answer is ~#
+
+1 byte = 8 bitsSo 90 MB = 900 KB = 9000 kilobytes = 90,000,000 bytesTo convert bytes into kilobytesCalculate 900,000 kilobytes per secondFor its first 60 megabytes, it took 90,000,000 / (8*60) seconds = 600 secondsFor its remaining 10 megabytes, it took 90,000,000 / (8*10) seconds = 100 secondsAnswer is 600 + 100 = 700 seconds.question:#
+
+How long does it take for the file to download for its first 60 megabytes? ** Let x represent the number of seconds it takes for the file to download for its first 60 megabytes.How long does it take for the file to download for its first 60 megabytes? ** Then the number of seconds is 60 * 5 / 10 = 6 seconds.How long does it take for the file to download for its remaining 30 megabytes? ** Therefore the number of seconds is 120 * 5 / 10 = 12 seconds.Combining both time sections ** (6 + 12) = 18 secondsThe answer is 18.section a: variables and constantssection b: comparisons, ratios, and#
+
+The file is 90M/5s = 180s. The first second of the file is downloaded at the rate of 5M/s so it requires 60M and 180s - 60 = 90sSo the time for the file to download is 90*60s = 5sThe answer is 5s.question#
+
+Downloading at the rate of 5 megabytes per second for the first 60 megabytes and 10 megabytes per second thereafter.Write an equation ** Let total be the total time for the file to download.Divide by 60 ** And the time it took to download the first 60 MB would be 5 seconds.Multiply by 60 ** Then the time it took to download the first 60 megabytes is 5*60 = 300 seconds.Divide by 10 ** And the time it took to download the last ten megabytes would be total - 300 = 20 seconds.The answer is 20.question:#
+
+We have 60 * 5 = 300, and 60 + (90 - 60) * 10 = 900. 300 + 900 = 1500 seconds.Since 300 seconds it has taken to download the first 60 mb, 1500/300 = 5 - so 5 minutes.The answer is 5 minutes. We can find#
+
+60 Megabytes over 5 megabytes per second are 120 seconds.So, over a total period of? ------------------- 120 Formula: # bytes/time = 1 second, so it takes 120 seconds to download all of the 90 megabytes if the file was downloading at a rate of 5 then 10.The answer is 120 seconds140 questions MCQ are given below, select the correct answer: question for.# question ** #.# question with answer ** #.#.# question of#
+
+question 90 megabytes so we multiply both sides times 10 ** 9  ** i know its kinda in n bits but  the file subirts at 5 bytes per second on the first 60 megabytes and then 10 bytes per second thereafter fast is slow slow is fast  speed is fun and all that....  we need an absolute rate to convert to time  we dont know the total size f the file, because we only know the download rate it only takes formal knowledge of calculus to know this...seems easy to do but it really get a sprightliness to it  not 90 megabites:lol:  public transport: meter bridge: mile overpass: leg,piece road: meter sea: inch mouth: inch[]'s you goddam -keyobard i wont rip you off now -im all agutte i winched the accountant in -literday -#
+
+________ 72 Megabytes ________ What is the total rate of download? ________ 60 Megabytes per second ________ So the number of seconds to download the file is B=A*X ** x = 60 downloader 40/60 or 60 + 20/60 = 80/60 or 15 minutes 60 ** X = 6.The answer is 15 minutes.question:#
+
+Firstly, lets define the variable W that denotes length of time in seconds.Now, the first 60 megabytes of the file that are downloaded at the rate of 5 megabyte per second. Thus the download time would be –60*1e5/5 = 30 seconds.And the remaining 10 megabyte which is downloaded from the rate of 10 megabyte per second. So the download time would be -60*1e10/10 = 6 seconds.
+Thus, the entire time taken will be 30 + 6 = 36 seconds.The answer is 36.
+https://datametrex.com/mc#
+

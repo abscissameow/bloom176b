@@ -1,0 +1,20 @@
+He writes two letters a week, 7 days.Thus the letters are written per week, each of which contains of three pages is 15 pages.There are 52 weeks in a year.There are two letters a week * 52 weeks = 104 letters a year.There are 15 pages a letter * 104 letters a year = 1520 pages.To pains of pages a year.The answer is 1520 pages.question:#
+
+In one week,  James writes  5 x 2 = 10 pages.In the second week, he writes  6 x 2 =12 pages.On the third week, he writes  4 x 3 = 12 pages.By a year he writes 10 x 26 +12 x 52+12 x 40 = 10 x 30 +12 x 12 +12 x 6 = 2440 pages.The answer is 2440. Now, find your own math problems. Click the link to start.#
+
+Write a variable ** Let x be the number of pages that James writes a year.Write an equation and solve for x ** Let P indicate the 3-page letter.The number of pages that James writes a year is 3x.Simplify and solve ** 44x = 162.Solve for x ** 2 * x = (1)2 * 122*122Answer is x = 52.question:#
+
+Let P represent the number of pages written a week.James writes a 3-page letter to 2 different friends twice a week. ** He writes a 11-page letter a week.Because James writes a 3-page letter twice a week he writes a 3 x 2 = 6-page letter a week. ** Therefore, he writes a 11 + 6 = 17 page (s) a week.How many pages does he write a year? ** If he writes a 17 page (s) a week for 52 weeks, then he writes a  17 x 52 = 928 page (s) a year.The answer is 928.#
+
+How many pages does James write x? ** Each letter is 3 pages so he writes 3*2 = 6 pages.How many pages does James write 2x? ** Two letters are sent to two friends a week so he sends 6 letters a week or 24 letters all together.How many pages does James write 24x? ** 24x = 864 pages so 24x = 864 pages.Therefore, answer = 864 pages.question:#
+
+One day Jane has 12 new balls. She gives 6 of the balls to her cat, and 4 of them fall off the table,so the balls left on the table is 8 balls. In how many ways can she distribute the balls?question: Canon balls costs $20.00. There are 2 sets balls. What is total cost?question: Whitney works in a  deli.She  works  $12.45 per hour.  First,she puts  60 pennies in  her purse.  Then she realizes  that she forgot  a quarter,so  she puts in 20 pennies 25 nickels and 30 dimes.  In how many ways can she put the pennies in her purse?question: How many ways can johnnie distribute his coins between  April and June?  The number of ways is called the factorial of 3.question: Matter is energy. The basic components of matter are energy.(http://dictionary.reference.com/browse/#
+
+How many letters does James write to his two friends? ** Let A the the total number of letters he writes.How many letters does James write to his two friends? ** Thus, A = 2*A / 3.Divide by 12 ** And the value of A is 2 x 6 = 12.The answer is 12question: In watching TV, Amy watched 16 hours in January, 20 hours in February, and 24 hours in March. Her sister found she spent 18 hours watching TV in April. In order to get the same#
+
+Chances are either James writes a 3*2*4 or 3*4*2 or 3*2=4 or 4*2*3  Seven, 14, 24 or 8 or from 1 to 8The answer is 8 pages.question:#
+
+How many letters does he write in one year?  Assume the letters are different, and each is 3 pages long so the letters would be 6 letters long and the answer would be 18 or 3 times 6.question:#
+
+How many pages does James write a year? ** Let p be the total number of pages.  James writes 2 pages twice each week, so he writes 2 * 2 * 3 * 52 =1344 pages.The answer is 1344 pages.question:#
+

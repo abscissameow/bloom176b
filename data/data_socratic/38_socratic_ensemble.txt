@@ -1,0 +1,23 @@
+The problem asks how many ounces and not cups so multiply both sides by 1000 ml/oz ** Thus 1000 * 8 * 12 = 6 * 1000 * 12.Simplify ** Therefore 6 * 12 = 720 ml or 8 oz.The answer is 8 oz.question:#
+
+How many people are going to the party? ** There are 12 people at the party.How much tea will Artemis use? ** Then Artemis uses 12/8 cups of tea, which = 1.5.How many ounces of tea will Artemis use? ** There are 12 people at the party and each of them wants 6-ounce tea.How much tea will be used? ** The number of containers = 12 x 6/8 = 8 containers.Divide 8 containers by 8 ounces ** Serve 6 ounces into each container so that 8 x 6/8 = 6 * 1/4 containers will be used.The answer is 6 or 12.5. Sum To 10 Step By Step#
+
+** Let a be the number of ounces of tea Artemis will use per cup.And Artemis will use the same amount on a tray of 12 cups.  ** Artemis will need 12 x 6 = 72 ounces of teaSo  ** Artemis will need a*72 ounces of tea= a*6 cups of tea12 people will drink 12 cups of tea.  ** 12 people 8 ounces of tea= 1 ounce of tea per personUnfortunately, 3 cups will be left over. ** 2 people 6 ounces tea = 1 ounce overRemember Artemis will sometimes use 8 cups per tray.
+    ## Let b be the number of ounces left over.
+    Accordingly, 72b = 6 cups of tea - a*12 cups of tea = 12*8 - 12*6 = 12 - 12 = 3 cups
+    Hence, 3 cups tea = b*6 cups of tea 72b = 6 cups of tea - 12 cups of tea = 72 - 24= 36 ounces of tea, b = 36/24Thus, the ratio is 72/36**8 cups of tea =#
+
+She will use this same ratio for the party. ** Let x be the number of ounces of tea.Then 12 people there and each of them wants a 6-ounce cup of tea. ** She therefore needs 12 x 6 - x = 24 - x ounces of tea.How many ounces of tea does she need? ** Therefore, she needs x = 2* 12 - 24 = 6 - 24 = 6 ounces of tea.The answer is 6 ounces of tea.question:#
+
+The party has 12 people there. Each person has a 6-ounce cup of tea. How many ounces of tea does she need? ** Ultimately, the party has B ounces of tea. So 12B ounces of tea will be needed to fill 6-ounce cups.How many ounces of tea does she need? ** So it would be 12 x 6B = 72B.How many ounces of tea does she need? ** To simplify it, lets divide 72B by 6B to get B = 12.6.The answer is 12. The original expression was#
+
+Define a variable ** Let A be the number of ounces of tea needed for the party.How many ounces of tea does Artemis need? ** Each cup will be 8 + A - 6 times the amount.Write an equation ** So we can express A as 12*(8 + A - 6)The equation is equivalent to A = 8 + A - 6 Simplify **  Solve for A **  Solve Slash ** and plug in A for both sides **  Solve slash ** and multiply both sides by 8 - 6 = 2 ** and plug in for 1 ** On the right side the 12 is still a fraction of some amount of tea ** On the left side the 8 and 6 are both fractions of tea and put them together equals the total tea ** And simplifying B on each side **  and solve the fraction **  Add 5/4 to each side gives 8thollary ** and shorten the fraction to tea **  So dividing both sides by two gives 1 oz#
+
+How many ounces of tea does she use? ** 8 ounces of tea to an 8-ounce cup. (Notice the different ratios to their cups so Artemis will need the larger ratio)To find the total number of ounces of tea ** 6 ounces of tea to a 6-ounce cup.Around how many ounces of tea does that give her? ** The total number of ounces of tea is 8 x 6 + 1 = 51 ounces.How many ounces of tea does she need? ** Therefore, she needs to fill up 51 ounces of tea a total of 12 cups.The answer is 51 ounces.question:#
+
+There are 12 people and 12 * 8/ 6 is the 8 people/cup ratio.............. The 8 people /cup ratio is the same so 12 = 6cups and x = 12 teaspoons which is 1 ounce and x = 12 x 1 = 12 ounces of tea.End of AnswersCorrectness isn't guaranteed untill I check every solution.Thanks to the Users of#
+
+Cup includes teabags so let m = cup ounces Let p = person ounces That means: 6*p = total ounces of tea so 6*p= 8*m. Simplify to determine coefficient m. Then: 8 (coefficient) = 6*p (independent) That's a direct relation so 8 - 6 = 2 So for each person, twice the amount of tea.How many ounces of tea does she need? ** So the amount of tea she will need is: 8 * 2 = 16 ounces.The answer is 16.question:#
+
+Construct a table  6  4   Total  8  -     6  4  6  4  Total  8  12   1296129612961296 sum of 1st addition8*8=64+64+64+64=256 sum of 2nd addition1296+1296+1296+1296=48384 sum of 3rd addition256+48384=58192 total sum1296+48384+58192=60480 total averageThe solution will be 60480 ounces of tea.The answer is 60480 ounces of tea.question:#
+

@@ -1,0 +1,35 @@
+How many cups of food will he need for all three months? ** Let x be the number of cups of food Herman will need for the three months.** Also, we will not suggest you find a quarter cup equivalent first.Find cups in morning answer ** Therefore, the number of cups Herman will need for all three months is 2*x+x = 5x.From cup to quarter cups ** So#
+
+How many cups did Herman feed the birds in December? ** And first, the variables we will use ** Let x be the number of cups Herman fed the birds in December, ** Let y be the number of cups Herman fed the birds in January and ** Let z be the number of cups Herman fed the birds in February.Herman feeds the birds in December. ** How many cups did Herman feed the birds in December? ** Now, a binomial coefficient can represent half a cup in decimals. ** So, the number of birds Herman fed the birds in December is 1.*a cup = 1 /2* cup in decimals = 1/2.So, the number of birds Herman fed is S(binsom) = 1/2 x 1/2 = 1.The number of birds Herman fed the birds in January? ** First we will find the total number of cups given 1/3 of the total number of cups in#
+
+How many cups of food for all three months? ** And thus to solve this problem, two equations need to be solved.How many cups of food for all three months? ** Since Herman feeds them 1/2 cup in the morning and 1/2 cup in the afternoon, the birds will eat 1 * 2 = 2 cups per day.Question/Answer ** Therefore, Herman will need to feed the birds 0 * 2 + 1 * 2 + 2 * 2 = 6 more cups per day for three months.The#
+
+The total number of cups of food he will need for all three months is:Jan 31, 2022 is 33So the total number of cups needed: 1/2 cup * 1.3 = 0.7 cupJanuary is 31 daysAnd the total number of apples needed is: 1/2 cup * 1.3 * 31.1 January is 30February is 28 daysSo the total number of apples needed: 1/2 cup * 1.3 * 31.1 February is 30So the total number of apples needed: 1/2 cup * 1.3 * 28.1 * 31days in FebruarySo the total number of apples needed: 1/2 cup * 1.3 * 31.8 0.7 Each monthSo the total number of apples needed is: 1/2 cup * 1.3 * 31.8 * 2 x 32/2 = 18 cups of how many cups of food will he need for all three months?question: Imagine you are America's sixth president Benjamin Harrison and that your first day in office is Jan. 20,#
+
+For each month, he feeds the birds 1/2 cup x 12, For the months December to February the birds receive 24 cups.24 cups = 10/4 cups + 10/4 cupsThe answer is 48.#
+
+How many cups of food will he need for all three months? ** Let T be the number of cups.Similarly, let M be the number of weeks spent feeding the birds in December.Thus to find T + M, we add 40 + 2:T + M = 40 + 2 + January: 12We have completed finding the sum of all the months spent feeding the birds 12 + 1 = 13"M": 1So the sum for all the months spent feeding the birds will be 13 + 1 = 14Let X be the number of cups per week spent feeding birds during December.12th: 1Careful: 1Thus: X = 12 + 1 +1 = 13Therefore, in December one of the variables will be X for the number of weeks spent feeding the birds and M for the number of months spent.Thus, T + M = 40 + 2 + 12 + 1 +1 = L = 14 or Q.14The answer is 14 cupsconsider seven numbers, each repeated twice. Read#
+
+What is always true? ** I) The first half of the morning in December is the morning in January.II) The first half of the afternoon in December is the afternoon in January.III) The second half of the afternoon in December is the morning in January.IV) The second half of the afternoon in January is the afternoon in February.How many cups of food will he need for all three months? ** Then he will need 2 cups of food for December and January. The number of cups of food for February would be 2 + 1/2.That is multiplying by three ** The total number of cups of food in December, January and February would be 2 cups x 3 months = 6 cups.That is 2/3 answer is 4.question:#
+
+Define a variable ** Let C be the number of cups that Herman feeds each bird. 72 [Calculate Imperial units]How many cups of food will he need for all three months? ** And 2E = 72 - C.How many cups of food will he need for all three months? ** So 2E = 2 (99 - C )= 259 - C = 400 - C.How many cups of food will he need for all three months? ** Therefore, the total number of cups of food that Herman will need will be 400 - 50 = 350.The answer is 350.question:#
+
+Let H be the number of cups of food Herman needs for all three months.Then 72/2; H1; and thus H should be divisible by 8. Or, the number H is a multiple of 8.Thus H will be an integer multiple of 8. Or 08; and H should be divisible by 4 since both of these divisions have a remainder of 2. Curriculum *
+
+# Initial Thoughts
+This is going to involve BVCM
+Maybe using First Sum as a base for BVCM
+I would keep the days separate I am guessing
+
+Fridays First Sum 10/8/7  = 5 (1*) + 2(4) + 1(8) = 13
+First Day 10/8/7 + 1 = 28
+Friday First Sum 49/8/7 = 4(2) + 1(4) + 1(8) = 11
+Second Day 49/8/7 + 1 = 46
+Friday Sum 62/8/7 = 28 + 23 + 5 = 62
+Second Day 62/8/7 + 1 = 63
+Friday Sum 72/9/7 = 27 + 23 + 5 = 72
+Second Day 72/9/7 + 1  = 73
+#
+
+The equation relating the amount of feed to be spread is:  2 + 2 + 2 +... + 2 + 1/2 + 1/2 + 1/2 +... + 1/2 cups = N cups.which comes to (3 + 5 +... + 21/2) cups = N cups.we plug in 1 into this equation setting the left side equal to one, which gives (11) cups. since there are 21/2 numbers in integers,  we subtract 10 from this answer to get 1 remaining number to add to the next term.5 (approximation to number of days in a month) * 10 (#3#
+
