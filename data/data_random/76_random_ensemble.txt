@@ -1,0 +1,20 @@
+Potatoes: 237 Cukes: 60 Peppers: 180As the garden produced twice as many peppers as cucumbers, the potatoes are: 237 - 60 = 177 + 180 = 347The answer is 347.question:#
+
+There are 237 potatoes. There are 60 fewer cucumbers. There are twice as many peppers to the cucumbers. So, 237 + 60 - 2 × 127 = 371.The vegetables are all potatoes, cucumbers and peppers, so the number of vegetables is 371.The answer is 371.question:#
+
+The garden yielded 237 potatoes.The garden yielded 60 fewer cucumbers. 60-clipped=0.The garden yielded 60 fewer cucumbers and twice as many peppers as cucumbers. 60 + clipped and -2. =1.The garden yielded 60 fewer cucumbers and twice as many peppers as cucumbers. 60 + clipped and -2 - 2x clipped = 61.The garden yielded 60 and 2, 3x -2 = 62 more peppers than cucumbers.Therefore, the garden yielded 61 more vegetables than cucumbers.Applying the same procedure that he used for cucumbers, it will yield 62 more peppers than cucumbers. Therefore, the total vegetable yield will be 62 + 61 =123The answer is 123.question:#
+
+We know that 237 - 60 = 177So the number of vegetables is 177 + 60 = 237The answer is 237.question:#
+
+237 - 60 = 177 peppers and cucumbers (unique) and 177 + 2 * 60 = 273 peppers and cucumbers The answer is 273. Indeed, the main requirement have to have/#
+
+He needed 60 fewer cucumbers so he start out with 60 and we increase the 60 to the previous number so he started out with 60-23=37.Then we add 60 to the spices which is 60+60=120so there were 237 potatoes 37 cucumbers and 120 peppers.There will be more vegetables than 237, 37 and 120 and the math addition the answer is more the 5.question:#
+
+60 less cucumbers means that there are 237 + 60 = 307 cucumbers.Peppers produce twice as many as cucumbers meaning that there are 237 + 60 + 2 (for the first cucumber) * 110 (for the second cucumber) = 348 peppers.Adding two answers together, there is 307 + 348 = 745 vegetables that were grown.The answer is 745.#
+
+There were 237 potatoes, so we know the garden produced at least 237 potatoes.There were 237 – 60 = 177 cucumbers.Since there were twice as many peppers, there must have been at least 177/2 = 89 peppers.The answer is 187.question:#
+
+237  potatoes, equivalent to 59 potatoes per 48 potatoes.+ 59potatoes × (.48)cucumbers (2 fewer cucumbers) + 59 cucumbers × 2 = 60 potatoescalcuation (# of potatoes) = 59 + 59 +60 = 178 =⇒ (# of cucumbers) = 237 − 178 = 59.4 =⇒ (# of peppers) = 59 − 48 = 11 peppers =⇒ (# of vegetables) = 59.4 + 11 + 1 = 77.4question: In the photo above, which family members are standing or sitting?answer: seen: Ted(sitting), who on the children(sitting).  Lazie(standing), Cindy(in between #
+
+Indentify which type of vegetable you are calculating the total for and how many of them there were: 237 potatoes = T/60 less cucumbers = CSo 237 T - 60 C = L.37C + 2C = P, where L is the total number of lettuces and P is the total number of peppers.We know 60 lettuce = 20 cucumbers.L = 100/20 = 5 peppers20C = 80 potatoesWe can rewrite the AP lit question to use it to solve for the number of peppers: 5 peppers + 20C = (5 + L)P = 237 -60 = L potatoesCalculate to get: L + 2P = 237 L = 80Lettuce = 5 potatoes237 – 60 potatoes = 20 lettuce + 2 peppers = 80 potatoesThe answer is 80 potatoes.#
+

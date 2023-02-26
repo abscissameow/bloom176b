@@ -1,0 +1,20 @@
+First we find the cost of her current monthly income by finding the new monthly income minus the amount she is paying now: $1500 - $600 = $900 Then we multiply this by 12 months to find her new monthly income: $900 * 12months/year = $108,000/yearWe find her quarters: 1300 1 = 8 / 4 / 4 = 1 / 12 = 25% way to find out how much rent and utilities were before her salary was increased: 40% * 108,000 / month = 44,000 / monthRent and utilities would cost 44000 / month if they cost an even 10% of her monthly income, but they actually cost 25%, so 25% of her monthly income is actually just 22,500 / monthRent and utilities would have cost 45000 / month before her salary was raisedThe answer is 22.500The answer is 22.500.question:#
+
+We know that Mrs. Snyder’s total spendings on rent and utilities were 40% of her monthly income, which was $4200.$600 was her increase in salary.After the increase in salary a new relationship between her spendings and her monthly income must hold.What is her current 25% spendings from her monthly income?$600 / $4200 * $6000 = $1000The answer is 1000.question:#
+
+40%  x  $1600 =  $640.Now, she spends only 25% of her monthly income on rent and utilities, so  25%  x  $1600 =  $400.The increase in salary is $600, so the new salary is $1600 + $600 = $2600.Her salary is $2600 x 0.75 = $2100, and she is left with $2200 - $49 - $5 = $1919.Her previous salary was not $1600, but it was $1919.The answer is 1919.question:#
+
+"$1200"anterior monthly income: $800 which the 40% of is $(800 * 0.40) = $320 Her new salary was $(800 + 600) = $1400 The 25% of this amount is (1400 * 0.25) = 375 The previous monthly expenditure was $320 + 375 = $705 The answer is 705.question:#
+
+Mrs. Snyder used to spend 40% of her monthly income on rent and utilities.  Her salary was recently increased by $600 so that is 25% of her  monthly income.40% was 140%Rent: 140% / 100% = 1Home rent and utilities: 1 * 25% =.25Rent:.25 * 140% =.87575% -.875 = 1.125%The original monthly salary was $600 / 1.125 = $500The answer is $500.question:#
+
+$(0.40 * $1200)A 20% increase in  a number is 2 * 0.20 = $400$(0.40 * $1200) - $400 = $800Now her rent and utilities are  $(0.25 * $1400)After the increase in salary after  $600Mrs. Snyder’s previous income will be $800.The answer is $800.question:#
+
+= 40% = 3 * 25%The previous monthly income was equal to 3 * 25% + 600 = 3 * 25% + 300 = 3 * (25% + 13.33%) = 3 * (100% - (40% + 60%)) = 3 * 30% = 900$question: If your brother's age is 3/4 of that of your sister's age and both of your brother's and your sister's ages add up to 45 years old Then what is each of their ages?answer: WALTER and NANCY 'l ages are 3/4 of each other so Walter's age divided by 4 = Nancy's ageWalter's age dividing by 3 = 3 * Nancy's age.  Nan0%#
+
+Mrs. Snyder's total spending was $460If it was 40%, $460/40% = $136If it was 25%, $460/25% = $192Now add the two: $136 + $192 = $354The answer is $354.question:#
+
+60% of monthly income - 40% = 20%This means that rent and utilities made up a portion of 20% of total monthly income.1 * 20% * "Mr. Snyder’s Monthly salary" = Mr. Snyder’s Monthly income $600* "Employer’s Monthly salary" = 600/ 12Monthly Salary was $6,000.The answer is $6,000.question:#
+
+She used to spend $600 x 40/100 = $240 on rent and $600 x 40/100 = $240 on utilities.25% of her income would be $25.25% x $600 = $150.So $240 - $150 = $90.Her previous monthly income was $600 + $90 = $660.The answer is $660.question:#
+

@@ -1,0 +1,28 @@
+The total number of skips Sam completed was 1*3*4 = 12.Time passed, and Sally gave her car to Emerson. She tells him $10 for it because she bought it for $5,000, but now she wants to sell it for $15,000.She told Emerson $10 for it, because the difference between what she paid for it ($5,000) and her selling price for it ($15,000) was $10.10 x $15,000 = $15,000 - $5,000The difference in the price she paid and her selling price was $10, so she told Emerson $10 for it.The answer is $10.Sam is pretty good at math. Hope you enjoyed it#
+
+Round one: 7A second round: 4Third round: 2If the Sam's total was 16, then 16/4 + 16/3 + 16/2 = 48Forth round: 4So, the average skipped per round is: 48/4 = 12The answer is 12.question:#
+
+It's easiest to calculate what Jeff got in each round:Round 1 (25), 1 more than SamRound 2 (25-3-1), skipping 3 fewer than SamRound 3 (25 + 4), skipping 4 more than SamNow calculus comes in.  Round 1, the first skipped matched the first skip of the other; therefore the skipped of the additional is 1/4 of the skip of the other person 16/4 = 5.Same reasoning for the other two rounds.100/4 = 25 rounds this one means the average number skipped is 16 and each match is 25.to find the average number of skips per round is therefore 25 + 5 + 5-4 = 16.The answer is 16.#
+
+round1 Sam = 16Jeff: x = (16+1) / 2round2 Sam = 16 - 3Jeff: x = (16-3) / 2n round3 Sam = 16 +4Jeff: x = (16+4) / 2round4 Sam = 16 + 1/2Jeff: x = (16 + 1/2) / 2 = 16.5fourth round Sam = 16Jeff completed 16 (sam) + 4 (1st round) + 3 (second round) + 1/2 (3rd round) = 26 skips, sequence 3, 4, 1/2, 6The average number of skips per round completed by Jeff is 16+4+3+1/2 = 23The answer is 23.question:#
+
+40 × (16-40) − 1 × 1 = 14Jeff skipped 16 and 14 (half of Sam's skips for the last round) times in total.Sam's total was (16 + 14 + 14 + 16) × 4 = 116 and Jeff's total was 16 × 1 + 14 × 2 = 46.Jeff skipped on average 14 ÷ 2 = 7 times per round. The average is equal to Sam's average.The answer is 7.#
+
+The average number of skips per round is 16 / 4 = 4 skips The average number of skips out of 4 rounds is (4 + 3 + 4 + 5/2) = 11 skips  So Jeff skipped 11 times in 4 rounds or 2 times per round in an average.Jeff skips 2 times per round = 2 average per round.The answer is 2.#
+
+Sam skipped 16(8+8+4+4) = 128 timesJeff skipped 16(8+4+8+8) = 96 timesSuppose that, on average, Jeff  skipped 128/96= 1.3 times more than Sam.In the last round, Jeff  skipped 1.3+1/4 = 25/2= 12.5 timesJoe  skipped 16-12.5=3.5 times more than Sam in the last roundThe answer is 3.5.question:#
+
+After the first round, Sam had 16 + 1 = 17 skips and Jeff had 16 - 3 = 13 skips.After the second round, Sam had 17 - 1 = 16 skips and Jeff had 13 - 3 = 10 skips.After the third round, Sam had 16 + 3 = 19 skips and Jeff had 10 + 4 = 14 skips.Incidentally, Jeff and Sam had exactly the same number of skips after the third round, as they were too tired after the third round to skip any more.After the last round, Sam had 19 + 2 = 21 skips and Jeff had 14 + 0 = 14 skips.In some games when the winners are determined by an average, extra rounds do not count for the winner.The total number of skips by Jeff was (16 + 3 + 4 + 2) / 3 = 11.The average is 11 / 4 = 2.25 skips per round.If the contest was held over 5#
+
+There are four rounds in total.Sam completed 1 more skip in the first round than Jeff.Jeff skipped 3 fewer times in the second round than SamJade skipped 4 more times in the third round than JeffJeff skipped half as many times as Sam in the last round.Jeff completed an average of 16/4 skips in each round.Jeff’s entire average is (16+4+3+2)/4 = 10.5Final score is 10 * 4 = 40.The answer is 40.question:#
+
+* Stanley Losow, MaxMind, MaxMind home page. MaxMind GEOIP  question/math[font]question: A graph is created using the following information:A.	Points from 1, 2, 3, and 4, representing the age within on a list of birthdays.ONE YEAR | TWO YEARS | THREE YEARS | FOUR YEARS | BLUEGirl 1 | 12 | 13 | 14 | 1Sky-catcher | 2 | 3 | 15 | 2Girl 3 | 3 | 4 | 16 | 3Cute red | 14 | 15 | 16 | 4The key is to find out when the birthday party will be held.	(Answer: 't' and we do a subtraction to find the total difference in years which is 15 year difference)answer: Three-year-old Cute red already has 15 years.question:#
+
+so Sam skipped 16*4 =64 times in all while Jeff skipped 64-10+8+8=42 so the round 1 averaged 16.5 with round 2 averaging 13.5, round 3 averaging 19.5, and round 4 =9/10The answer is 16.5.question:#
+
+16+8+1/18 x 3+4/2 x 2 = 19.819/12 = 16.5The answer is 16.5 questions, each with 5 different options, 34 questions to answer. I#
+
+The result is a figure of 8 skips per round.Each round consists of 16 skipsThe average skipping is 16 x 4 = 64 skipsThe answer is 8.question:#
+
+We want to find the average number of skips by Jeff. 2 to 4 rounds, so 16 / 2 = 8Jeff skipped 8 times in each round, so Jeff skipped 8 times =)So, if Sam skipped 16 times, Jeff skipped 32 timesJeff also completed 50% more skips in the last round. 16 / 2 = 32total number of skips by Jeff is 32 + 32 + 8 for each roundSo the average number of skips, by Jeff is 8 + 32 + 8 = 40We first find the average number of skips by Jeff.next we calculate the total number of skips by Sam.Lastly, we do the calculations to get the average number of skips by Sam.The answer is 40.question:#
+

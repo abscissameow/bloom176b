@@ -1,0 +1,20 @@
+3/5 is 0,6.1/3 is 0,33% of filesTo download 400 files, he used up 100% of his internet download potency.He clearly downloaded 800 files, 70% of which were irrelevant.There are 800 highlights in total, 400 of which are irrelevant.We have to delete 400 * 0,33; 800 * 0,7 / 3 = 106 files to get to 2/3 filesWe clearly download 400 + 106 = 506 filesNow, we have 400 - 106 = 294 relevant files leftWe need to get to 294 / 2 = 147.149 / 3 = 49,97 or 503-49,97 = 4,03.There are 4 remaining files.The answer is 504-50 = 400.question:#
+
+35 / 6 is 5 1/2.To convert the 5 parts to fractions, we have 5 + 6 / 5 = 10 / 5 = 2 parts.Thus, totally, the number of relevant files is 800 + 400 - 3 * 350 = 900 -2700 = -2000The answer is -2000.  question:1 = 1 + 1/8 + 1/12 + 1/18 + 1/24 + 1/30 +#
+
+We have files of -3 = 800 + 4008 - 3 = 400That make the useful files from the second round is 40 percent of 400 = 160.The idea is to add the files downloaded in the first round to the files remaining in the second round which is the only useful files since 400 is now reduced by one third.That makes the 100 percent of the files useful to be 40 + 160 = 200 files.The answer is 200.question:#
+
+The table shows the number of related and irrelevant files he downloaded, along with the ratio that he deletes each time.Downloaded filesRatioDeleted filesRatioRelevant400 of 100070%100 of 70070%In the second round, noted that (400/1000)*(100/700)=400/400 or (total relevant files/total files) = (400/400)15 of 16(total relevant files/total files) or (total irrelevant files/total files)For the second round, he verified that 15 of 16 irrelevant files were irrelevant, instead of just the 100 he had previously recognized.The ratio of relevant files to irrelevant is 100/400 which is (17/17). Therefore, 15 of 17 irrelevant files were removed in the second round.In the first round, 100 irrelevant files were removed, and in the second round, 15 of 17 irrelevant files were removed. The#
+
+400 - 400 *.3 = 192 files remaining.400 *.7 /.3 = 240 irrelevant files (those downloaded from the second round).200 - 240 = 16 valuable files remaining.The answer is 16.question:#
+
+He recognized that 3/5 is 60% of the files he downloaded. So, the amount of files that didn't require deletion because they were relevant is:400 / 1.6 = 255The total amount of files he downloaded in the second round 800 + 255 = 1155.255 was taken into account because he deleted 70% of them, so the remaining amount should be only 30% of 255 (255 x 0.3 = 69 )Finally the amount of relevant files was 1155 - 69 = 966The answer is 966.question:#
+
+800 - ( 800 x.7) = 400 files.400 - 1000 (.3 x 400) = 100 files.500 - 400 = 100 files.The answer is 100.three quartersquestion#
+
+He had 800 files downloaded. So the first time, delete 70%, leaving 700 files, 700 x 70% = 490, subtracting 400 which have useless, He is left with 90 files available.He went back and downloaded 400 files, but delete only 3/5 of the second time, leaving 760 files, 760x30% = 207 files, he ended up with 902 files total:90+207+360+50+90= 902.The answer is 902. question:"hit" Good Grades#
+
+got 400 + 800 + 400 = 1600 files in totalAll of the useful files he downloads is 1600 *.3 = 480 files.He deleted 800 - 0.3*800 = 660 files because 30% files overlapped.He downloaded 400 - 660 - 400 = 60 files.The answer is 60.question:#
+
+Only 20% of the files downloaded in the first round were useful.Overall, 80% of the first 800 files and 60% of the second 400 files were downloadable.So we want:800*.2*200*3/5=400/200=200 Useful filesa   =400 files downloaded in the first roundTotal =800 + 400 = 1200The answer is 200. The correct answer is given below#
+

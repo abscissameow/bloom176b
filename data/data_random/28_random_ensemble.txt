@@ -1,0 +1,20 @@
+The first house has 3 + 3 + 3 + 3 = 12 gnomesThe second house has 3 + 3 + 2 + 1 = 8 gnomesThe third house has 3 + 3 + 1 + 1 = 7 gnomesThe fourth house has 3 + 2 + 1 + 1 = 6 gnomesThe fifth house has 3 + 2 + 1 + 0 = 5 gnomesGnome total: 5 * 12 + 2 * 8 + 3 * 7 + 4 * 6 = 165 gnomesThe answer is 165.question:#
+
+So let's start from the first house.The first house has 3 gnomesThere are 5 first housesso there are 5 x 3 gnomes for the first housesIn total there are 3+5 x 3 = 20gnomes on the street.Let's calculate the gnomes for the second house:The second house has 3 gnomesThere are 5 second housesso there are 5 x 3 gnomes in totalThe possible number of total gnomes on the street is 20 + 5 x 3 gnomesWhich means the second house has 3 out of 20 + 5 x 3 = 38gnomes.Let's calculate the gnomes for the third house:The third house has 3 gnomesThe first house has 5 first housesso there are 5 x 3 = 15gnomes in the fourth houseIn total: The all gnomes in the street are 3+5+5 x 3 = 30gnomes + 15gnomes = 45gnomes.Let's calculate the gnomes for the fourth house:The fourth house has 3 gn#
+
+= 1520gnomes.The total of gnomes is = 234gnomes.The answer is 234.#
+
+The trick is to find out how many less gnomes than the 4 houses have.  The first house has 3 gnomesC:\Documents and is 100 - 3 = 97gnomes totalmanagers is 97 * 2 = 196 then 97 + 4 is 103 + 4  is 107 and 4 + third house has 97 + 2 gnomes.There are a total of 97 + 4 + 97 + 2 + and so on...In the fifth house there are 3 * 5 = 15 gnomes  So in the 5th house 15 + 3 = 20 gnomesThe answer is 20.question:#
+
+= 20gnomesThere are 5 x 20 gnomes in all.The fifth house has 3x20 = 60 gnomes.The answer is 60.Tim and Amy are both walking along a roundabout#
+
+Four houses x 3 gnomes house = 12 gnomesFirst there are 12 gnomes in the garden. Four houses x 3 gnomes house = 12 gnomesThere were 12 gnomes in the garden and 20 gnomes on the street. [The answer is 4.]Question 1: Which statement is true#
+
+1 gnome still has to be counted for the fifth house, so there are 20 gnomes in total.20 - (4*5) = the fifth house has 20 - 45 = -15 gnomes.The answer is -15.question:#
+
+First house: 3-5 = 2Second house: 3-5 = 2Third house: 3-5 = 2Fourth house: 3-5 = 2Fifth house: 3-5 = 2In the 5th house 2 gnomes rest on the road.20 minus the 2, that are resting on the road, gives 18 gnomes.18 divided by 5, is 3 gnomes in the garden of the 5th house.The answer is 3.question:#
+
+There are 3 gnomes in the garden of each of the first four houses. There are a total of 20 gnomes on the street. The number of gnomes in the garden of the 5th house is 4 - 3 = 1 + the number of gnomes on the street.Since there are only 20 gnomes on the street, the number of gnomes in house number 5 is, thus 20 - 20 = 1.The answer is 1.question:#
+
+We infer 40 gnomes in all since there are 20 gnomes in 4 houses and 4 equal = 20 x 5 gnomesFrom the 4 houses there are 40 gnomesSo: 20 +  20 +  20 + 20 +? = 40gnomes5 = 10 gnomes = 20 +?gnomes From 10 to 21 gnomes we wantTo find n we divide 40 by 5 = 8 gnomesSince we know that the problem must be an integer we start proccessingP represent gnomes on the belowissueP (5P) + 20 = 21gnomes40 by 5 = 8 gnomesWe found the 5 gnomes, but from 7gnomes we go to 10gnomes, so now we divide 7 by 5 = 1.4 gnomesAnswer: + 20 = 10 gnomesIf you need to improve on mathematical skills, practice with more questions in Problem Solving: Integers and beyond! Through these, you can master more algorithms for problem-solving.#
+

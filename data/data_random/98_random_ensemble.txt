@@ -1,0 +1,20 @@
+For Part 1: < him = 1, 4, 2, 7, 3, 8, 1, 6 >  For Part 2: < 8, 3, 1, 4, 6, 2, 5, 7 >For the remainder: < 5, 4, 6, 7, 2, 8, 1, 3 >Total count is 3 = 1+53 = 2+63 = 3+6 = 24, which is the number of gumballs that Hector originally purchased.The answer is 24.question#
+
+We can see that Hector has given 4 so 4+6 = 10. He has given twice as many to Alisha as he gave to Todd so he has divided 10/4 = 2. Hector divided by 4 and so he gave 3 so 10 - 5 = 5. So 6-2-3 = 1. so the total amount of gumballs is 4+5+1 = 10The answer is 10.question#
+
+Todd had 4 gumballs, then Alisha had 11 gumballs (given by Hector) (x2)  Hector gave 21 gumballs to Alisha.Bobby had 15 (given by Hector) (4-5)Hector had 6 gumballs.After deducting the gumballs that were given, what Hector actually had purchased is: 12+8+21+6 = 49 gumballs.The answer is 49.question:#
+
+4 + 2 + 0.5 = 8.2 x 8 = 16 (double amount he gave Todd)8 - 5 = 3 ( 5 less than 4x) 8 - 5 = 3 ( 4*8 = 32, 32 - 5 = 27) 27 + 32 = 59 359 gumballs, 59 hex bags.The answer is59.#
+
+Alisha got 4 gumballs because Hector gave 4 to Todd.4 divided by 2 = 2Hector gave twice as many to Alisha, so Hector gave 2 less to BobbyAlisha got 4, and Bobby got 2. 2 + 4 = 6The total number of gumballs is 6, so 1 + 5 = 6 total gumballs.The answer is 6.question:#
+
+Hector gave 4 to Todd minus 4 fewer than  5 to Bobby minus  Alisha = 2Hector had 6 gumballs left, 2 - 4 = + 4 + 5 = 6The answer is 6.question:#
+
+Hector purchased 6 gumballs + 4 gumballs + 2 gumballs + 5 gumballs = 18 gumballs.  Hector gave 4 gumballs to Todd, a total of 12 gumballs were left.  Hector gave 2 times as many gumballs to Alisha, a total of 12 gumballs were left.  Hector gave 5 gumballs less than 4 times as many gumballs to Bobby, a total of 12 gumballs were left.The total number of gumballs that Hector bought is 6 gumballs + 4 gumballs + 2 gumballs + 5 gumballs = 18 gumballs. The number of gumballs left at Hector’s was: 12 + 12 + 12 = 36 gumballs. The total number of gumballs left at Hector’s were: 36 - 15 - 24 = 1 gumball. Total gumballs that were purchased is 18 gumballs.The answer is 18.question:#
+
+The amout that he gave to Todd first is 4that is 4/6 = 2/3 that is two thirds of the total 6gumballs remaining is one third of the total minus 4That means 6 - 2/(6-4)*3 = 0 since that is what he gave to Bobby, one third of the remaining 5gumballs(gumballs left after giving two thirds of the total to Todd)..substitute that that we get 12.Then 6 + that 12 = 18.So Hector purchased 18gumballs.The answer is 18.question:#
+
+He gave 5 to Bobby, and he gave 4*4*5*2=80 to ToddHe gave 5*4*2=20 to Alisha. He also gave 5*4*3=60 to Bobby.So He gave 80-25 = 55 for Todd, and gave 20+5*5=40 for  AlishaHe also gave 60-35 = 25 to Bobby.55+40+25 = 135 gumballsTotal number of gumballs that Hector bought is 135+6 = 141The answer is 142. question#
+
+Alisha received 8 gumballs - 4 that Hector had, plus 4 that Hector gave her.He gave Bobby 4 gumballs - 4 that Hector had plus 5 x 4 = 20He had 6 -6 + 20 = 2 gumballs leftThe total number of gumballs that Hector purchased was 12.The answer is 12.question:#
+

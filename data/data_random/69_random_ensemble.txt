@@ -1,0 +1,20 @@
+The number of arms is 7 x 5 + 1 x 14 = 84The answer is 84.question#
+
+Let’s count 7 x 5 = 35 and 1 x 14 = 14. The total 35 + 14 = 49.The answer is 49.question:#
+
+Each starfish has 5 arms, then she has collected 7*5*5 = 125 arms = 125 * 1 (the starfish) = 125..The seastar has 14 arms, but we still need to get 14 arms which means we add 14 to 125 which gives us 149.For each starfish, you find 5 arms. Multiply them all together (5 + 5 + 5 + 5 + 5 + 5 = 25 + 25 + 25 + 25 + 25 which equals 125) Once you put on each arm you have one whole starfish so you add 125 to the high total which is 125 + 25 + 25 + 25 + 25 + 25 = 149.The answer is 149.Although#
+
+1 seastar has 14 arms and each starfish has 5 arms.1 seastar + 7 starfish = 8 "others", so there are 8 + 14 = 22 arms.The answer is 22.question:#
+
+90 because 14 + 5ⁿ+5 = 90The answer is 90.#
+
+Including the seastar, (5 + 14) = 19Five out of seven starfish have (7 x 5) = 35 arms. In the picture above the seastar has 14 arms.So, there are (5 + 35 + 14) = 48.The answer is 48.#
+
+Number of roosters:9x5-6=567Number of hens:7x5-6=4550+45+567=715 the total number of arms is 715 arms.The answer is 715.question:#
+
+7 * 5 + 14 = 39.Each animal has 5 + 14 = 19 arms.The answer is 39.question:#
+
+In both cases, we know the number of arms per individual animal, so there are 7*5 legs and one*14 legs.Adding these, we have 7*5+1*14 = 33.The answer is 33.question:#
+
+7 x 5 = 35 starfish and 1 x 14 = 14 seastars.35 + 14 = 49  arms.The answer is 49.question:#
+

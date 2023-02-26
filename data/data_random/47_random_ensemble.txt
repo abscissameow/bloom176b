@@ -1,0 +1,20 @@
+The first 60 megabytes takes 60 seconds.The next 40 megabytes takes 40*10/5 = 80 seconds.The remaining 10 megabytes takes 10 seconds.The total amount of time is 80+60+10 = 210 secondsThe answer is 210.20 Categorieshere there be Math#
+
+For the first 60 megabytes of the file, it downloads at a rate of 5*60 megabytes = 300 megabytes downloads.For the second 60 megabites of the file, it downloads at a rate of about 10 megabytes*60 megabytes = 600 megabytes downloads.The next 120 megabytes downloads at the slower rate of 10 megabytes per second for the remaining 320 megabytes over the duration  Xception is a registered trademark of the National Center for Competitive Examinations (NCFE). This list does not reflect NCFE's endorsements or opinions; sample questions are only examples of matters on which we advise examiners to prepare candidates. We do not guarantee that this sample psychology test will exactly correspond with the actual test but#
+
+At the ratio of its first 60 megabytes to its last 10 megabytes, its download time (in seconds) is 60 : 10 = 6 : 1 which is 6 : 1 = 6 5 : 1 = 6 × 5 = 30 seconds.The download time is equivalent to 30 seconds in a minute.The answer is 30 seconds.view more#
+
+The file takes 60 seconds to download at a rate of 5 megabytes per second.  So it’s 60 megabytes / 5 megabytes per second = 12 secondsThe file will then take:  60 megabytes / 10 megabytes per second = 6 secondsBy combining 60 - 12 and 6 we get finally a number of 48 seconds.The answer is 48 seconds.#
+
+x = 60  y = 60  60 / x + 60 / y x + y = 90  x = 30  y = 60  x + y = 90  60 / x = 15 seconds  60 / y = 12 seconds 60*(15) + 60*(12) = 90*60 = 5400 seconds 40 minutes.The answer is 40 minutes.question:#
+
+Shorter rates apply for first 60 MB  rating  : { 5 Megabytes per second for the first 60 MB - 6 seconds60 * 6 = 360 secondsPer 10 Megabytes per second = (60 MB -> 360 seconds) + (10 MB -> 360 seconds) -> 510 seconds510 / (60 - 1) = | -> 1.67  megabyte producing 1.67 seconds additional. final result will be 6 + 1.67 = 7.67  secondsthe floor uses to give 7 seconds.The answer is 7 seconds.question:#
+
+Let f(x) be the download speed for the first 60 megabytes.f(x) = 5*60 (megabytes) After 60 megabytes, the download speed doubles. To find f(x) for the second half of the file, x must be doubled, 1 minute of downloading with 60MB download speed is the same as 1.5 minutes of downloading with 120 MB(megbytes) download speed.From 60 megabytes, the download speed will be 120 MB(megabytes) for x seconds.To convert the hour unit to the second unit, multiply 2.5 (one hour is 2.5 hours) x 60 (minutes) so that it becomes 2.5x60 = 120 minutes.File size in seconds : f(x) = 120 MB(megabytes) for x hours/minutes. So 1 MB = 60x seconds.So, 90 megabytes = 3600 seconds : 1200 megabytesFor the second half of the file, ft(x) = 3600/2020 seconds = 1.75x seconds#
+
+Time is t = 1500 + 600 * 9 = 5400 secondsThe answer is 5400 seconds.#
+
+$\frac{1}{5}$ of the first 60 megabytes, or 30 megabytes, is downloaded each second. So 60 / 30 = 2 seconds, which means the entire download takes  $\frac{1}{5}$ of 60 + 60 / 2 = 100 seconds.The answer is 100 seconds.question:#
+
+The file is 90 MB with 60 MB downloaded at 5 MB per second and the rest of 90 MB downloaded at 10 MB per second, the total MB downloaded is 90 + 60 + 30 = 150 MBThe time in seconds is 150 Mb/(10 * 8) = 150 / (10*1000) = 20.25 secondsThe answer is 20.25.question:#
+

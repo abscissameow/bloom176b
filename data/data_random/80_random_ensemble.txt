@@ -1,0 +1,20 @@
+Each person was paying for 100 cans.The price for each pack was $6.We needed to find the cost for the first 100, then add that onto the remaining 300 to find the total cost.Mark, who spent USD 6 for each pack.Mark spent total cost = 6 x 50 = 300We solved for it already, total cost = 6 x 50 = 300Jennifer spent total cost = 6 x (40 + 6 x 5/6) = 6(40 + 35)Jennifer spent total cost = 6 x 50 = 300Furthermore,Jennifer spent total cost = 6 x 40 + 300 = 6 x 100 = 1200So, the cost for the first 100 is1200UC Cost for 100 was not statedMark spent 300Jennifer spent 300This problem was in the original formUC Standard Form x = 6(40 + 35)e = 40c = 600Total = 1200Hence,Jennifer purchased 120 cans of milk.The answer is 120.question:#
+
+Jennifer bought each 6/5=1/0.2 can for each 5 cans of mark.So Bilng 1/0.2+1 can each should give 5. So her count would be:5 * 1/0.2+1 (additional)= 400So she bought 400 * 6=2400 cans.The answer is 2400.question:#
+
+He bought  can and 6 additional for every 5 cans Mark bought.Mark bought 50, so he bought  cans.Jennifer purchased x cans for herself + not 6 more for every 5 cans Mark bought -5.more than 22 it adds safely-56 more than 6 is 466.22,56,446 cans.I've done the calculation, you can trust me.The answer is 446.question:#
+
+She bought 10 more cans for every 5 cans Mark bought, so every time he bought 5 cans, she bought 10 more.He bought 50 cans, but she bought extra for every 5 he bought.So she bought 5 x 10 = 50 more cans.She bought 40 + 50 = 90 cans.The answer is 90.question:#
+
+The number of cans of milk Jennifer bought is 40 + 6x5 = 40 + 30 = 60Cans of milk bought by Jennifer is 6x5 = 30 cans of milk.The answer is 30 cans of milk.question:#
+
+Mark purchased 50 cans, which is 5 * 10 = 60 cansJennifer purchased six additional cans for every five cans Mark bought, so she bought 6 * 60 = 360 cans.Therefore, if the first equation gives 60, then the second equation gives 360.The answer is 360.#
+
+Jennifer bought a total of 40 + 6*5 = 60 cans of milkMark bought a total of 50 cans of milkWhich means the number of additional cans did Jennifer buy from Mark is 60 - 50 = 10The answer is 50 + 10 = 60 cans of milk.The answer is 60 cans of milk#
+
+Mark bought 50 cans, so the total of 6 additional was 50 divided by 5, or 10 cansJennifer started with 40 and bought 6 additional per every 5 bought by Mark in addition to his 50 cans, which is (40 + 6) * 10/50 = 100 and Jennifer brought home 100 additionally purchased cansJennifer bought 40 cans in total so she brought home 120 cans of milk.(The answer is 120).question:#
+
+The label on a can of milk tells us that each can contains 8 fluid ounces (fl oz), or 128 ounces.Mark bought 6 more cans for every 5 of Jennifer’s cans. When Mark purchase 50 cans, Jennifer had 40 + (.6 * 50) = 43.6 more cans.His total then becomes: 43.6 + 50 = 93.6.Don’t forget to support us on Patreon to keep getting cool stuff like free audio books and nocturnal Camellia sinensis tea.solution: text{Fill: #9c9c90 padding: 10px; font-size: 1.2em; line-height: 19px; border-radius: 5px;}#solution-box h2{font-size: 26px; margin: 20px auto 10px; padding: 20px 30px; font-family: 'Avenir', Helvetica, sans-serif; font-weight: 200; color: #fff; background: #f6f9fa; text-rendering: optimizeLegibility;}#solution-box p#
+
+40 +  6 * 5 =  46Jennifer then bought a total of 40 + 50 - 6*5 = 6 * 5 + 1 *6+1 * 5 = 51 cans of milk.Therefore, she brought home 40 + 6 * (51 - 6 ) = 51 + 31 - 6=512 - 163 - 6 = 96 cans of milk.The answer is 96.question:#
+

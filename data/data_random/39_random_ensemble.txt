@@ -1,0 +1,23 @@
+Every subdivision has 60 + 75 = 115 houses. So Anna got $14 x 115 = 1560$ pieces of candyBill got $11 x 115 = 1225$ pieces of candyOur dear lady has now 600 more candies than BillyThe answer is 600.question:#
+
+After the first subdivision, Anna has 14 candy pieces per house x 60 houses = 840.After the second subdivision, she gets 840 + 11 candy pieces per house x 75 houses = 905.The answer is 905 - 840 = 125.question:#
+
+Anna gets 14 pieces of candy per house in the first subdivision and 14 / 60 = 2.5 extra pieces of candy for every house that she visits.On the same grid, Billy gets 11 pieces of candy per house in the second subdivision and 11 / 75 = 1.375 extra pieces of candy for every house that he visits.Therefore, Anna receives 14 + 2.5 * (72 - 60) = 2.5 * 15 = 37.5 extra pieces of candy in addition to what she gets per house in the first subdivision.The answer is 375.question:#
+
+Anna gets 2 × 14 = 28 pieces of candy on one subdivision.Billy gets 11 × 75 = 775 pieces of candy on another subdivision.The number of houses where Romeo trick-or-treat was 211 so the number of houses in Anna's subdivision: 100 + 14 × 55 = 608.So, the number of houses of the other subdivision: (608 + 75) / 2 = (608 + 150) / 2 = 75 ÷ 2 = 37.APA Citation format:Get the Answers to Quizzes 2, 4, 6, 8, and 10FormID:1270:ef1b9765-1edd-e211-80ff-dc42d8a187a2Name::elliotNameID:ed0a1fc3-bbf9-7a26-932d-ed02d988dc8aSid::ef1b9765-1edd-e211-80ff-dc42d8a187a2:Question 2Yes, but expansion costs are changing2Question 411: PagesFigures72Figure 1Fig.Figure 2Fig.#
+
+_________________ * 74 = ___________________We know that the first subdivision has 60 houses and the second 285 houses.Let x be the number of houses between these two subdivisions, so 60 + x = 75Let n be the number of houses in the second subdivision (so 75 = x + n).So Anna got 14 * 75 = 1020 pieces of candy Billy got 11x = 1020 x = 33⅓ and x + n = 7533⅓ + 75 = 150, so n = 65 Anna gets (70 + 33⅓) + 65 = 152, 165 more pieces of candy.The answer is 165.#
+
+Trick or TreatingIf there are 60 houses and 14 candies per house, there are 60 x 14 = 840 candies. There are 840 candies and if Billy gets 11 candy pieces, she has 840-128 = 652 candiesLet me write out the same expression with candy numbers. Anna has 60 houses so 60 x 11 = 660 candies - her brother gets 11 so he has 650 candiesSo Anna had 14 candies per house so she has 2 more candies than her brotherBilly's number is greater than Anna's number so Billy has more candy than Anna.Billy gets 11 candies per house so the number of houses is 75 and Billy has 11 candies per house for a total of 75 x 11 = 795 candy piecesAnna's number is greater than Billy's number so she has 2 more candies than BillyBilly had 650 candies - Anna#
+
+14 pieces of candy / house * 60 houses = 840 pieces of candyThe number of pieces of candy Billy gets in the neighboring subdivision is 11 pieces of candy / house * 75 houses = 825 pieces of candyAnna gets 840 pieces of candy - 825 pieces of candy = 25 pieces of candyThe answer is 25.question:#
+
+The subdivision with Anna is 14 pieces / house = 70 pieces and has 60 housesSo the total is 70*60 = 4250 pieces of candyThe second subdivision with Billy is 11 pieces/house = 77 pieces and has 75 housesSo the total is 77*75 = 6750 pieces of candyThe 2 subdivisions together have 4250 + 6750 = 9900 pieces of candySo the extra pieces of candy is 9900 – 70 = 3000 pieces of candyAnna gets 3000 / 2 = 1500 extra pieces of candyThe answer is 1500.Important skim#
+
+60 housesAnna gets 14 pieces of candy per house so she gets 60 x 14 = 840 pieces of candyTotal = 840 + 360 = 1140 pieces of candyTherefore, Anna gets 1140 -30 = 1100 pieces of candy.So, one house has 60*1100 = 65,200 pieces of candyThe answer is 65,200.question:#
+
+Anna’s houses are 60/14 = 5 pieces per houseThus, Anna got 5 * 14 = 70 pieces of candy.Her brother Billy is five pieces/total houses = 5 * 75 = 375 pieces of candy.The answer is created corrected by using  70 + 375 = 415 ​
+Question and Review discovered by our specialists to complete your knowledge. If you do not understand some parts, the suggest how we will solve your issue.
+Remember: You can recommend how we help, I hope this project help you. You can book in next issue, change any situation, and your friend student. If you have questions, please ask about our Q&A.
+Live an infinite life. Thanks for visiting the CalArts website. Language Arts, Students at CalArts must complete a major or minor in a performing discipline while completing electives and studies within any department in, ST#
+

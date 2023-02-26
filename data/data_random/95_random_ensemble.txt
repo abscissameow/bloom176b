@@ -1,0 +1,33 @@
+After exchanging for nickels she has 20 / 5 = 4 copper nickels and 4 x 4 = 16 iron nickels.Bob's total value is:4 * copper nickel + 16 * iron nickel = 24 + 96 = 120The total value is $120.The answer is 120.question:#
+
+20 quarters = 80 nickelsBecause 80*20% is 12 quarters, a quarter is worth $3, and the answer is $180.question:#
+
+Alice has 20 quarters which equals 20 coins.20 coins * 25 cents = $50$50 cents + $3 per each iron nickel = $51 in total$50+51 = $101The answer is 101.question:#
+
+Alice needs 20 x (1 / 20) = 5 nickels for each quarter that she had.So, the total value of her nickels is 20 x 5 x $1 = $100.Since 20% of the nickels are iron nickels, 20% of 20 will be iron nickels as well.Therefore, 2 iron nickels can be exchanged for the total value of her nickels which is 100.Since each iron nickel is worth $3, the total value of her iron nickels is 6.Therefore, the good nickels are $4 of silver and 2 iron nickels which is 97.So the total value now is $100 + 6 + 4 + $2 = $108.The answer is 108.question:#
+
+Alice started with 20 quarters.After exchanging she has 20 that is worth.20 x.25 x.15 = $3.Alice now has total US$300 + $3 + 20 x.25 = $322The answer is 322.question:#
+
+20% of nickels are iron nickels worth $3 each, whereas 80% of nickels are regular nickels worth $1 each.Alice started with 20 quarters so she had 1 * 20 *.20 = 4 iron nickels and 1 * 20 *.80 = 16 regular nickels and thus brought $20.On her way back, she converts her nickels into money so starting with $4 * 20 = $80 she got $80 *.20 = $16 for the iron nickels and $80 *.80 = $64 for the regular nickels, $10 less than the initial 19 it obtained for  the 20 quarters that she had before.The answer is $20.question:#
+
+20% of 20 quarters= 4 iron nickels
+  $4*20=$80$80-(20*4)=$60-The answer is $60.
+-----------next---------question:#
+
+She has 20 pieces of money so she has 20 dull metalsEach normal nickel that Alice got was worth 5 = $1So she got value 20x 1 + 10x 3 = 40 + 10 = 50Change that 50 to value of 1 dollar oneThen 50 / 100 = 0.5The answer is 0.5.------------java代码package skillsgame;import java.io.*;import java.#
+
+20% of the nickels are iron nickels worth $3 eachSo, the total value of her money will be 20 * 10 + 2 * 18 = 228The answer is 228.question:#
+
+The original 20 quarters is $2, a cent is worth \$0.05, a nickel is worth \$0.25 and the iron nickel is worth \$3.20 of the original 20 is used to buy 3rd nickel which is 20% of 20 * 0.25= 5% of 20*90 cents + 20% of 20 * 0.25* \$3$3 * 90 cents + \$3 * 0.25 the amount of stuff (20 tems + 3 tems)* their value(20 * 0.05 + 3 * 0.25)*quantity(3% + 20 tems)* price (3 hundredths and \$3) is quantity* \$20 is 20 *.05 + 3 *.25 is 3% * \$20 plus 20 * 90 cents + 3 * \$3 is \$20 + 20 * 0.05 + 90 cents + \$3 which is 3% of \$20 plus 20 * 0.05 + 90 cents + \$3 is
+
+       checkout questions example
+
+<script>
+       $('#html_input_or_submit').value = $("#question_answer").val();
+    <\/script> 
+   </body> 
+
+</html>
+
+#
+

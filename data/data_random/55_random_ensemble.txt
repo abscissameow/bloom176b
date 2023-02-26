@@ -1,0 +1,20 @@
+Use the formula: (Roses+Tulips+Daisies)/#Flowers / Roses (working on how you would find out roses)Roses = 25Tulips = 40Daisies = 35Total Flowers = 25 + 40 + 35 = 100Roses = (100 - (25 + 40 + 35)) / 100 / 25 = 23.1%Flowers not Roses = (100 - (25 + 40 + 35)) / 100 (working on how you would find out total flowers or ALL flowers) = 86.9%The answer is 86.9%.question:#
+
+120 flowers (number of all flowers – roses)% = 25 × 100 / 120 = 20.83%The not roses amount would be 25 * 20.83 = 5.255 flowers.The answer is 5.255.question:#
+
+25 roses are the minority, so both they and the 40 tulips have a total of 65 flowers. Knowing this, we know that the garden has 65+35 = 100 flowers.The percentage of flowers that are not roses will be: 100-((25 roses)/(65 flowers)) = 100-25=75%And so 25% of the flowers in the garden are roses. The answer is 25%.question:#
+
+The question asks about non-canned flowers, so we split it into non-canned roses and non-canned non-roses.220% is the new 100%, so 40% non-canon roses, 60% non-canned non-rosesso, total non-canned flowers = 25 roses + 60 non-canned non-roses = 85The calculated percentages are:(25.00% non-canned roses)(40.00% non-canned non-roses)(60.00% total of non-canned flowers)1.25 * 40.00= 40.00(% roses)(% non-roses)(% total)so(1*20:10.00)(1*51:11.00)(1.25*60:40.00)1.00 + 20.00+ 10.00+ 20.00= 100.00(% roses)(% non-roses)(% total)We do not know the total amount of flowers, only the percentages.They are asking for the amount of non-canned non-roses, so we have to solve for that.85.00% total of non-canned flowers= 85.00% roses * 20.00% non-roses* = 20 %#
+
+The total number of flowers is 25 roses+40 tulips+35 daisies = 104 flowersThe number of flowers that are NOT roses is 104 – 25 = 79 flowers.79 out of 104 flowers are NOT roses, so that means that 79 out of 104 flowers are NOT roses, or just 79 / 104 = 76%. Therefore, 76% of the flowers are NOT roses.Sometimes, a person doing a Subtraction Game will work backwards and give you the answer. So, for example#
+
+The ratio of flowers which are not roses w.r.t. total number of flowers is: (70 + 35) / 25 = 110 / 25 = 4.8. The answer is 40020% of flowers are not roses since 4.8 * 100 = 80%.The answer is 80%.question#
+
+25 roses + 40 tulips + 35 daisies = 105 flowersSo, the answer is 105% x 100% = 105/100 = 1.05. question. The high point of a cone is#
+
+The percentage is: 25 / 125 = 20%40 tulips / 125 flowers = 33%40 daisies / 125 = 35%The answer is 20%question: A company is making...... phone covers in 3 shades color. It will take 25 hours to make#
+
+Whose first name is the same as the name of place you want to go?answer: Since the place is Illinois, the last letter is L.The ozone shield is over _____.answer:#
+
+There are 85 flowers in total (25 roses + 40 Tulips + 35 daisies)85 = 25 + 40 + 35total number of flowers in one garden = 85*100/85 = 100%/85 = 12.57%The answer is 12.57%.question:#
+

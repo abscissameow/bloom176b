@@ -1,0 +1,27 @@
+The bolt of fabric has 16 times of 12 feet = 192 square feet of fabric.The living room curtains have: 192 - 4 * 6 = 120 sq. ft.They're not enough, so there will be 40 square feet of remaining fabric.On the other hand, the bedroom curtains are: 192 - 2 * 4 = 64 sq. ft.These curtains are enough, so the remaining fabric in the bolt of fabric is 192 - 64 = 128 sq. feet.The answer is 128.answer: طريقـة التعليــم ● It is more effective to learn by doing. In this#
+
+Use proportions:  (4 males)/(12 ft^2) = (2 ft^2)  {because 16 ft^2-12 ft^2 = 4 ft\^2}  (6 females)/(24 ft^2) = (4 ft^2)  -12/2}  {because 16 ft^2-24 ft^2 = 4 ft^2 } = 1 (2 females)/(6 ft^2) = (4 ft^2)  {16/4 = 4}  -12/4}  {because 12 ft^2-16 ft^2 = 4 ft^2 } = 1
+
+
+      
+
+
+
+Factoring: First, calculate the integers.  2  ∗ 4 +  3.  After, find a factor which will give the largest numbers.3. Factoring.►  For example, in 6 x 15,14 is a smaller multiple2 \div 6 \div 3 =Odd integers would factor as multiples of relatively prime numbers.15: 1801. Multiply the two numbers together (use calculator if you need to).1.  If we factor 7 x 4, remember the number line can give us plenty of3. I.  Factoring is when we multiply the integers that make it up#
+
+We use the multiplication property in two dimensions to make the formula look like this:Length 4 feet × Width 6 feet = 4 × 6 = 24 square feetA rectangle of 24 square feet applied to a 4 foot by 2 foot window measured floor to floor measures 4 feet × 2 feet store to storeApplying that larger rectangle to the scraps gives us 24 square feet * (4 feet edge length applied to the scraps) = 12 square feet of fabric as leftover.The answer is 12.#
+
+She's left with 4 x 6 = 24 feet.  The bolt is 16=12+12, so that's 24+4 = 28 feet+12 feet (the bolt's length).  The answer is 36 feet.#
+
+She cuts the 4 foot by 6 foot rectangle, which is 4 x 6 = 24 feet total.She cuts the 2 foot by 4 foot rectangle for the bedroom, which is 2 x 4 = 8 feet total.Therefore the total amount of fabric that is left is 16 - 24 - 8 = 4 feet.Unfortunately she only has remaining 4 feet of fabric. She can't cut a 2 x 4 foot rectangle.The answer is 4.question:#
+
+Using the same method of reasoning,Ann will also need a 2 foot by 6 foot rectangle of fabric, and 20 feet by 20 feet of fabric.Ann has 16 foot by 12 feet = $(16 · 12)feet of fabric. After subtracting 4 (6 – 4) feet of that fabric for the living room and 4 (2 – 4) feet of it for the bedroom, she has $16 – 2 – 4 = 14feet of fabric left.Then, 2^(ft 2 ) = 144 + 20 = 164 4 = 16ft 2 ∴ft 2 = ft^2 ∴ feet^2 = 14 * 16^2 | 162- FeetPause here for 3 days! - St. Patrick“What happens if you do not think positively?You start to think negatively.” — Ann Landers#lowylives... Read the following notes, heed what is underneath;Note 1;Note 2;Note 3;Note 4;♥ Positive notes are only for positive persons;➕ First opinion is the most important, and also the last... 🤔 ➖#
+
+16 feet by 12 feet  =  192 square feet  4 feet by 6 feet  =  24 square feet  8 feet by 8 feet  =  64 square feet  24 + 64 = 100square feetTherefore, there is 100 - 192 = -8 square feet of fabric left, as 192 is subtracted from 100.The answer is -8 square feet.question:#
+
+I divided into the 16 by 12 rectangle into 4 by 6 rectangles.16 ÷ 4 = 4The 4 by 6 rectangle is 4 feet in length, and is 6 feet wide.It's 6 feet across.So, I multiplied it by the width of the bolt of fabric.(It has 12 feet in width)6 * 12 = 72 ftSo the 72 ft is the amount of 72 ft.The answer is 72.question:#
+
+4 foot by 6 foot rectangle is 4 foot by 6 foot = 1.5 square feet4000 divided by 1.5 feet = 2500 feet = 33 feet wide2 foot by 4 foot rectangle is 2 by 4 = 8 square feet4000 divided by 8 feet = 500 feet = 63 feet longSo if bolts of fabric is 16 feet by 12 feet, it is still 64 feet in width x 16 feet in lengthSo, for the living room, she has 33 feet of width x 64 feet long, and for the bedroom, she has 64 feet of width x 63 feet long.1500000  feet * 16 feet long = 2,400,000 square feet.This is (33 + 63) x (64 + 63) = 197 x 197 = 47,625 square feet of fabric.197 x 47,625 = 89,375 square feet are now sold.So 1600000 feet-1600000 feet sold are 47000000 square feet-1600000 feet = 400000 square feet square feet of fabric#
+
+His living room is 4x4  =  16 square feetHis bedroom is 2x4  =  8 square feetAnn's total is 20 square feetThe answer is 20.question:#
+

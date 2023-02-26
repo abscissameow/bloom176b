@@ -1,0 +1,21 @@
+150 + (35 x 2) + 50 - 15 = 240240 / 60 = 4 coins, or there are 4 coins in a minuteSo for the fourth hour, Joanne collected 4 * 60 = 240 coinsThe answer is 240 coins.question:#
+
+She had collected 35 coins in the first 2 hours. So, after the the first 2 hours she had 35+35 = 70.This meant in the third hour, she collected 70 + 50 = 120 coins.The problem then asks how many coins did her have after the fourth hour so we can subtract 50 from the first equation for the answerThe answer is 120 - 50 = 80.The answer#
+
+Before giving the coins she had: 15 + 25 + 50 coins = 90 coinsAfter giving the coins she had: she had: 90 - 15 coins = 75 coinsThe answer is 75.question:#
+
+The answer is 450The reason:- John had 55 papers which were in a Folder. He put another#
+
+During the 1 st hour, she collected 15 coins. In the 2 nd hour, she collected 15+35=50 coins.During the last hour, she collected 50+ = 65 coins.She collected 65 coins in total so she collected 65 + 15 = 80 coins.The answer is 80.
+#
+
+During the first hour:  15 coins*60 = 15 minutesDuring the next two hours:  35 coins*120 = 45 minutesAfter the second hour: 70 coinsAdding up:  15 + 45 + 70 = 110 coinsAfter the fourth hour:  50 coins - 15 coins = 35 coinsThe answer is 35.question:#
+
+She has to collect the coins from the fountain every hour.The first hour she collected 15 coins.The second hour she collected 35 coins.In the third hour, she has to collect the same amount of coins as in the second hour.The third hour she has to collect 35 coins.The fourth hour she collected 50 coins.Therefore, after a total of 4 hours, she has collected Number of hours of collecting is 4 hours. She collects 35 coins every hour. The total number of coins at the end is 35*4 = 140 coins.The sum is 15 + 35 + 50 = 100 coins.One hundred coins are divided, and she has 50 coins. She creates 15+15 coins and at the end she has 35 coins in hand.In the end, the answer is 35 coins.The answer is 35 coins.question:#
+
+We know that 15 + 35 + 35 = 80 coins.We know that after the fourth hour she has 50 coins and 15 coins + 50 coins = 65 coins.The answer is 65.question:#
+
+If she collected 15 coins for the first hour, she could have collected 30 coins for the second hourDuring the third hour she could have collected 45 coins for the fourth hour of the day.So she can calculate the total coins she collected by adding up the coins she might have collected:30 coins + 45 coins = 75 coins + the amount she gave upSo the answer is 75 coins.How many#
+
+Before giving out 15 coins to her coworker, she started with 85 coins.In the first hour she collected 15 coins.Therefore, 85 + 15 = 100. In the second hour she collected 35 coins. But she gave 15 coins to her coworker so she now has 210 coins.In the third hour she collected 35 coins. Therefore, 215 coins So in the fourth hour she collected 50 coins.She has 50 coins + 15 coins she gave => 65 coins.However, 65 coins cannot be more than half of 100 coins.Therefore she will have less than 100 coins.Therefore her answer is 100 - 65 = 35.The answer is 35.question:#
+

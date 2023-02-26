@@ -1,0 +1,22 @@
+Birds:      6 12 = 6, beetles/dayJaguars:       6 5 = 12, snake/daySnakes:     6 3 = 18, bird/daySnakes eat 3 birds every day, so 12 birds are eated every day.Birds eat 6 beetles every day, so 60 beetles are eaten every day.The answer is 60 beetles/day.question:#
+
+If there are 6 jaguars in a forest, 6 x 5 snakes each jaguar eats per day = 30 snakesper daySo over the course of a day each jaguar eats 30 snakes x 1 bird each snake eats = 30 birdseach bird eats 12 beetles = 360 beetlesThese birds eat 360 beetles per day but the jaguar can only eat 30 birds a day for only the birds and beetles to multiply. 6 jaguars in a forest x 30 birds eaten a day = 180 birds a daySo 30 birds eaten x 12 beetles each bird eats per day = 360 beetlesBut only 360 beetles - 180 beetles eaten = 180 beetles left over in a dayThere are 360 beetles eaten a day in a forest with 6 jaguars, there are not enough beetles to supply the snakes and rats.question:  12 possible trees * 160 beasts in a forest = 1920 total trees.but they’re all#
+
+Total number of beetles eaten per day = 12*12 + 3*6 = 84Total number of birds eaten per day = 12*6+6*3= 81Total number of snakes eaten per day = 3*12+6*5+2*5 = 98Question at total number of beetles eaten per day = 84 + 81 + 98 = 247.The answer is 247.question:#
+
+
+Let x be the number of beetles eaten per day.There are 3 birds eating x beetles per day and 5 snakes eating x beetles per day, so 3x + 5x = 12.3x = 12 - 5x and 5x = 12 - 3x, so 3(x - 5) = 2.5(x - 3) = 2.Adding 5 and 3 to both sides, x = 9 and x = 6, therefore x = 7.The answer is 7.#
+
+We will need to use a fraction to get the equation.The total number of beetles eaten each day is 3 birds per day x 5 snakes per day x 6 jaguars.So 3 x 5 x 6 = 180 beetles per day.Therefore, 180 x 12 = 2,160 beetles eaten each day.The answer is 2160.question: Will has 200 coins and#
+
+Let A be the number of beetles eaten by all the animals.We know the total number of beetles eaten is 6 * 12 = 72.Because the birds eat 12 beetles each, the number of birds is A/12.Snakes eat 3 birds each, so the number of snakes is A/3.Jaguars eat 5 snakes each, so the number of jaguars is A/5.The number of beetles eaten by the birds is A/12 = 6.The number of beetles eaten by the snakes is A/3 = 12.The number of beetles eaten by the jaguars is A/5 = 18.Then the total number of beetles eaten is A/12 + A/3 + A/5 = A.Therefore, A = 72.The answer is 72.question: The cabbage heads of the Tustin family are arranged in a circular#
+
+Let x be the number of beetles eaten each day. The number of beetles eaten by birds is x/12. The number of birds eaten by snakes is x/3. The number of snakes eaten by jaguars is x/5. The number of beetles eaten by snakes is x/3. The number of snakes eaten by jaguars is x/5. The number of beetles eaten by birds is x/12. The number of birds eaten by snakes is x/3. The number of snakes eaten by jaguars is x/5. The number of beetles eaten by birds is x/12.The number of birds eaten by snakes is x/3. The number of snakes eaten by jaguars is x/5. The number of beetles eaten by snakes is x/3. The number of snakes eaten by jaguars is x/5.The number of birds eaten by snakes is x/3. The number of snakes eaten by jaguars is x/5. The number of beetles eaten by snakes is x/3. The number of snakes eaten by jaguars is x/5.question: Shaquille O'Ne#
+
+There are 6 * 5 = 30 snakes.For each snake, there are 3 birds so the birds eaten are 30 * 3 = 90.Also, each bird eats 12 beetles so the number of birds eaten per day is 30 * 3 = 90.Each bird eats 12 beetles is 1080 + 90 = 1920 7 beetles.For every 7 beetles eaten, there are.Therefore, the total number of beetles eaten is 1920 + 90 = 2020 beetles.The answer is 1920.question: Raven can build a house in 28 days#
+
+Total meow of beetles eaten per day = 12*12 + 3*6 = heh  number of birds eaten per day = 12*6+6*3= 81Total number of snakes eaten per day = 3*12+6*5+2*5 = 98Question at total number of beetles eaten per day = 84 + 81 + 98 = 98.The answer is 98.question:#
+
+ Let X be the number of beetles eaten.Then 1 + 3*X + 3*X = 6.x = X + 6..Since X has to be an integer so, X cannot be divisible by 3, therefore X can equal 1 or 2 or 4 or 6.Therefore, there are 6 beetles eaten each day which is 6/60 = 12 beetles per day.The answer is 12.question: There are 4 idiots in the city that get up at 3am to buy lot#
+
+

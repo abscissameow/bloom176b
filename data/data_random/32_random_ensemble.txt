@@ -1,0 +1,21 @@
+There are 4 turns, so the total distance the car makes is 4 times its distance after the 4th turn.Distance after 4th turn:  23 meters - 4x8 meters = 23 - 32 meters - 5 metersDistance after 3rd turn:  23 - 31 meters - 5 meters = 22 meters (The original problem is stating the distance after 3rd turn, so it evaluates like that.)The distance after 4th turn is 4 times the distance after 3rd turn.Therefore, the car has to travel 22/4 = 5.5 meters after the 3rd turn. The original problem asked for the distance after the 3rd turn. The 4th turn must exist, however, so the distance is 5.5 meters after 3rd turn and then 4 meters after 4th turn: 5.5 + 4 = 9.5 meters. The conversion to meters instead of feet can obviously be done using the conversion below, but we give how to#
+
+⇒direction of car driving1st turn →5 m2nd turn→8 m3rd turn →How far did it have to travel3rd turn ×4 +23m = total distance traveledThe distance traveled total=4 × 23 meters × 4 meters = 96 total metersThe distance traveled after 3rd turn=3 × 23 meters = 69 metersThe 3rd turn is 7 meters away from the end of the tunnel so travel 23-6 = 17 metersAfter travel, the car's total distance traveled is 96 meters plus 80 meters = 16.96 meters + 17 meters = 23.96 metersThe answer is 23.96#
+
+The car will find difficulty to 5 kilometers after 1st turn because it could not travel 8 kilometers after 2nd turn. After the 3rd turn, it travels a little further and at the 4th turn, it immediately exits the tunnel.The following image shows the movements of the car Traveling 23 meters after 3rd turn × 1, it gives 23 meters.If the car traveled 23 meters after the 3rd turn,it traveled 23 - 8 = 15 meters after 2nd turn 8 is the 8 km after 2nd turn ×Traveling 23 meters after 2nd turn vir the 23 mts. × 1Before travel 23 mts after 3rd turn 23 meters = 23 × 1 to your goal: Pick from 6 steps in the above passage, the number is the correct answer.answer: 2.composition with Nougat fabrics#
+
+After a left turn the car will travel an additional 15m (1 turn left and 5m total at the center, plus 1 turn right and 8m total after 2nd right turn, plus 1 turn left and only 1m is left).The answer is 61m.question:#
+
+This the first triangle class that was mentioned in class so many many thanks to my math teacher The total distance that the car drove is 4 squareroot 5 squareroot8=23 metersSince the table shows that the distance traveled after 3 turns is 23mAfter the 3rd turn the car traveled 4*3= 12mSince the tunnel is not 180 degrees, for 4 right turns you also take a left turnSo we also need to add the 8m that the car drove in the first right turnThe total distance the car traveled is 12+8= 20m22m, the ORIGINAL answer should be 22 meters, the number posted above is incorrect.
+1. Thomas had a pet#
+
+x + =23 + 5 + 5 + 8 + x = 40m$40:4 = $10m: the next turn is after 5 meters, so the beginning of the 3rd right turn is when x = 15m.The answer is 15.question:#
+
+Before the 1st turn happened the car had traveled 4 metersDirection: right after the 1st turn, 5 metersDirection: right after the 2nd turn, total of 3*8 meters = 24 metersDirection: right after the 3rd turn5 meters + 8 meters + 24 meters = 34 meters leftOnce the car finishes the last right turn it will have to travel 34 - 23 = 11 meters furtherThe answer is 11.question:#
+
+The "turn" distance is 5 meters + 8 meters + a bit further and 4 immediately = 12 meters.So, the total length is: 23 meters - 12 meters = 11 meters.11 / 8 is 4.86 meters.4.86 + a bit further = = 5.67 metersThis means they traveled 5.67 meters after the first 3 turns rather than the 4 right-hand turns.question: Celeste and Carmen work side by side. Celeste's pay is 40% of Carmen's pay. They get a raise and Celeste's pay becomes 34% of Carmen's pay. The raise will increase Celeste's pay by 48 dollars. What is Carmen's pay now?answer: The initial pay of Carmen is the first number and pay of Celeste as the second number.Celeste's#
+
+23 – 5 – 8+1⁄2 x 5 + 5 after the 4th turn = 24 The car must travel 24 cars after the 3rd turn.The answer is 24 meters.question:#
+
+After 1st turn, it moved 5 meters.After 2nd turn, it will travel 8m and still 5 to finish the ring.The 24 meters is more than the 23 meters.So, 6 meters more that it passed the 3rd turn.The answer is 28.question:#
+

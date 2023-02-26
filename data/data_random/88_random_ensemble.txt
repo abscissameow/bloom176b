@@ -1,0 +1,20 @@
+He sold 86 and 132 geckos in the first two years. If 86 + 186 were the answer to this, then he sold 186 more geckos last year than he did in the first year.If 186 were the answer, then he sold 186 geckos last year. That means#
+
+At 86 geckos this year, there are 207 geckos (86 * 2) the year before.Brandon has sold (207 * 2) + 86= 383 geckos in the last two years.383 / 86 = 4 ratios.The answer is 4.question:#
+
+first find how many geckos plus 86 he sold: 86 + 2 * 86 = 204And then want the number of geckos he sold last year: 86 of the 204And now we get the total number of geckos he sold in the last two years: 204 - 86 = 118The answer is 118.question:#
+
+If 86 geckos were sold last year and twice as many were sold the year before, then X = year 1 is half the number of geckos which is half 86, so X = 42 geckos. Similarly, Y = year 2 is twice the number of geckos so Y = 2*42 = 84 geckosIn the last two years, he has sold 86 + 84 = 198 geckos.The answer is 198.#
+
+Go to http://australia.com.au/geckos - the answer is astounding!question: The man on picture 1 is floating in a pool of water.  If he can hold 31 gall#
+
+: brandon sold 86 double geckos the year before. So he sold 86 + (86 x 2) = 218 geckos.Brandon sold 86 last year, so in the last two years he has sold 86 + 86 x 2 + 218 = 410 geckos. The answer is 410.question:#
+
+Mark the equation below: y = 2 x + 3.Zero is at the origin.Multiply the independent term by two: 2 ∗ 3 = 6.Add the constant term: 6 + 3 = 9.Point 3 in the second graph is at the 3 on the y-axis in the first graph.The slope, m (the change in y for a change in x), is 2.Since there are 86 points in the x or horizontal direction and 86 points in the y or vertical direction, there are 86 points in the 45° direction.Dividing 360° / 45° = 8 as the number of divisions in the x direction.The number of divisions in the y direction is 86.The number of sections is 2 * 8 = 16.So 16 sections by 2 columns times 3 rows is 224 sections.Brandon should put a circle for 104 sections and it will look like this:#
+
+In 2016, he sold 86*2 = 176 geckosIn 2017, he sold 1764 = 172 geckosIn the last 2 years, he has sold 176+172=344 geckosThe answer is 344.question:#
+
+86 + (86 * 2) = 174Since the number of geckos he sold last year is double the number of geckos he sold in the year before, this means the amount of geckos he sold last year is 86 * 2/2 = 86/2 = 60The amount of geckos he sold last year is double the number of geckos he has sold in the last two years, this means the number of geckos Brandon sold in the last two years is 2 * 60 = 120The answer is 120.(Image Courtesy: Dhirajbai0619#
+
+The year before, Brandon sold 86*2 = 176 geckos last year, say 2011.  So that means Brandon sold 86+176=244 geckos in 2011 and 2011So he sold 244+86=330 geckos in the last 2 years.The answer is 330.question:#
+

@@ -1,0 +1,21 @@
+The original weight was two pounds, so it got heavier by 2 pounds to 2+2=4 poundsNow the weight gets triple so 4*2 = 8 pounds4 other pounds was on the box so 8+4 = 12 poundsThe jelly beans now doubled so 12*2 = 24 poundsDividing the gummies from the gummy worms the result was 1 and 1*2 = 2The box weighed 12 + 24 + 2 + 2 = 36 poundsThe answer is 36.question:#
+
+2 pounds is 2*2 - 1 pound.3 pounds is 2*2 x 2 - 2 pounds.6 pounds is 2*2 x 2 x 2 - 3 pounds.11 pounds is 2*2 x 2 x 2 x 2 - 6 pounds.20 pounds is 2*2 x 2 x 2 x 2 x 2 - 11 pounds.23 pounds is 2 x 2*2 x 2 x 2 x 2 x 2 - 12 pounds.Double the box's weight 12 times yields: 12*12 - 23 pounds.The final weight is 12*12 - 23 = 23 pounds.The answer is 23.2: A#
+
+Ken poured enough jelly beans into the box to weigh 2 pounds, after that the jelly beans became the first term of the sequence.After that, he added 4 more pounds of brownies, therefore the weight became 6 pounds.The number of terms in the sequence is the number of jelly beans every 2 pounds.Therefore the number of terms in the sequence is 3.The 3rd term = 6 - 2 = 4 pounds.So the weight of the box is 4 + 3 x 2 = 18 pounds.The answer is 18.question:#
+
+In Step 1:2 pounds of jelly beans  +  3 pounds of brownies  =  5 pounds  of goodies.In Step 2:5 pounds x 2 = 10 pounds of goodies.In Step 3:10 pounds x 3 = 30 pounds of goodies.In the last step, the weight is doubled twice, so you should not worry about doubling it again.YOur final weight should be 30 x 3 = 90 pounds of goodies.The answer is 90.question:#
+
+After the jelly beans, the total weight of the box (jelly beans and brownies) was 2+2= 4 poundsAfter adding the brownies, the total weight of the box (jelly beans and brownies) was 4 + 6 = 10 poundsAfter adding the second batch of jelly beans, the total weight was 10 + 2 = 12 pounds12 + 2kg = 14kgThe answer is 14.#
+
+We can find the weight W of the box with w grams of jelly beans without paying attention to how much brownies Ken added before the w grams of jelly beans.  If a box weights w without the brownies, then adding more brownies will be adding. We say that the change in weight depends linearly on the weight.  We call this the weight of a box with w grams of jelly beans, without the w grams of brownies dW=w (we'll do 2 of these)  w + sum of changes in weight(1st w grams is from the brownies 2nd w + 2w grams difference is w + 2w grams of jelly beans)= const; ok2C/dW = W; ok3W(1/dW) = 2; 2(1+dW) = 4; ok4W = 32; ok4W = 4.
+      solves the problem now we apply W = 3(1+dW)We add 300 calories to 3(1+300 calories) times the#
+
+The boxes weight was 20 pounds before he poured in the jelly beansThe 20 pounds is a sum of 2 pounds + 2 pounds + 2 pounds.2 pounds is the weight of the browniesThe 2 pounds is the weight of the jelly beansThe 2 pounds is the weight of the gummy wormsSo in the end weight will be 20 + 2 + 2 + 2 = 28 poundsThe answer is 28.question:#
+
+2 pounds (2 lbs)is the starting weight - put 20 jelly bean on it = 24 lbs (2 x 20 = 40 = 24 lbs)then add 3 lbs brownies = 27 lbs (27 - 24 = 3)3 lbs brownies = 60 jelly beans (60 - 24 = 36)2 lbs jelly beans = 92 gummy worms (92 – 36 = 56 lbs)So the total weight = 92 lbsThe answer is 92.#
+
+First, we weigh the box by itself: $(box)+(jelly beans)=2*\$ Previous Weight $With the jelly beans, the box weighs 2 pounds.Now we add the brownies: 2*\$ Previous Weight $+3*\$brownies $= 3*\$ New Weight $Adding another 2 pounds of jelly beans, the new weight will be 1+3=4 poundsThe pesky gummy worms weigh as much as twice the previous weight: 2*2=4 poundsThus, the new weight: 4+4=8 poundsThe boarder school teacher said the final weight of the box of goodies is 8 pounds.The answer is 8.question:#
+
+2 pounds x 2 + 1 pound + 2 pounds + 1/2 pound  = 3 1/2 pounds.  Ken's box is clearly much too heavy to ship by mail.The actual answer is 3.5 pounds#
+

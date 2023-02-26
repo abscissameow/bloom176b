@@ -1,0 +1,20 @@
+The 10 cans holding 8 liters each are holding a total of 80 liters because 8 * 10 = 80The 240 remaining liters were divided by 10 cans.Each can is holding 24 / 10 = 2.4 litres.Each can is holding 2.4 - 8 = - 6.6The answer is 6.6.question:#
+
+240 liters of oil requires 8 cans.And each can holds 12 liters of oilThat leaves 120 liters of oil to go.In this situation, we multiply 120 liters of oil by 10 or 1 can.120 x 10 = 1200 liters of oiThat leaves his remaining cans holding 1200 liters of oil.The answer is 1200 liters.question:#
+
+290 / 2 = 29010 cans hold 8 liters each, 310 cans hold 46 liters each.All 10 cans with 8 liters each, including all 8 liters they hold, stands for 10 x 8 = 80 liters.All 290 liters of oil are distributed among the 310 cans.All 310 cans hold 46 liters of oil each because 290 / 310 = 46A total of 310 x 46 = 1304 liters of oil in 310 cansThe answer is 1304.question#
+
+There are 290 liters in 24 cans. 8 liters * 10 cans = 80 litersThere are 80 liters / 8 liters per can = 10 cansIn the first step, 10 cans are holding 80 liters. The remaining 14 cans are holding 290-80 = 200 liters.So each respective remaining can is holding 200/290 = 14/82 litersThe answer is 14/82 liters.question:#
+
+So there are 290 - (10 x 8) = 10 x 8 = 80 cansThe 80 cans can hold 80 x 8 = 640 liters,  so each remaining can holds 10 liters.The answer is 10 liters.question:#
+
+610 liters of oil are in all the cans, so each remaining can must have 610-24*10 = 19 liters of oilThe answer is 19.question:#
+
+8+10+210=290*10/24=8/10 of one can=2 cansThe rest of the cans are each 8 liters.The answer is 2+18 = 20 liters.question:#
+
+The amount of oil each can has is 290/24. Divide 21 by this amount. 21 divided by 290/24 =.748 liters,.748 liters / 8 liters =.95 cans.".95 cans means.95 is about 97/9, a little too large, write it as 7 and a half can.Each of the remaining cans needs 7 and a half liters hence 7.5 liters * 10 cans = 75 litersThe total is 7.5 liters * 10 cans + 8 liters * 10 cans =75 liters + 80 = 145 litersThe answer is 145 liters.question:#
+
+Peter shows us that in 100 cans there is 100 liters and if we have 10 cans for 8 liters than we have: 8 * 10 = 80 liters, and we still have 190 liters.The remaining 20 cans are holding 20 * 10 = 200 liters.The answer is 200.#
+
+There are 6 x 8 = 48 liters in 10 can.48 -10 = 38 liters in 10 cans.Remaining total is 290 / 38 = 8.3 cans (all the cans in this picture do try not to touch each other)It means there are 8.3% less cans than oil...cans = total / (Total 10 cans – Total 8 cans) x 0.8In this example, 0.8 is 8% remainder8.3 = (290 / (24 * 8)) x 0.83 cansThe answer is 8.3 cans.The answer is 8.#
+

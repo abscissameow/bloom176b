@@ -1,0 +1,20 @@
+When she goes out, Nancy leaves half of the contents in the aquarium.The halfway filled aquarium contains half the overall volume - 1/4 the overall volumeSince it's 4 x 6 x 3 cubic feet, she has 4 x 6 x 3 / ¼ = 96/4 = 24 cubic feet leftWhen Nancy gets back, then she triples the amount of water - 6 times the amount of waterSince it's 4 x 6 x 3 cubic feet, she has 4 x 6 x 3 / 6 = 24 cubic feet, so she adds 96 - 24 times 24 = 576Now, she needs to add 576 - 24 = 52 cubic feet of water to fill it up, which is 52 x ¼ = 52 / 4 = 13 ¼ cftThe answer is 13 25 cubic feet.question:#
+
+Nope, ended up getting wrong answer hereWhoops! See the video hereWatch here. If#
+
+There were originally 16 cubic feet of water.The first half of the water was spilled, so that makes 8 cubic feet.The second half of the water was triple the amount of water that was originally in the aquariumSo 3 * 8 = 24 cubic feetThe original amount was 16.24 + 16 = 40.4/4 = 10 cubic feetThe new amount is 40 cubic feet, but how many for Nancy's aquarium?Answer: 10.question:#
+
+Start it off with how many feet she has her aquarium: 4 feet long, 6 feet wide, and 3 feet highLet's pretend it is a big, flat box: 4 inches wide, 6 inches tall, and 3 inches deepCombined, we have: 4*6*3 in sWe can see that the previous area size (in square inches) is equal to the box area size (in cubic inches) now. We can use this area size and x, where x is what is going to be how many cubic feet placed in water, to determine the answer:weight of water = 4.2#
+
+The cat spills half the water in the aquarium, so there was an equal amount of water before spilling (the other half), which calculated results:  (3 x 4 x 6) +  (3 x 4 x 6)/2 = 96 + 48 ft.3 ft. = 15 ft. x 2 ft. = 30 ft. + 10 ft. = 40 ft.96 - 36 ft. = 60 cubic feet. answer is 60.question:#
+
+Nancy goes to the door and her cat knocks the aquarium over. Your problem isn't really about this problem, but a way to calculate the amount of the aquarium that is filled.Using the info: the aquarium is 6 feet wide, 4 feet long, and 3 feet highThat means that the tank is 6 ft x 4 ft x 3 ft, which equals 2,400 cubic inches.The length, width, and depth are multiplied to find the volume of the tank. Using the Aquarium coefficients, or dl x w x h = volume.The volume, 2,400 cubic inches is divided by 1,728 which is the conversion factor. The amount in cubic feet is 2,400 / 1,728 = 1.5 cubic footThe answer is 1.5 pints.#
+
+Half of the total space minus the extra water is the same as the before-you-knock-the-aquarium-over Let us call that y! Half of that, ÷ 2, gets you y! Now water that you've added, triple all that water, / 3. Divided by two dimensions, you have z.  So basically you have y/2 - y + (triple y) / 2, which gets you, y/2 + 2y = z.Lets find out where I am. If I don't screw up, y / 2 = 3 / 2, settles it. Solve for y, 2 = 3, y = 6. So amount of water that is in the California is two feet wide by six feet long times two feet high, that's 12 squares. Two this is 6. This times 3 / 2, this is 2, divided by two dimensions here are 12.So 24, 48, the answer is 24.question:#
+
+Nancy started with an aquarium that is 4 feet long, 6 feet wide, and 3 feet high. After starting to fill it, the long side will be 4 x 4 + 3 = 11 feet longWater filled in and spilled out 11 + 1/2 x 11 = 22 or 2 feet long22 x 6 = 132 or 1 foot wide132 x 3 = 408 or 8/12 of a foot deepSo 408 x 1 x 6 = 835 cubic feet of water is left in the aquarium.Nancy splashes 3 x 2 x 6 = 72 cubic feet of water.72 + 835 = 1003 cubic feet of water are left in the aquarium.The answer is 1003.question:#
+
+halfway: 1/2 =.5 or 25 percent water spilt: 1/2 *.5 *.25 = 1/16 of the water is still left.So 1/4 * 0.75 (.25 * 1.75 = 0.375) of the water is filled now it is 11.25 lt.Therefore, 0.375 * 11.25 = 4.087 Thus it has 4.087 cubic feet of water(0.375 X 4 X 6 X 3 = 4.0875)The answer is 4.087.question:#
+
+24*3*(4*"1/3) = 24*3*4 = 288 cubic inchesOf course it's in literal cords of water. So how many cords?let's convert inches to cubic inches per square inch 10 cubin: 259,200 acabamos259.200/25.96=1.787,042 cordsSo there are likely 1.8 cords of waterThe answer is 1.8 cords#
+

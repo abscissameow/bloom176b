@@ -1,0 +1,22 @@
+Since Red’s order was 2 large pizzas and 2 small pizzas, you must multiply the number of slices per pizza by the number of large and small pizzas and then add the number of slices in the sum.Large pizza= 16 + 2 (X) = 16 + 16 = 32 small pizza= 4 + 2 (X) = 4 + 4 = 8 Polish their 32 + 4 (X) = 32 + 32 = 64 slices of pizza.Because there are 64 slices of pizza and the question appeared to be asking how many he could consume in one day, while coining that he ate all of the pizza, he still ate 64 – 16 = 48 pieces of pizza which is 2 slices per piece.The answer is 48.question:#
+
+We allocate a pizza a whole number sheet slices as 8, 16, 24, 32 and 16.We begin by performing l's have 8-pieces each, s' have 16-pieces each and L's and S's have 64 pieces total.We will then look at the total number of pieces needed to eat l's only, S's only, L's and S's combined. l's have 4*8=32, S's have 16*2=32, L and S's have 32 + 32 = 64.We initially starred in a total of 64, which worked out well, as something had to be 64.The answer is 12.
+Solution : Problem 1:
+The#
+
+16 + 8 = 24 slices per pizza2 pizzas + 2 pizzas + 24 slices total = 48 slices per day48 slices / number of serve – how many servings would 48 slices There are 48 slices / 4 slices = 12 servings/12 servings = 1.0 servingsEach large pizza has 16 slices and a small pizza has 8 slices. The pizza is 2 pizza + 2 pizza + pizza parts. This makes a total of 48 slices on 12 pizzas each day. The answer is.question#
+
+For a large pizza, Albert eats 16 slices =16 slices.(*2) Large pizza + 2 ^ 2 The small pizza + the small pizza = 2 Large pizza + the small pizza =  the small pizza = 1 ^ 2  large pizza + large pizza = 5  whole large pizza =  small pizza = 8  Large pizza = 2The answer is 120.question:#
+
+The answer is 32.question:#
+
+The number of slices in a large pizza × 2 = 16 × 2 = 32 the number of large pizzas bacon.The number of slices in a small pizza × 2 = 8 × 2 = 16 the number of small pizza in a bacon.A large pizza has 16 slices.A small pizza has 8 slices.By multiplication table 10 × 10, the number of slices of large pizza is 16 × 10 = 160 in a pizza 10 × the number is 1/100 = 160/8 = 20 slices in a small pizza.A large pizza has 160 slices.A small pizza has 20 slices.Therefore, if Albert eats all of the pizza, he will eat 20 slices in a large pizza and 20 slices + 160 slices + 20 slices = 160 + 200 = 360 If all pieces are eaten.If there are 160 slices.The answer is 360.The answer is 360.question:#
+
+The total number of slices + the total number of pizza's he bought = the number of pieces he can eat.Large Pizza: 16 slicesSmall Pizza: 8 slicesTotal slices of all large pizzas: 2 * 16 = 32Total slices of all the small pizzas: 2 * 8 = 16Total slices of all pizzas = 32 + 16 = 48.So the total number of pizza pieces he can eat is 12 * 48 = 576 piecesThe answer is 576.question:#
+
+Albert eats 2 large pizzas: 2*16=32 slices. divided by 2 large pizzas= 16 32= 4 slices per large pizza2 small pizzas: 2*8=16 slices divided by 2 small pizzas = 8 16 = 4 slices per small pizza16 slices divided by 4= 4 slicesNow, Albert eats 1 large pizza+4 slices for a total of 5 slices and 4 small pizzas which equals 20 slices.16 + 4=20 divided by 40 = 5.2 slices leftLets let x = 2 slices leftAlbert eats 16+2 = 18 x slices Albert eats 18 - 18 = 0 slicesAlbert eats 2x slices on. So, he eats twice as much as large pizza.The answer is 2x.question:#
+
+A large pizza has 16 slicesA small pizza has 8 slices1 large pizza = 16 small pizzas1 small pizza = 8 large pizzasSo he will eat 2 small pizzas on one day2 small pizzas = 2 x 8 = 16Sames goes for the large pizza2 large pizzas = 2 x 16 = 3216 + 32 = 48 cylindersThe answer is 48.question:#
+
+Divide total number of slices by number per pizza: 16 slices in large pizza / 2 large pizzas = 8 slices each in large pizzas 8 slices in small pizza / 2 small pizzas = 4 slice each in small pizzasThe total number of slices is 16+8+4= 28.Albert can eat 28 / 4 = 7 large pizzas and 28 / 8 = 3 small pizzas.Albert can eat 7 + 3 = 10 pizzas today.The answer is 10.question:#
+

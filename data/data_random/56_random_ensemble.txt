@@ -1,0 +1,24 @@
+he took 25 minutes to do part one.  (25 minutes)2 times 25 is 50.The third part of the assignment is 25+1 50.The total time he'll take is 50+50 100.The answer is 20.question:#
+
+He took 25 minutes to finish one half of his assignment hours. He took a total of 25 * 2 = 50 minutes to finish his assignment.The second part is finished faster than the first.He must have spent twice as long to complete the second part, proving that his assignment took a total of 50 * 2 = 100 minutes to complete.The answer is 100 minutes.question:#
+
+w/eHe first did part one in 25 minutesPart two with took him twice as long=>75 minutesPart three was done in 75 minutes*2 = 150 minutes2 whole hours = 60 minutesSo he did part three of the assignment in 60 minutes.The answer is 601.question:#
+
+Total time taken for all the three parts, T, is 2 hours.The second part alone takes T/2, and so the third part takes T - T/2 = T*(3-2) = = T.55  = 75 minutes.The first part takes T-1, and so the second part takes T - T-1 = T*(3-1) =  = T.55  = 75 minutes.The answer is 75. question select from the drop down box to select the level of#
+
+If one part of his assignment took 25 minutes then, the two parts of his assignment would take 2 x 25 = 50 minutes.It would take him twice as long to finish the second part.Therefore, it would take him 2 x 50 = 100 minutes.He was able to finish his assignment in 2 hours.He finished his assignment in 2 hours - 100 minutes = 1 hour 40 minutes.The answer is 1 hour 40 minutes.question:#
+
+The first part can be done in 25 minutes, so 25 minutes. The second part can be done in 50 minutes, so the second part can be done in (50/25)=2 times longer. The third part takes 1 hour, so it takes 1 hour (dp: 25/50).Thus the third part takes 50 minutes.The answer is 50.question:#
+
+begin{align}
+\text{Time for first part} &= 25 \text{ minutes}\\
+\text{Time for second part} &= 50 \text{ minutes}
+\end{align}
+Therefore, the third part of Leo's assignment took him 2 - 25 = 47 minutes.The answer is 47 minutes.question:#
+
+d   .25 * d = d *.5 * d = d * 2d = 2The answer is 100.question:#
+
+For the first part, 25 / 2 = 12.5 minutes are completed.Similarly, for the second part, 25 / 2 = 12.5 minutes are completed.  Therefore, 6.25 hours are remaining for the third task.6.25 / 60 = 8 minutes are completed.The question remains 7.25 hours. 7.25 / 60 = 13.5 minutes = a minute more than task 3.So, Leo completes the third part before 13 minutes after time 2 (2: 13) hours.Removing an hour from 2: 13 will give the outcome as 4: 13.The answer is 4: 13.question:#
+
+So 20 minutes into Leo's first part of his assignment, he saw that he needed 10 additional minutes. His first and second parts of his assignment took 25 minutes and 50 minutes respectively.Assuming Leo had 30 minutes of work to do, how much time did Leß take to complete each of the parts of his assignment? 30 / 20 = 1.5, meaning he spent 15 minutes and needed 10 minutesSo that meant his third part of his assignment took 15 + 10 = 25 minutesThe answer is 25.question:#
+

@@ -1,0 +1,20 @@
+By selling for just $3 per pound, John is selling the cow for a total of $1500.  However, the cow is heavy, so he can sell it for a higher price right now.  Lets say for argument's sake the cow is worth an average price of $3.50 per pound.  That means that its earnings would be $3.50 * (1.5 * 400) = $1550.This means that it is now worth $1550.  So, it has gained $150.50The answer is $150.50.Question set 1Answer set 1Question set 2Answer set#
+
+John’s Cow: 400 pounds (Start)  Weight increase: 1.5 times  Value: $3 per poundInitial value: $400Current value:  $400 (Start) 1.5 = $600Raised (Value Current - Value Initial ): $600 - $400 = $200The answer is $200.question:#
+
+The cow added weight is 1.5 times the starting weight 400 pounds + 1.5 x 400 pounds = 850 poundsThe cow is selling for $3 per pound850 pounds / 3 poundsX dollarsSo it is worth (3*850) * 1.33 dollarsThe answer is 1175.question#
+
+If we call John's starting weight x, then the cow’s starting weight is one-fifth times x, or x/5.The cow’s ending weight is 1.5*(x/5).The unit here is pounds, so the price will be $3 * pounds.  So, what is $3*(1.5 * x/5)?Multiplying both sides by 1.5, we get $3*(1.5 * x)/5 = $150$The answer is 150 x.University#
+
+The cow is therefore worth 400 grams * 3 / 1.5 = 1000 grams + 400 grams = 1400 gramsThe answer is 1400 grams.note: For our next addition to this section, we are#
+
+$3 pounds * 1.5x = $6.0$ pounds so it's now worth $600.The answer is 600.question:#
+
+x 3 =.75 pounds.If the cow was sold for $3 per pound, how much would it be worth? cents, or 3 cents.John's cow increased its weight 350%.The cow was worth 1315 cent = ≈$13.16.The answer is $13.16#
+
+If the new weight is 1.5 times the starting weight, then the new weight is 1.5*4 = 6.5 times the starting weight. (A weight of 400 is 4 pounds).He is selling the cow for $3 per pound, so the money the cow will sell for is $3*6.5 = $20.50.He is now selling the cow for $20.50 more than if it was weighing 400 pounds.The answer is $20.50.question:#
+
+The cow weighs 1.5 times its starting weight300 pounds 1.5 = 450 poundsThe price per pound is $3, so John made $450.  The total increase in value is $450-3*400 = $50, so the cow is worth $50 more.The initial weight is 400 pounds multiplied by $3 = $600, and now it has 450 pounds multiplied by $3 = $1,150, so $50/1,150 = 0.004 more.The answer is 4.question:#
+
+His cow has 400 / 1.5 = 250 poundsHe is able to sell it for $3 per pound, which means (250*10)*3=$1500So it goes up from 400 pounds to 2000 + $150= $1800It is worth 1800.The answer is 1800.question:#
+

@@ -1,0 +1,20 @@
+Half as many = 30 / 2 = 15 applesTim has 30 less apples than Martha, so  30 - 15 = 15 applesHarry has 15 apples, so Tim has 30 apples and Harry has 15 apples, making 68 the total.The answer is 15.question:#
+
+calculation: Martha has 30 fewer apples than Tim, which means that Tim has 30 apples + 10 apples = 40 apples.Tim has 30 fewer apples than Martha, so if the apples of Martha are 68, the apples of Tim are 68 + 30 = 98 apples.Harry has half of the apples that Tim has, so Harry's apples are 98/.5 = 196 applesThe answer is 196.#
+
+Martha has 68 apples and Harry has  Tim (3 apples) +  Martha (68 apples) -  Tim (30 apples) =  68 applesAnd Harry has half as many apples as Tim so Harry has 30/12 = 2 applesHarry has (2 apples) + (68 apples) -  (3 apples) =  30 applesHarry has 30 apples and 68 apples - 30 apples =  30 applesThe answer is 30.question:#
+
+If Martha has 68 apples, and Harry has half as many apples as Martha, he would have 70 = 68 * (1/2) apples.Harry would have 30 less apples than Martha, so he would have 68 – 30 = 38 apples.The answer is 38.question:#
+
+----------- 68 / 2 = 35 applesHarry has half as many apples as Tim, so 35 apples is half of 68 apples.The answer is 35.#
+
+68 = 30 + 18Harry has 30- 30 apples, which makes him have 0 apples.Tim has 30 - 30 apples, which makes him have 0 apples.Martha has 30 - 30 apples, which makes her have 0 apples.So Paula has 68 apples.The answer is 68 apples.#
+
+But Martha has 68 applesHarry has 30 - 30 = 0 applesHe has 68 - 0 = 68 applesThe answer is 68.question:#
+
+If twice as many are equal to 10 more applesTim has 10 less apples than Martha, so Tim has 20 fewer apples than twice as many, which is HarryThus, Harry has 68 - 20 = 48 apples, but he has half of Tim, so he only has half of that 48 (48/2 = 24). The question wanted the total number of apples Harry has, so the answer is 24 + 48 = 72 fruits.The answer is 72.question:#
+
+If Martha has 68 apples, then Harry has 68 * 2/3 = 56 applesHarry has 30 less apples than Tim and Tim has 30 less than Martha, so Martha has 68 apples and Harry has 68 * 2/3 = 56 apples.This means that Tim has 68 * 1/3 = 43 apples.Tim has 30 less apples than Martha, so Martha has 68 apples and Tim has 30 apples so (68 + 30 = 98) x 1/3 = 32 apples.The answer is 32.question:#
+
+Martha has more than Tim. Therefore, subtract Mary's number from Tim's: Mary has  30 more than Tim.Martha has  20 more apples than Harry.36 apples in total. There are 20 different ways to choose 3 apples out of 36.There are 36 different ways to choose 2 apples out of 36.The probability that each of them gets 3 apples chosen from 36 apples is: 36 / 20.answer is split screensplit screensplit screensplit screensplit screensplit screensplit screenssplit screensplit screensplit screensplit screensplit screenslotterieslotterieslotterieslotterieslotterieslotterieslotteriesMathematicsdictionarydictionarydictionarydictionarydictionarydictionarydictionaryask EdictwebsitewebsitewebsitewebsitewebsitewebsiteEdictMathematicsmagic math magic mathmagic mathmagic#
+

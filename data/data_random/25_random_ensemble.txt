@@ -1,0 +1,20 @@
+Ralph must hit 100 balls. Since 2/5 of the first 100 balls do not have the tennis ball machine loaded with 175 tennis balls to start with. $175 = 100 = 100$  Ralph not hit 100 - 175 = - 25$Ralph must hit 100 balls. Since 1/3 of the next 75 balls do not have Ralph first hits 75. $100 = 0.25 = 0.25$  Since  $175 = 2 * 75 = 150 $  Ralph not hit 0 $\neg$ 25 =$150 - 175 = - 20$Ralph must hit 100 balls. Since 0.2 of the total balls that were not hit out of $175 balls is $80.$ $175 = 100 = 100$  which represents one-half of the balls to the sum total balls to be hit.$175 = 75 + 100 = 600$  Ralph not hit 105 $175 = 125 = 125$The answer is 105.question:#
+
+175 is all the balls there are to start with.100-4*5 =100 - 40 = 60 of the first 5 groups were hit.75-4*3 = 75 - 36 = 39 of the second 5 were hit.All the balls together =175 + 30 = 195.155/195-ball did not hit.The answer is 155/195.question:#
+
+The machine was loaded with crosswise balls totaling 175 balls i.e. 100+75=175Now, Ralph hit 2/5 of the first set of 100 balls and 1/3 of the second set of 75 balls. Thus, 2/5 x 100 = 40 balls and 1/3 x 75 = 21 balls means that 46 balls in total were hit.Hence 46 + 9 balls in cracks = 55 balls were not hit, which is the correct answer.question:#
+
+Out of the first 100 balls, Ralph missed 100- (125 / 5) = 20 balls.Out of the next 75 balls, Ralph missed 75- (225 / 3) = 45 balls.So in all, Ralph missed 100+75 = $175.The answer is 175.question:#
+
+Out of the first 100 balls, he manages to hit 2/5 of them.This is 2/5 of 100 balls = 20 onesOut of all the tennis balls, how many did he not hit.That is 2/5 + 1/3 = 4/3 of the balls he did not hitThis is 1/4 of the total number of balls that he missed hittingSo 1/4 + 2/5 = 11/20 of the balls he did not hitThe answer is 20 + 20 = 40 tennis balls he did not hit.The#
+
+First, Ralph will hit 100 x 2/5 = 200 balls, then he will hit 75 x 1/3 = 150 balls.So, Ralph will hit 225 balls, meaning that there will be 125 balls left, and those were the ones he didn't hit.The answer is 125.question:#
+
+One hundred balls  -> 2 x 20 = 40Two fifths of one hundreth of 5 balls = 2 hundreths of 5 ballsSo one hundred balls in total was [2 x 20 + 1].  Method of addition with reomementSo the first 100 balls were 40 balls on total.The second half has 75 ballsThe 75 balls total is 30 ballsBecause [40 + 30] = [80 balls + 60 balls] in total.80 x.2 = 160*.1*.3=40The answer is 40 tennis balls that out if a total of 175 balls.The answer#
+
+We first calculate the number of unhit tennis balls: 1/5 + 1/3 = 4/15.In the number of tennis balls loaded, you have to subtract the number of tennis balls scored.In total, 170 balls are loaded  and you managed to hit (2/5) 100 + (1/3) 75 = 170 - (1/5) 100 - (1/3) 75 = 179 out of the balls loaded, leaving a total of (4) 4ths missing. The total amount unhit is 4/15 x 179 = 70 tennis balls.The answer is 70.question:#
+
+175 + 100 + 75 = 300Out of 100 he hits 50, so misses: 100 - 50 = 50Out of 75 he hits 37, so misses: 75 - 37 = 38Out of 300 he misses 38 x 2 + 50 = 98The answer is 98.question:#
+
+Out of the first 100 balls, he managed to hit 2/5 of them. The percentage can be calculated as 100 x 2/5 = 100 x 40/60= 0.4In which case skipping the rest of the explanation,16/3 can be simplified down to 16/66=3/4In which case skipping the rest of the explanation above=3/4 the remaining 75 tennis balls2 - 3/4 x 75 = 100 - 2 -5 x 100 = 50 - 150In which case skipping to the bottom of the explanation=75+50-150= Ha Hanote: The answer is 150 out of the 175 tennis balls. The tennis balls that Ralph didn't hit came out of the machine.question:#
+

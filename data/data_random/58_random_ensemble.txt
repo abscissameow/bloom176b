@@ -1,0 +1,22 @@
+To calculate the daily average allowance for each student, take the total cash and divide it by the total number of students.  There are 60 students, so 60 x $6 = $360Each student gets $360 / 60 = $6The amount given away in the survey is $360 + 25.8 * $4 = 364.8So the amount my middle school student gets is $6 + 364.8 = $375.8The answer is $375.8.question:#
+
+There are 60 x 2/3 x $6 = 216 kids that are $6.Caution:The last statement should be: 60 x (2/3)$ For the 60 students that are $4$ dollars a day.Add up they have $216 + 60 x (2/3) x 4 = 384 + 40 = 416.This is "Per problem + Solution". This question presents the problems and their solutions to 5 Random problems theorists. None of the problems have been answered even by a single person, and no solutions have been posted yet. Take the differences from the sum of probability of problems being answered by now.#
+
+1/2 of the students gets an average of $4, so the total spent on those students is 60*1/4 = $20.The other 1/2 of the students gets $6 per each day, so the total spent on them is 60*1/2 = $30.So the total allowance is 20+30 = $50.The answer is 50.question:#
+
+Of the 60 students surveyed, {10} students receive $4amax per day. Of the 60 students surveyed, {30} students receive $6amax / 2 = $3.5 per day.If the 30 students with an average of $4 a day get an average of $6, the other 30 students with an average of $6 a day gets an average of $3.5.Therefore, of the 60 students surveyed, {30} students receive $6 a day ($3.5 + $3.5 + $3.5 + $3.5 + $3.5 + $3.5 + $3.5 = $18.75).The remaining 30 students with an average of $4 a day get (1/3 x $3.5) + (2 x $6) = $2.5 + $18.75 = $20.25.Therefore, the total is $30 + $30 + $30 = $90The answer is 90.question:#
+
+$20 x 2/3 = $13.3.$4 x 1/3 = $1.1,Therefore, the total sum of money the 60 students gets in a day$13.3 + 1.1 + 20 = 23.3$The answer is 23.3.question:#
+
+In a day, 60 students get $200.200/(2/3*60) = $30 or 200/(3*60) = $60.Therefore, the average amount is $60 a day, and the total amount is 60 * $60 = $3600 a day.The answer is $3600.question:#
+
+Let x be the daily allowanceThe average allowance for the 2/3 students is 4×6÷2=12$3 for the remaining 1/3 studentsThe total allowance for 60 students is6x+4x+12=72x+24=120x
+QUOTATION: By John Archdall MacGregor, from "The National Photographic Newslight," Dec. 29, 1898.
+Explanation: Zem would have been born within a month of Harrow 1949.  No date was printed on the first part of this 1880 newspaper photograph, which focused on Sir Joseph Gough, who was knighted by Queen Victoria in 1895.  Harrow 1950 is from page 222 of Harrow Latin School, Photographic Record by James Waitley; published by the Harrow Education Committee in September 1951.  From this I assumed 1952, but I am not sure why I thought this, if it was an educated guess.  As for#
+
+the cost for 4 daysHe needs to pay 300 * 4 = 120So 12 * 60 = 720So the total cost is 720The answer is 720.question:#
+
+There are 60 / 6 = 10 students receiving $6 a day.There are 10 * 6 = 60 students in total. hence, 10 * $6 = $60The rest (40 students) receive $4 a day.Hence, $160 – $60 = $100 in a day from the 40students in total.Therefore, 100/7days = $1428 a week.70amis calculated due to this rate: Studentsreceive1428$studentsweekThere are 106 / 7 days = $142 a day and 360/7weeks =$52 a week in a year. Therefore, $142 + $52 = $202 a year.The answer is 202.question:#
+
+The average income of the students is: 2/3 * $6 + 1/3 * $4 = (2/3 * 6) + (1/3 * 4) = 12 dollars5 * 60 = 300 dollarsTotal income = 12 dollars + 300 = 312 dollarsThe answer is 312 dollars.question:#
+

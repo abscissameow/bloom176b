@@ -1,0 +1,21 @@
+Carl took away 4, so there now are T-2 (T = total) * 4 - 4 = 10 leftThe colors left are 10 pink, 22 green and 24 yellow since EVERY hard hat is either pink or green or yellowThere are 10 pink and 10 green and 10 yellowBecause John took away 6 pink and more than twice the number of green, he took away more than 12 students, or the number having both pink and greenSo on "There are 6 pink + 6 greenLet the superscript letters (a,b,c) denote the number of each hard hats taken away. So a,b, and c are all greater than zero and the sum of their numbers is 6Now, 10 - a > 10 - b + 6 > 10 - a + 6, which means there are 10 more green (rather than pink) hats removed than yellow hats removed. That gives 1 green hat remaining, and 10 - a + b yellow hats remaining - like M and#
+
+4 pink hard hats - 6 green hard hatsPepple pinks + pepple greens + pepple yellows = 26 + 15 + 24 = 71  (all yellows gone)Pepple pinks + pepple greens + pepple yellows = 5 + 7 + 28 = 40 (6 yellows and 4 greens are gone)Total = 7 + 28 = 35 - number of hats is 35The answer is 35.question:#
+
+Assume Pink=Ph, Yellow=Yh, Green=Gh, Default = Dh:  Carl takes away 4*Ph = 4*Pink hard hats.  John takes away 2 *Pink hard hats and 6 * Green hard hats.  Then the total number of the hard hats he-remained was: (D-(4*P + 2*G)) = Y + (G * 2 - P) = 26 + 24h - 4*Phat answer: Left were 26pink hats + 8 yellow hard hats + (until) only 5 green hard hats.
+With all this information take#
+
+Currently there are 26 pink hard hats, 15 green hard hats, and 11 yellow hard hats.Carl takes away 4 pink hard hats, so there are now 26 - 4 = 12 pink hard hats.John takes away 6 pink hard hats and twice as many green hard hats as the number of pink hard hats that John removed.After Carl and John took away these hard hats, there are now 12+6+24 = 40 hard hats left in the truck.The answer is 40. ধন্যবাদলেখা শ্রাবণী দারতারিখঃ  ০#
+
+Before removing the pink hats:  Total = 52 + 15 + 24 = 81 hatsThe 4 pink hard hats removed equals 20% of 81 hats.  The number removed are 81 x 20% = 17 hatsAfter removing the 4 pink hats, the remaining hats are 81 - 17 = 63 hats. The number removed times 2 is 17 + 17 = 34.  In other words, the number of green hats is 34 + 63 = 91.  In other words, the number of green hats/yellow hats is 91 + 63 = 148 remaining.  This is the number of green hats left in the cube.The 63 remaining hats are divided by the colors.  For the remaining total, 63 + 24 = 91 remaining divided by 3 colors which is 91 / 3 = 30 And so, the number of hard hats remaining is 91 / 2 = 45 hatsThe answer is 45.question:#
+
+Since we know Carl took at least 4 pink hard hats, the total number of pink hard hats can be between 18 and 4 subtracted by 4: 18-4= 14The number of green hard hats can be between: 9 + 2x(14-4) or 9 + 14 = 23Knowing the total numbers of pink hard hats and green hard hats, we can get the total number of hard hats, which is: = 26 + 15 + 23 = 60The answer is 60.question:#
+
+The original number of hard hats is 26 + 15 + 24 = 59.Carl took away 4 pink hard hats, so there are 10 left after the equation is solved.John took away 6 pink hard hats, so there are 10 remaining.He took away 2 green hard hats, so there are 8 remaining.So, 109 - 10 + 8 = 97 hard hats remained in the truck.The answer is 97.question:#
+
+Let A be the number of pink hard hats and B be the number of green hard hats.Carl removed 4 pink hard hats.What we know is 26 + 15 + 24 = 57.Carl must have removed 4 of 26 pink hard hats.26 − 4 = 22 orange hats remain.The number of green hard hats is the number of pink ones subtracted by 2.15 − 4 = 11 green hats remain.All together there are 22 orange hats and 11 green hats which add together = 33 hard hats remain.The answer is 33.question#
+
+26 + 15 + 24 = 59 total hats. - 4 + 6 = 10 total hatsCarl removed 4 pink hatsCarl removed 2 green hatsJohn removed 6 pink hats - 4 green hatsIn total, 10 pink hats and 5 green hats remained in the truck.The answer is 10 + 5 = 15.question:#
+
+Carl takes away 4 pink hard hats + John takes away (2*6 = 12) pink hard hatsThe first number is the total number of pink hard hats taken away 20 - 4 = 16The second number is the total number of pink hard hats + the number of green hard hats that John takes away (12 + 6)The results are added together to calculate the total number of hard hats 40 + 16 = 56The answer is 56.question:#
+

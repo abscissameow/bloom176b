@@ -1,0 +1,34 @@
+If the sticker price was $40 x 12 = $480, this gives 48%, so  ($40 - $240)* 40% = $6The original sticker price was $40 + $6 = $46The answer is 46 dollarsquestion: If there are 4 students in each class in a school and the principal is going to cut the class size in half, how many classrooms should he expect to have?answer: There will be 2 students per class since 4 / 2 = 2He will have 4 classrooms because 2 x 4 = 8The answer is 8 classrooms.question:#
+
+12 tickets @ $40 = $480 - 10% of the $12 - 28% discount. Can do via:480*(1 -.10) = $400 *.90 = $360The answer is $360.question:#
+
+If 6 tickets were bought for $40, the total amount would be $240.A 5% discount is given on every ticket bought that exceeds 10 so $40 - 5%*($40 - $10) = $35$35 is the total amount Mr. Benson needs to payThe answer is $35 in total.Shall we answer them all? Three remaining puzzles are here below:•#
+
+Mr. Benson bought 12 tickets. 12 x $40 = $480Two tickets cost $40. 2 * $40 = $80 For 12 tickets, he paid an extra $480An answer is $480.question:#
+
+This is a case of multiplication by a fractional number. To multiply Mr. Benson's cost by 5%, we can add 5% of his cost. We can do this by multiplying 10% of his cost by itself 4 times: {(0.10 * 0.10 * 0.10 * 0.10 * 0.10 * 0.10 * 0.10 * 0.10 * 0.10 * 0.10)} = 1 * 2 * 3 * 4 * 5 * 6 * 7 * 8 * 9 * 10$40 * (1 * 2 * 3 * 4 * 5 * 6 * 7 * 8 * 9 * 10 / 10) = $40 * 6.66 = $266.6.The answer is $266.6.question:#
+
+12*.95 = 11.20$in totalMr. Benson's total paid is $40.11.20= 111.2$The answer is $111.2%0%0%1%10%#
+
+Bought*t = ticket at original price * ticket number = $40 * 12 = $480 (no discount in this case)Paid*t = ticket at new price * ticket number = (1 - (5/20) ) * $480 = (1 - 0.25) * $480 = $375 (since no discount in this case)So, total price = $480 - $375 = $115 (having discount of 25 %)The answer is 115.ask: Find the percentage#
+
+We can see that 10 * 5% = 0, so there is a discount of 25 dollars on each ticket bought that exceeds 10.Each ticket cost 40 - 25 = $10, so the ticket that exceeds 10 costs $10 + $10 + $10 = $30.12 * 30 = 360, so Mr. Benson paid 360 * 12 = 4320 dollars.The answer is 4320.question:#
+
+Need to find all prices for 12-tier discountSo get discount of 1005 - 10 = 4. So 40% discount for 11, 12ticketsHe saved 12 x 40% =.48 x 12 = 5.72 on total tickets. SoFinal working cash: 4.48 + 40 = 44.48 = 48 rounded upThe answer is 48.question:#
+
+Solution is harder to track online try thesev world maths exams.Here is extremely cool sheet for whatever class you are in among millions:v Jitendra Kakaji Khanna is a maths whiz:v Songs UZMUSIC Video on:5 ways to graph in 2nd gradefor more interestingly fun math tutorials:www.YouTube.com/ صاحبه حسابه بمرگ مطلب فرا نهاده
+مجلوبة من "http://mawdoo3.com/index.php?title=حل_سؤال&oldid=627811"
+مواضيع ذات صلة بـ : حل سؤال
+حل المسألة الأخيرة في المنقلة
+كيفية حل تمرين المنقلة
+الأعداد الأولية أيهم أكثر في الكتاب
+comment faire operation sur 2 nombres
+devoir maths 2eme aire
+operatice maths 2eme triangle de pÊcano
+مواقع ترغبها
+فضيحة جديدة لترامب تثير سخرية متابعيها
+voter into the bin for Trump
+leaked Trump US Vogue photoshoot
+كتب مصورة باللغة العربية للأطفال
+أصدقكم القول#
+

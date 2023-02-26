@@ -1,0 +1,20 @@
+10% of 33 = 2 of them are yellow.2x 80% = 1.6 of them are purple.1.625% = 8 of them are purple, and 1.6 tons = 9 of them are yellow.20% of 33 = 6 of them are green.6X 25% = 6 of them are pink and 6 of them are green.The answer is 33.question:#
+
+Let purple = x and yellow = y.All options sum to 21, so 2x + 10y + 3z + 0w = 21 x + y + z + w = 21 Among the 21 flowers, there are 10 yellow flowers, which means 10 is equal to x: x = 10 y + z = 3, so 3 z = 21 - 10 - 3 = 8 w = 0Therefore, he has the following type of flowers: 10y  +  3x  + 8z + 0w = 21Taking note that 80% of purple is 3x, he have 3x = 3 x (1+0.8) x = 3 x 1.2 x = 3.2 giving 1.2x  = 3.2 x 3.2 x =  6.8x  =  7 x 8x  =  56x  =  70 yellow = 10 with 80% Purple = 3x + 3.2 x = 10x  =  10 So in all the flowers he has 7 Purple = 3.2 x =  6.8 x = 69 so in total he has 60 purple = 10 yellow= 10Green=1 with an average of 15 flowers per plant.The answer is 540 flowers.question:#
+
+Let x be the number of purple flowers, and y be the number of green flowers.So in total, there should be 10 * (1.2) + y *.25 = 10 * 1.2 + y.(10 * 1.2 + y).1 = 10 + y.So 10 + y = 0.1y = - 10y = -10 + y = 10So 10 | y or x = 10 + 10 = 10The answer is 10.question:#
+
+The total number of yellow flowers in Mark' garden is 10 x 10 = 100The total number of purple flowers is 10 x 80 = 800 green flowers are not counted.A yellow flower = 1 purple flower = 1 green flowers.The total number of flowers in Mark's garden is 100 + 800 + 100 = 1000FlowersFor a pink flower, the following examples apply:1 yellow flower = 1 purple flower = 0 green flowers.1 purple flower = 0 green flowers.1 yellow flower = 0 green flowers.Yellow flowers - 2 green flowers purple flowers - 2 flowers.Therefore the total number of flowers in Mark's garden is 1000 - 2% - 2=100 + 800 + 100 = 1000The answer is 1000.question:#
+
+of each color = 10 * purple + 10 * yellow + 10 * green = 60Plant pounds = flowers (all 20 = purple + yellow + green) = 20 flowersTotal plants = total flowers = 20 flowersFrom the Total Plant Pounds we can find the 20 flowers is 60 / 20 = 12 flowers given that a pound is equal to 1 flowerVegetables are 20 plants and therefore 12 flowers there are 108 flowers in the gardenThe answer is 108.question:#
+
+Yellow flowers = 10*20% = 2* Purple flowers = 5*80% = 4*More area is purple so purple areas are biggerThe answer is 4*10 = 40.question:#
+
+In purple flowers, there are 10/.8 *  3 =  18 Purple flowersThere are 10 /.20 *  3  =  3 Green Flowers + 18 purple flowers = 21 Purple/Green FlowersThere are 15 yellow flowers remaining in total There are 21 *.25 = 5.25 yellow flowers at the endThe number of total flowers is 30 yellow flowers, 21 purple/green flowers, and 5.25 yellow flowers. The answer is 30.question:#
+
+There are 10 yellow flowers,8 purple flowers, and 3 green flowers.Hence, there are a total of 15 flowers.There are 80% more purple flowers than yellow ones, so yellow flowers are 15*80% = 12 and purple flowers are 8.Therefore, the green flowers are 15 - 12-8 - 3 = 5 green flowers.There are 25% of fewer green flowers than yellow and purple flowers, so green flowers are 5*4 = 20 flowers.Hence, he has a total of 15 + 5 + 20 = 35 flowers in his garden.The answer is 35.#
+
+10 + (10 * 80%) = 20 purple plantsThen 10 / (10 + 20) = 0.25 which is 25% green flowers.Thus, there are 2 yellow and 2 purple / 4 = 6 plants greenBut 12 -4 = 8 plants empty = 0.25 fewer than flowers of the other colors.The answer is 6.question:#
+
+Mark has 185 plants (10 yellow, 80 purple, 10 green).  The yellow + purple + green is 10 + 80 + 10 = 100 plants.  He has 100 plants X 80% / 75% = 99.8 plants.Extract the 1.2 out of the 99.8 - that leaves 99.8 -1.2 = 98.6.  Divide 98.6 by 3, which will give you yours - 99.8 3 = 39.67.The answer is 196 + 6 = 200.question:#
+

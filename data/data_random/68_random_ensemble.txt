@@ -1,0 +1,20 @@
+Elsa has 10 coins for every 45 coins that Amalie has.The ratio is 10:45. So 10/45 = 0.22.Amalie spent 3/4 of what she has, so she spent 0.8 of the wholeSo, 0.22x 0.8 = 0.18 coins for Amalie.We know that the total coins previously is x + 0.18 = x + 70.18The number of remaining coins for Amalie is x = 275The answer is 275.#
+
+Let x be the number of coins Elsa has and y be the number of coins Amalie hasElsa has 10 coins x + 45 coins y = 440 coinsAmalie has 10 coins x + 45 coins y = 440 coinsElsa spends 3/4 of the money she has on toys which means 3/4 of x + 3/4 of y which would mean 7/10 of x + y = 26/5 = 6 coinsElsa spent 1 of her coins so x-1 = 59/4 = 16 coinsAmalie did not spend any money so let’s find how many coins Amalie hasAmalie has 16 coins16 coins x and 16 coins y = 16 (1 less than 60) coinsSo x = 60 and y = 1x + y = 61 80 80% of the 664 = 71 coins are spent on toys so there are 571 = 11 coins left for AmalieThe answer is 11.question:#
+
+The ratio of coins that Elsa has to that which Amalie has is 10:45.When Amalie spends 3/4 of what means she has in coins, that, Amalie doesn't have any coins leftThe amount of coins that Elsa has is 10 * 40 = $400The amount of coins that Elsa has is 45 * 40 = $1800The amount of coins that Elsa has is 400 + 1800 = 2400The amount of coins that Amalie has has a total of 2400 x.25 / 40 = 15 coinsShe will have 40 - 15 = $25 coinsWhen Amalie spends 3/4 of what means she has in coins, that, Amalie doesn't have any coins leftThe answer is 25.#
+
+We begin by converting the ratio to decimals to make it readable.3:4 = 0.75.Next we use the ratio to found the amount of coins that Amalie has, we do this by performing 440/0.75= 560.  Lastly we convert the coins into a reading by converting to the tenth.560/10 = 56.Therefore, Amalie has 56 coins.The answer is 56.question:#
+
+There are 90 coins because 45+4=9090/4=45 coins leftSo 90- 45 = 45 coins/50 coins leftSo 90/15=7 chips are leftThe answer is 45.question:#
+
+The equivalent ratio of coins is 10:45 since she spends 3/4 of her coins on toys.The number of coins Elsa has and Amalie has are (1) because she spends 3/4 of her coins on toys.Amalie spends 3/4 of what she has on toys = 150 coins.Hence, 150 / 3 = 50 coins is what will be left with her.The answer is 50.#
+
+The ratio of coins that Elsa has to those that Amalie has is  10:45..They have 440 coins.Therefore, Amalie have 440*.375=187.4 coins.Since 3/4 of 187.4 is 137.2, amount of coins that Elsa hasAmalie have a total of 187+137=434 coinsRemoved 3/4 of coins, Amalie will have 137 coinsThe answer is 434.question:#
+
+Elsa has 100 coins and Amalie has 80 coins.Amalie has 80 coins * 3/4 = 72 coins.The answer is 72. Coins that Elsa has: 100 Coins that Sammy has:#
+
+Elsa has 34 coins.Elsa's family has 45 coins.How many coins do they have? 45/34 = 1.25 times the number of coins Elsa has.  If you'll notice that over there there's a number, that's by Amalie's. So that's going to be multiplied by 1.25 just like that.  Let's see what is that number 1, 2, 3, 4 and 5.5 * 5 = 25  so the answer 25.  25* 1.25 = 30. So#
+
+f=90/160=3/5F=445x5  ff=3x5  f=345  ff=16x5  f=1645And f45+1f=8,0,0 0,0 0,9 0,ff 0,ff 0,351645  f=3580The answer is 3580.question:#
+
